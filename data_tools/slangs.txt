@@ -1,0 +1,100 @@
+cool|很棒；酷（非正式）|kul|adjective|2|赞赏|That is a cool idea.|那个想法很棒。
+awesome|棒极了（非正式）|ˈɔsəm|adjective|2|赞赏|The concert was awesome.|那场音乐会棒极了。
+chill|放松；冷静（非正式）|tʃɪl|verb|2|放松|I just want to chill at home.|我只想在家放松一下。
+chill out|放松；冷静下来（非正式）|tʃɪl aʊt|phrasal verb|2|放松|Let us chill out after work.|我们下班后放松一下吧。
+hang out|一起消磨时间（非正式）|hæŋ aʊt|phrasal verb|2|社交|Do you want to hang out this weekend?|你这周末想一起玩吗？
+hangry|饿得发脾气（非正式）|ˈhæŋɡri|adjective|3|情绪|I get hangry when I skip lunch.|不吃午饭时，我会饿得脾气暴躁。
+nope|不；不是（随意说法）|noʊp|interjection|2|回应|Nope, that is not my bag.|不是，那不是我的包。
+yep|是的（随意说法）|jɛp|interjection|2|回应|Yep, I am ready.|嗯，我准备好了。
+yeah|是的；嗯（非正式）|jæ|interjection|2|回应|Yeah, that sounds good.|嗯，听起来不错。
+nah|不；不用（随意说法）|nɑ|interjection|2|回应|Nah, I am not hungry.|不了，我不饿。
+gonna|将要（going to的口语写法）|ˈɡənə|informal contraction|2|口语缩略|I am gonna call you later.|我晚点会给你打电话。
+wanna|想要（want to的口语写法）|ˈwɑnə|informal contraction|2|口语缩略|Do you wanna get coffee?|你想去喝咖啡吗？
+gotta|得；必须（口语缩略）|ˈɡɑtə|informal contraction|2|口语缩略|I gotta go now.|我现在得走了。
+kinda|有点（kind of的口语写法）|ˈkaɪndə|adverb|2|口语缩略|I am kinda tired.|我有点累。
+sorta|有点（sort of的口语写法）|ˈsɔrtə|adverb|3|口语缩略|It is sorta hard to explain.|这有点难解释。
+lemme|让我（let me的口语写法）|ˈlɛmi|informal contraction|3|口语缩略|Lemme check my calendar.|让我看看日程表。
+gimme|给我（give me的口语写法）|ˈɡɪmi|informal contraction|3|口语缩略|Gimme a second to think.|给我一点时间想想。
+dunno|不知道（口语缩略）|dəˈnoʊ|informal contraction|3|口语缩略|I dunno where he went.|我不知道他去哪儿了。
+gotcha|明白了（非正式）|ˈɡɑtʃə|interjection|2|回应|Gotcha, I will send it tonight.|明白了，我今晚发过去。
+my bad|我的错（非正式）|maɪ bæd|interjection|2|道歉|My bad, I sent the wrong file.|我的错，我发错文件了。
+no worries|没关系；不用担心（非正式）|noʊ ˈwɜriz|interjection|2|回应|No worries, we can meet tomorrow.|没关系，我们可以明天见。
+no biggie|没什么大不了的（非正式）|noʊ ˈbɪɡi|interjection|3|回应|It is no biggie; we can fix it.|没什么大不了的，我们能修好。
+no sweat|没问题；小事一桩（非正式）|noʊ swɛt|interjection|3|回应|No sweat, I can help you move.|没问题，我可以帮你搬家。
+you bet|当然；没问题（非正式）|ju bɛt|interjection|2|回应|You bet, I would love to come.|当然，我很愿意来。
+for real|真的；不是开玩笑（非正式）|fər ril|adverb phrase|2|强调|Are you for real?|你是认真的吗？
+no way|不会吧；绝不（非正式）|noʊ weɪ|interjection|2|回应|No way, you won the prize!|不会吧，你中奖了！
+way to go|干得好（非正式）|weɪ tə ɡoʊ|interjection|2|鼓励|Way to go, you passed the test!|干得好，你通过考试了！
+you rock|你太棒了（非正式）|ju rɑk|clause|3|赞赏|Thanks for helping; you rock!|谢谢你的帮助，你太棒了！
+nailed it|做得很成功（非正式）|neɪld ɪt|verb phrase|2|赞赏|You nailed it in the interview.|你面试表现得非常出色。
+crushed it|表现极其出色（非正式）|krʌʃt ɪt|verb phrase|3|赞赏|Our team crushed it today.|我们团队今天表现极其出色。
+sweet|太好了；很棒（俚语）|swit|adjective / interjection|3|赞赏|Sweet, we got free tickets!|太好了，我们拿到了免费票！
+sick|酷毙了（俚语，非生病义）|sɪk|adjective|3|赞赏|That skateboard trick was sick.|那个滑板动作酷毙了。
+dope|很酷；很棒（俚语）|doʊp|adjective|3|赞赏|That is a dope jacket.|那件夹克很酷。
+lit|嗨翻了；很精彩（俚语）|lɪt|adjective|3|赞赏|The party was lit.|那场派对嗨翻了。
+fire|特别棒（俚语）|ˈfaɪər|adjective|3|赞赏|This new song is fire.|这首新歌太棒了。
+slay|表现惊艳（俚语）|sleɪ|verb|4|赞赏|You slay every time you perform.|你每次表演都很惊艳。
+GOAT|史上最佳（俚语缩写）|ɡoʊt|noun|3|赞赏|Fans call her the GOAT of tennis.|球迷们称她为网球史上最佳。
+MVP|最有价值的人；大功臣（非正式引申义）|ˌɛm vi ˈpi|noun|3|赞赏|You brought snacks; you are the MVP today.|你带了零食，今天你是大功臣。
+legend|大好人；牛人（非正式称赞）|ˈlɛdʒənd|noun|3|赞赏|You found my keys; you are a legend!|你找到了我的钥匙，太给力了！
+vibe|氛围；感觉（非正式）|vaɪb|noun|2|感受|This cafe has a relaxed vibe.|这家咖啡馆的氛围很轻松。
+vibes|氛围；给人的感觉（非正式）|vaɪbz|noun|3|感受|This room has cozy vibes.|这个房间给人温馨的感觉。
+low-key|有点；暗暗地（俚语）|ˌloʊ ˈki|adverb|3|感受|I am low-key excited about the trip.|我心里其实挺期待这次旅行。
+high-key|非常；毫不掩饰地（俚语）|ˌhaɪ ˈki|adverb|4|感受|I am high-key obsessed with this song.|我真的超级迷这首歌。
+salty|不爽；心怀不满（俚语）|ˈsɔlti|adjective|3|情绪|He is still salty about losing the game.|他还在为输掉比赛而不爽。
+savage|犀利无情的（俚语）|ˈsævɪdʒ|adjective|3|评价|That reply was savage.|那个回复真够犀利的。
+cringe|令人尴尬的（网络俚语）|krɪndʒ|adjective|3|评价|That old video is so cringe.|那个旧视频真让人尴尬。
+cringey|令人尴尬的（非正式）|ˈkrɪndʒi|adjective|3|评价|The forced joke was cringey.|那个生硬的笑话让人很尴尬。
+awkward|尴尬的（常见非正式用语）|ˈɔkwərd|adjective|2|感受|That silence was awkward.|那阵沉默很尴尬。
+extra|过于夸张的（俚语）|ˈɛkstrə|adjective|3|评价|A costume for a video call is a bit extra.|视频通话还穿戏服，有点太夸张了。
+basic|毫无个性的；俗套的（俚语，略贬义）|ˈbeɪsɪk|adjective|3|评价|They called my outfit basic, but I like it.|他们说我的穿搭很普通，但我喜欢。
+sus|可疑的（网络俚语）|sʌs|adjective|3|评价|That message looks sus.|那条消息看着很可疑。
+sketchy|可疑的；不靠谱的（非正式）|ˈskɛtʃi|adjective|3|评价|That website looks sketchy.|那个网站看着不靠谱。
+shady|不光明正大的；可疑的（非正式）|ˈʃeɪdi|adjective|3|评价|That deal sounds shady.|那笔交易听起来不太正当。
+legit|真的；靠谱的（非正式）|ləˈdʒɪt|adjective|2|评价|Is this ticket website legit?|这个购票网站靠谱吗？
+fake|虚伪的（非正式人物评价）|feɪk|adjective|3|评价|He seems friendly, but his smile feels fake.|他看起来友好，但笑容让人觉得虚伪。
+cheesy|俗气煽情的；老套的（非正式）|ˈtʃizi|adjective|3|评价|It is a cheesy movie, but I enjoy it.|这部电影很俗套，但我喜欢。
+corny|老套的；不好笑的（非正式）|ˈkɔrni|adjective|3|评价|Dad told another corny joke.|爸爸又讲了一个老掉牙的笑话。
+lame|差劲的；无聊的（俚语，贬义）|leɪm|adjective|3|评价|That is a lame excuse.|那个借口很差劲。
+bummer|令人失望的事（非正式）|ˈbʌmər|noun|3|失望|Missing the concert was a bummer.|错过音乐会真让人失望。
+bummed|失望沮丧的（非正式）|bʌmd|adjective|3|情绪|I am bummed that you cannot come.|你不能来，我很失望。
+stoked|非常兴奋的（俚语）|stoʊkt|adjective|3|情绪|I am stoked about the trip.|我对这次旅行兴奋极了。
+hyped|兴奋期待的（非正式）|haɪpt|adjective|3|情绪|We are hyped for the game.|我们对这场比赛满怀期待。
+pumped|兴奋的；干劲十足的（非正式）|pʌmpt|adjective|3|情绪|I am pumped for the race.|我对这场比赛充满干劲。
+freak out|惊慌；情绪失控（非正式）|frik aʊt|phrasal verb|2|情绪|Do not freak out; we have time.|别慌，我们还有时间。
+freaking|非常；真是（非正式加强语气）|ˈfrikɪŋ|adverb|3|强调|That was freaking amazing.|那真是太棒了。
+sucks|糟透了（俚语，较粗鲁）|sʌks|verb|2|抱怨|It sucks that the trip was canceled.|旅行取消了，真糟糕。
+crap|烂东西；废话（较粗鲁）|kræp|noun|3|抱怨|This cheap charger is crap.|这个便宜充电器真烂。
+damn|该死；哎呀（轻度粗话）|dæm|interjection|3|情绪|Damn, I missed the bus.|该死，我错过公交车了。
+pissed off|很生气（粗鲁用语）|pɪst ɔf|adjective phrase|3|情绪|He was pissed off about the delay.|他对延误很生气。
+broke|没钱的（非正式）|broʊk|adjective|2|金钱|I am broke until payday.|发薪日前我没钱了。
+bucks|美元；块钱（美式非正式）|bʌks|noun|2|金钱|It costs ten bucks.|它要十美元。
+grand|一千美元或英镑（非正式）|ɡrænd|noun|3|金钱|The repair cost two grand.|这次维修花了两千块钱。
+rip-off|宰客的东西或交易（非正式）|ˈrɪpˌɔf|noun|2|金钱|Twenty dollars for water is a rip-off.|一瓶水要二十美元，简直是宰客。
+freebie|赠品（非正式）|ˈfribi|noun|3|购物|The store gave me a freebie.|商店送了我一件赠品。
+gig|临时工作；演出（非正式）|ɡɪɡ|noun|2|工作|I got a weekend photography gig.|我接了一份周末的摄影活儿。
+side hustle|副业（非正式）|saɪd ˈhʌsəl|noun phrase|3|工作|Selling cakes is her side hustle.|卖蛋糕是她的副业。
+grind|辛苦重复的工作（非正式）|ɡraɪnd|noun|3|工作|I need a break from the daily grind.|我需要从日复一日的辛苦工作中休息一下。
+crash|倒头就睡；借宿（非正式）|kræʃ|verb|3|生活|Can I crash at your place tonight?|今晚我能在你那儿借宿吗？
+crash course|速成课（非正式）|ˈkræʃ ˌkɔrs|noun phrase|2|学习|I took a crash course in English.|我上了一门英语速成课。
+pull an all-nighter|熬通宵（非正式）|pʊl ən ˌɔl ˈnaɪtər|verb phrase|3|学习|I had to pull an all-nighter to finish the project.|为了完成项目，我不得不熬通宵。
+nerd|书呆子；痴迷某领域的人（非正式，可褒可贬）|nɜrd|noun|3|人物|I am a language nerd.|我是个语言迷。
+geek|极客；技术或某领域爱好者（非正式）|ɡik|noun|3|人物|My brother is a computer geek.|我哥哥是个电脑迷。
+newbie|新手（非正式）|ˈnubi|noun|2|人物|I am a newbie at this game.|我是这个游戏的新手。
+noob|菜鸟（游戏俚语，常有贬义）|nub|noun|3|游戏|Do not call someone a noob for asking questions.|别因为别人提问就叫人家菜鸟。
+pro|高手；专业人士（非正式）|proʊ|noun|2|人物|You play like a pro.|你玩得像个高手。
+bro|哥们儿（随意称呼）|broʊ|noun|2|称呼|Thanks for the help, bro.|哥们儿，谢谢帮忙。
+dude|伙计（随意称呼）|dud|noun|2|称呼|Dude, you forgot your bag.|伙计，你忘了拿包。
+buddy|朋友；伙计（非正式）|ˈbʌdi|noun|2|称呼|My buddy is visiting this weekend.|我的朋友这个周末来玩。
+bestie|最好的朋友（非正式）|ˈbɛsti|noun|3|称呼|I am meeting my bestie for lunch.|我要和我最好的朋友吃午饭。
+fam|亲友；自己人（俚语）|fæm|noun|3|称呼|Thanks for always supporting me, fam.|谢谢你们一直支持我，家人们。
+ghost|突然断联；不再回复（俚语）|ɡoʊst|verb|3|社交|Please do not ghost me after the interview.|面试后请别突然不理我。
+DM|私信（网络缩写）|ˌdi ˈɛm|noun / verb|2|网络|Send me a DM with the details.|给我发私信说一下详情。
+selfie|自拍照（非正式）|ˈsɛlfi|noun|2|网络|Let us take a selfie.|我们拍张自拍吧。
+LOL|笑死；哈哈（网络缩写）|ˌɛl oʊ ˈɛl|interjection|2|网络|She replied, "LOL, that is hilarious."|她回复说：“哈哈，太好笑了。”
+OMG|天哪（网络缩写）|ˌoʊ ɛm ˈdʒi|interjection|2|网络|OMG, I forgot the meeting!|天哪，我忘了开会！
+BTW|顺便说一下（网络缩写）|ˌbi ti ˈdʌbəlju|discourse marker|2|网络|BTW, the meeting starts at ten.|顺便说一下，会议十点开始。
+TBH|说实话（网络缩写）|ˌti bi ˈeɪtʃ|discourse marker|3|网络|TBH, I preferred the old design.|说实话，我更喜欢旧设计。
+FOMO|错失恐惧；怕错过精彩（网络缩写）|ˈfoʊmoʊ|noun|3|网络|I joined the party because of FOMO.|我怕错过热闹，所以参加了聚会。
+flex|炫耀（俚语）|flɛks|verb|3|网络|He likes to flex his new sneakers online.|他喜欢在网上炫耀新运动鞋。
+no cap|不吹牛；说真的（俚语）|noʊ kæp|adverb phrase|4|强调|That was the best meal ever, no cap.|那真是最好吃的一顿，我没吹牛。

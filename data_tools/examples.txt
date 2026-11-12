@@ -1,0 +1,792 @@
+rice|The rice is still warm.|米饭还是热的。
+bread|She bought fresh bread this morning.|她今天早上买了新鲜面包。
+noodles|These noodles are too spicy for me.|这些面条对我来说太辣了。
+pasta|How long should I cook the pasta?|意大利面应该煮多久？
+chicken|Would you prefer chicken or fish?|你更想吃鸡肉还是鱼肉？
+beef|He sliced the beef into thin strips.|他把牛肉切成了细条。
+pork|This dish contains pork.|这道菜里有猪肉。
+fish|We had grilled fish by the sea.|我们在海边吃了烤鱼。
+tofu|Add the tofu after the water boils.|水开后放入豆腐。
+cheese|There is melted cheese on top.|上面有融化的奶酪。
+butter|Spread a little butter on your toast.|在你的烤面包片上涂一点黄油。
+oil|Heat the oil in a large pan.|把食用油倒入大平底锅中加热。
+salt|Could you pass me the salt?|你能把盐递给我吗？
+pepper|A little pepper gives the soup more flavor.|少许胡椒粉让汤更有味道。
+sugar|I drink my coffee without sugar.|我喝咖啡不加糖。
+flour|We ran out of flour while making bread.|我们做面包时面粉用完了。
+corn|The children ate corn at the picnic.|孩子们在野餐时吃了玉米。
+broccoli|Steam the broccoli for a few minutes.|把西兰花蒸几分钟。
+cabbage|Half a cabbage is enough for this soup.|这道汤用半个卷心菜就够了。
+spinach|Fresh spinach cooks very quickly.|新鲜菠菜很快就能煮熟。
+lettuce|Put some lettuce in the sandwich.|在三明治里放一些生菜。
+garlic|The kitchen smells of garlic.|厨房里有大蒜的味道。
+ginger|She added ginger to the hot tea.|她在热茶里加了姜。
+seafood|Is there a seafood restaurant nearby?|附近有海鲜餐馆吗？
+shrimp|Peel the shrimp before cooking them.|烹饪前先给虾去壳。
+salmon|I ordered salmon with a lemon sauce.|我点了配柠檬酱汁的三文鱼。
+tuna|He made a tuna sandwich for lunch.|他做了一个金枪鱼三明治当午餐。
+lamb|The lamb was tender and juicy.|羊肉鲜嫩多汁。
+cream|Would you like cream in your coffee?|你的咖啡要加奶油吗？
+yogurt|Keep the yogurt in the refrigerator.|把酸奶放在冰箱里。
+soup|Be careful; the soup is hot.|小心，汤很烫。
+salad|This salad comes with a light dressing.|这份沙拉配有清淡的沙拉酱。
+sauce|Taste the sauce before adding more salt.|加更多盐之前先尝尝酱汁。
+vinegar|A splash of vinegar makes it less sweet.|加一点醋就不会那么甜了。
+honey|The honey slowly dripped from the spoon.|蜂蜜从勺子上慢慢滴下来。
+oatmeal|On cold mornings, I eat oatmeal with fruit.|寒冷的早晨，我会吃加水果的燕麦粥。
+seaweed|Dried seaweed is a popular snack here.|干海藻是这里很受欢迎的零食。
+cauliflower|Roast the cauliflower until the edges turn brown.|把菜花烤到边缘变成褐色。
+celery|Chop the celery for the soup.|把芹菜切好用来煮汤。
+mustard|There is mustard on the side of your plate.|你的盘子边上有芥末酱。
+apple|An apple fell from the tree.|一个苹果从树上掉了下来。
+banana|I packed a banana for the hike.|我装了一根香蕉，准备徒步时吃。
+orange|Peeling this orange made my hands sticky.|剥这个橙子弄得我双手黏糊糊的。
+pear|This pear is not ripe yet.|这个梨还没熟。
+peach|She bit into a juicy peach.|她咬了一口多汁的桃子。
+lemon|Squeeze half a lemon over the fish.|把半个柠檬的汁挤在鱼肉上。
+lime|Can I have a slice of lime with my drink?|我的饮料可以配一片青柠吗？
+mango|The mango tastes sweeter than I expected.|这个芒果比我想象的甜。
+pineapple|We shared a pineapple after lunch.|午饭后我们分着吃了一个菠萝。
+watermelon|Nothing beats cold watermelon on a hot day.|大热天吃冰西瓜再好不过了。
+strawberry|One strawberry was left in the bowl.|碗里还剩一颗草莓。
+grape|A grape rolled under the table.|一颗葡萄滚到了桌子底下。
+cherry|Remove the stone from each cherry.|把每颗樱桃的核去掉。
+plum|He picked a purple plum from the basket.|他从篮子里挑了一个紫色的李子。
+avocado|Mash the avocado with a fork.|用叉子把牛油果压成泥。
+tomato|A slice of tomato fell out of my sandwich.|一片西红柿从我的三明治里掉了出来。
+potato|Bake the potato with its skin on.|把土豆带皮烤熟。
+carrot|The rabbit is chewing a carrot.|兔子正在啃胡萝卜。
+cucumber|Thin cucumber slices make a refreshing snack.|薄薄的黄瓜片是一种清爽的零食。
+onion|Cutting an onion always makes me cry.|切洋葱总让我流眼泪。
+pumpkin|We made pumpkin soup on Sunday.|星期日我们做了南瓜汤。
+eggplant|This eggplant is perfect for grilling.|这个茄子很适合烤着吃。
+mushroom|Is that mushroom safe to eat?|那个蘑菇可以安全食用吗？
+sweet potato|A roasted sweet potato kept my hands warm.|一个烤红薯暖着我的手。
+bell pepper|Choose a red bell pepper for extra color.|选一个红甜椒，让颜色更丰富。
+water|Please fill my bottle with water.|请往我的瓶子里装些水。
+milk|The milk will expire tomorrow.|牛奶明天就到期了。
+tea|Let the tea cool before you drink it.|让茶凉一点再喝。
+coffee|The smell of coffee woke me up.|咖啡的香味把我唤醒了。
+juice|Did you spill juice on the table?|你把果汁洒在桌子上了吗？
+beer|They shared a beer after work.|下班后他们分着喝了一杯啤酒。
+wine|This wine comes from a small village.|这款葡萄酒产自一个小村庄。
+lemonade|We made lemonade with fresh lemons.|我们用新鲜柠檬做了柠檬水。
+soda|He shook the soda before opening it.|他打开汽水前摇了摇。
+soy milk|Do you serve hot soy milk here?|你们这里供应热豆浆吗？
+hot chocolate|A cup of hot chocolate warmed her up.|一杯热巧克力让她暖和起来。
+green tea|My grandmother drinks green tea every afternoon.|我祖母每天下午都喝绿茶。
+black tea|Steep the black tea for three minutes.|把红茶泡三分钟。
+mineral water|We bought mineral water for the journey.|我们买了矿泉水准备路上喝。
+sparkling water|I prefer sparkling water with my meal.|吃饭时我更喜欢喝气泡水。
+breakfast|There is no time for breakfast today.|今天没时间吃早餐了。
+lunch|Shall we meet for lunch at noon?|我们中午一起吃午餐好吗？
+dinner|Your dinner is in the oven.|你的晚餐在烤箱里。
+dessert|Save some room for dessert.|留点肚子吃甜点。
+pizza|The pizza arrived before the movie started.|电影开始前，比萨饼送到了。
+ice cream|My ice cream melted in the sun.|我的冰淇淋在阳光下融化了。
+cake|Who made this wonderful cake?|这个好吃的蛋糕是谁做的？
+chocolate|She hid the chocolate in a drawer.|她把巧克力藏在抽屉里。
+fries|Would you like fries with your burger?|你的汉堡要配薯条吗？
+dumplings|Our family makes dumplings together every winter.|我们家每年冬天都会一起包饺子。
+cookies|The cookies are cooling on a tray.|曲奇饼干正在托盘上晾凉。
+sandwiches|We packed sandwiches for the train ride.|我们带了三明治准备在火车上吃。
+hamburgers|This cafe sells hamburgers until midnight.|这家咖啡馆一直卖汉堡包到午夜。
+pancakes|He flipped the pancakes with one hand.|他用一只手给薄煎饼翻面。
+eggs|How do you like your eggs cooked?|你喜欢鸡蛋怎么做？
+snacks|Bring a few snacks for the children.|给孩子们带点零食。
+peanuts|This sauce contains peanuts.|这种酱汁含有花生。
+popcorn|We could smell popcorn outside the cinema.|我们在电影院外就闻到了爆米花的味道。
+toast|I burned the toast again.|我又把面包片烤焦了。
+cereal|She poured milk over her cereal.|她把牛奶倒在早餐麦片上。
+plate|Put your empty plate by the sink.|把你的空盘子放在水槽旁。
+bowl|A bowl of soup was waiting for me.|有一碗汤在等着我。
+cup|This cup has a small crack.|这个杯子有一条小裂缝。
+glass|He raised his glass to thank everyone.|他举起玻璃杯感谢大家。
+mug|My favorite mug has a cat on it.|我最喜欢的马克杯上有一只猫。
+fork|Use a fork to mix the eggs.|用叉子把鸡蛋搅匀。
+knife|That knife is too dull to cut bread.|那把刀太钝，切不了面包。
+spoon|The baby dropped her spoon.|宝宝把勺子掉到了地上。
+chopsticks|I'm learning to use chopsticks.|我正在学用筷子。
+pan|The pan is still hot, so don't touch it.|平底锅还很烫，别碰。
+pot|Cover the pot and lower the heat.|盖上锅盖，把火调小。
+kettle|The kettle began to whistle.|水壶开始鸣叫。
+tray|Carry the cups on this tray.|用这个托盘端杯子。
+cutting board|Set the cutting board on a dry surface.|把砧板放在干燥的台面上。
+lid|I can't get the lid off this jar.|我打不开这个罐子的盖子。
+container|Store the leftovers in a sealed container.|把剩菜放在密封容器里。
+bottle|Is this bottle empty?|这个瓶子是空的吗？
+jar|She keeps coins in a glass jar.|她把硬币放在一个玻璃罐子里。
+sink|The sink is full of dirty dishes.|水槽里堆满了脏餐具。
+teapot|Warm the teapot before adding the tea.|放茶叶前先温一下茶壶。
+kitchen|Dad is singing in the kitchen.|爸爸正在厨房里唱歌。
+bathroom|Someone left the bathroom light on.|有人忘了关浴室的灯。
+bedroom|Her bedroom faces the garden.|她的卧室朝向花园。
+living room|Let's watch the film in the living room.|我们去客厅看电影吧。
+dining room|We turned the dining room into an office.|我们把餐厅改成了办公室。
+balcony|You can see the river from our balcony.|从我们家的阳台可以看到河。
+garage|He parks his bicycle in the garage.|他把自行车停在车库里。
+basement|The basement flooded after the storm.|暴风雨过后，地下室进水了。
+hallway|Please don't leave boxes in the hallway.|请不要把箱子放在走廊里。
+floor|A toy car rolled across the floor.|一辆玩具车从地板上滚过。
+window|Could you open the window a little?|你能把窗户打开一点吗？
+door|I heard a knock at the door.|我听到了敲门声。
+wall|They painted one wall blue.|他们把一面墙刷成了蓝色。
+ceiling|There is a damp patch on the ceiling.|天花板上有一块潮湿的痕迹。
+table|Six people can sit around this table.|这张桌子可以围坐六个人。
+desk|I do my homework at this desk.|我在这张书桌前做作业。
+chair|Pull up a chair and join us.|拉把椅子过来，和我们一起坐吧。
+sofa|The dog is asleep on the sofa.|狗在沙发上睡着了。
+bed|She makes her bed before leaving.|她出门前会整理床铺。
+shelf|That shelf is too high for me to reach.|那个架子太高了，我够不到。
+cabinet|The cups belong in the upper cabinet.|杯子应该放在上面的柜子里。
+drawer|My keys were hiding in the bottom drawer.|我的钥匙原来在最下面的抽屉里。
+closet|Hang your coat in the closet.|把你的外套挂进壁橱里。
+mirror|He checked his hair in the mirror.|他对着镜子看了看头发。
+carpet|We spilled tea on the carpet.|我们把茶洒在了地毯上。
+bathtub|The bathtub takes ten minutes to fill.|浴缸要十分钟才能放满水。
+toilet|This toilet won't flush.|这个马桶冲不了水。
+shower|There is a towel hanging outside the shower.|淋浴间外面挂着一条毛巾。
+staircase|A narrow staircase leads to the roof.|一道狭窄的楼梯通向屋顶。
+entrance|Meet me at the main entrance.|在正门入口处等我。
+refrigerator|The refrigerator door was left open all night.|冰箱门整晚都没关。
+freezer|Put the ice cream straight into the freezer.|把冰淇淋直接放进冷冻柜。
+oven|Preheat the oven before baking the cake.|烤蛋糕前先预热烤箱。
+microwave|Can this bowl go in the microwave?|这个碗能放进微波炉吗？
+stove|Turn off the stove when you finish cooking.|做完饭后关掉炉灶。
+dishwasher|We only run the dishwasher when it is full.|我们只在洗碗机装满时才开动它。
+washing machine|A sock got stuck in the washing machine.|一只袜子卡在洗衣机里了。
+dryer|These shirts cannot go in the dryer.|这些衬衫不能放进烘干机。
+vacuum cleaner|The vacuum cleaner scared the cat.|吸尘器吓到了猫。
+fan|Point the fan toward the bed.|把电风扇朝向床。
+heater|She moved her chair closer to the heater.|她把椅子移到更靠近取暖器的地方。
+air conditioner|The air conditioner is making a strange noise.|空调发出奇怪的声音。
+lamp|I read by the lamp beside my bed.|我借着床边的灯光看书。
+light bulb|We need to replace the light bulb in the hall.|我们需要换掉走廊里的灯泡。
+clock|That clock is five minutes slow.|那个时钟慢了五分钟。
+alarm clock|My alarm clock didn't ring this morning.|我的闹钟今天早上没响。
+pillow|Could I have an extra pillow?|能多给我一个枕头吗？
+blanket|He wrapped a blanket around his shoulders.|他用毯子裹住肩膀。
+towel|Dry your hands on this towel.|用这条毛巾擦干双手。
+curtain|A breeze lifted the curtain.|一阵微风吹起了窗帘。
+sheet|I put a fresh sheet on the bed.|我给床换了一条干净的床单。
+mattress|This mattress is too soft for me.|这个床垫对我来说太软了。
+broom|Use the broom to sweep up the leaves.|用扫帚把落叶扫起来。
+mop|Where did you put the mop after cleaning?|你打扫完把拖把放哪儿了？
+bucket|Rainwater dripped into the bucket.|雨水滴进水桶里。
+trash can|The trash can is already full.|垃圾桶已经满了。
+brush|Scrub the tiles with a stiff brush.|用硬毛刷刷洗瓷砖。
+sponge|This sponge absorbs water quickly.|这块海绵吸水很快。
+lock|The lock froze in the cold weather.|天气寒冷，锁冻住了。
+key|Does this key fit the front door?|这把钥匙能开前门吗？
+wallet|He found a wallet on the bus.|他在公交车上捡到了一个钱包。
+purse|She reached into her purse for her phone.|她把手伸进手提包里拿手机。
+bag|Let me carry that heavy bag for you.|让我帮你拿那个沉重的包吧。
+backpack|My backpack has a pocket for a water bottle.|我的双肩背包有一个放水瓶的口袋。
+umbrella|We shared an umbrella on the way home.|回家的路上，我们共撑一把伞。
+watch|Her watch stopped at midnight.|她的手表在午夜停了。
+glasses|I can't read the sign without my glasses.|不戴眼镜，我看不清那个标牌。
+sunglasses|These sunglasses protect my eyes from the glare.|这副太阳镜能保护我的眼睛免受强光刺激。
+mask|Please wear a mask in the waiting room.|请在候诊室戴口罩。
+toothbrush|I packed my toothbrush but forgot the toothpaste.|我带了牙刷，却忘了带牙膏。
+toothpaste|There is hardly any toothpaste left.|牙膏几乎用完了。
+soap|Wash your hands with soap and water.|用肥皂和水洗手。
+shampoo|This shampoo smells like flowers.|这种洗发水有花香。
+comb|Can I borrow your comb for a moment?|我能借你的梳子用一下吗？
+razor|He keeps his razor in a small case.|他把剃须刀放在一个小盒子里。
+sunscreen|She put sunscreen on before going outside.|她出门前涂了防晒霜。
+lipstick|There is lipstick on the edge of the cup.|杯沿上有口红印。
+perfume|That perfume reminds me of my mother.|那种香水让我想起了妈妈。
+tissues|Keep some tissues in your pocket.|在口袋里放些纸巾。
+notebook|I wrote the address in my notebook.|我把地址写在了笔记本里。
+pen|This pen has run out of ink.|这支钢笔没墨水了。
+pencil|Draw the outline lightly with a pencil.|用铅笔轻轻画出轮廓。
+eraser|May I use your eraser?|我可以用你的橡皮擦吗？
+scissors|These scissors are too blunt to cut fabric.|这把剪刀太钝，剪不了布。
+passport|Check that your passport is still valid.|检查一下你的护照是否还在有效期内。
+shirt|One button is missing from his shirt.|他的衬衫少了一颗纽扣。
+T-shirt|I bought a T-shirt at the concert.|我在演唱会上买了一件T恤衫。
+coat|Take your coat; it's cold outside.|带上外套，外面很冷。
+jacket|This jacket has four pockets.|这件夹克有四个口袋。
+sweater|My grandmother knitted this sweater.|这件毛衣是我祖母织的。
+hoodie|He pulled his hoodie over his head.|他把连帽衫套过头穿上。
+dress|She wore a yellow dress to the party.|她穿了一条黄色连衣裙去参加聚会。
+skirt|The skirt reaches just below my knees.|这条裙子刚好过膝。
+pants|These pants are a little too long.|这条裤子有点太长了。
+jeans|Can I wear jeans to the office?|我可以穿牛仔裤去办公室吗？
+shorts|He changed into shorts before the game.|比赛前他换上了短裤。
+socks|I can't find a matching pair of socks.|我找不到一双配对的袜子。
+shoes|Please take off your shoes at the door.|请在门口脱鞋。
+boots|Her boots were covered in mud.|她的靴子上沾满了泥。
+sneakers|These sneakers are comfortable for walking.|这双运动鞋走路穿很舒服。
+slippers|A pair of slippers was waiting beside the bed.|床边放着一双拖鞋。
+hat|The wind blew my hat away.|风把我的帽子吹走了。
+cap|He wore his cap backward.|他把鸭舌帽反着戴。
+scarf|Wrap the scarf around your neck.|把围巾围在脖子上。
+gloves|I need gloves to keep my hands warm.|我需要手套来暖手。
+belt|This belt is too tight after lunch.|午饭后这条腰带太紧了。
+tie|Could you help me choose a tie?|你能帮我选一条领带吗？
+suit|He borrowed a suit for the interview.|他借了一套西装去面试。
+uniform|All the staff wear the same uniform.|所有员工都穿同样的制服。
+pajamas|The children were still in their pajamas at noon.|中午了，孩子们还穿着睡衣。
+mother|My mother taught me how to cook.|妈妈教会了我做饭。
+father|Her father works at the airport.|她父亲在机场工作。
+parent|Each child must come with a parent.|每个孩子都必须由一位家长陪同。
+sister|I share a room with my sister.|我和姐姐共用一个房间。
+brother|His younger brother just started school.|他的弟弟刚开始上学。
+daughter|Their daughter wants to become a pilot.|他们的女儿想当飞行员。
+son|She is teaching her son to swim.|她正在教儿子游泳。
+wife|He met his wife at university.|他在大学里认识了妻子。
+husband|My husband will pick us up.|我丈夫会来接我们。
+grandmother|We visit our grandmother every Sunday.|我们每个星期日都去看祖母。
+grandfather|My grandfather still rides his bicycle.|我祖父现在还骑自行车。
+aunt|An aunt of mine lives in Shanghai.|我的一位姨妈住在上海。
+uncle|I learned to fish from my uncle.|我跟叔叔学会了钓鱼。
+cousin|My cousin and I were born in the same year.|我和表姐是同一年出生的。
+niece|He bought a picture book for his niece.|他给侄女买了一本绘本。
+nephew|My nephew drew this picture for me.|这幅画是我外甥给我画的。
+friend|A friend offered me a ride home.|一位朋友提出开车送我回家。
+neighbor|Our neighbor watered the plants while we were away.|我们不在家时，邻居帮我们浇了花。
+roommate|My roommate leaves for work before I wake up.|我还没醒，室友就去上班了。
+classmate|I ran into an old classmate yesterday.|我昨天偶遇了一位老同学。
+colleague|Ask a colleague to check your report.|请一位同事帮你检查报告。
+partner|She and her partner are moving to a new city.|她和伴侣要搬到一个新城市。
+boyfriend|Her boyfriend is planning a surprise party.|她男朋友正在筹划一个惊喜派对。
+girlfriend|I bought flowers for my girlfriend.|我给女朋友买了花。
+relative|A distant relative sent us a wedding gift.|一位远房亲戚送来了结婚礼物。
+teacher|Our teacher writes new words on the board.|老师把新单词写在黑板上。
+student|A student raised her hand to ask a question.|一名学生举手提问。
+doctor|The doctor listened carefully to my concerns.|医生仔细听了我的担忧。
+nurse|A nurse brought him a glass of water.|一位护士给他端来一杯水。
+dentist|I'm seeing the dentist on Friday.|我星期五去看牙医。
+pharmacist|Ask the pharmacist how to store this medicine.|问问药剂师这种药该怎么保存。
+driver|The driver waited until everyone was seated.|司机等到所有人都坐好了才出发。
+pilot|The pilot welcomed us aboard.|飞行员欢迎我们登机。
+chef|The chef recommended the fish.|厨师推荐了鱼肉。
+waiter|We asked the waiter for the bill.|我们请男服务员拿账单来。
+waitress|The waitress brought an extra chair.|女服务员搬来了一把额外的椅子。
+cashier|The cashier gave me the wrong change.|收银员找错了零钱。
+manager|Please speak to the manager about your booking.|请和经理谈谈你的预订。
+boss|My boss let me leave early today.|老板今天让我提前下班了。
+employee|Every employee has a name badge.|每位员工都有一个姓名牌。
+customer|A customer left an umbrella in the shop.|一位顾客把雨伞落在店里了。
+client|Our client asked for a simpler design.|我们的客户要求设计得更简洁一些。
+engineer|An engineer inspected the bridge.|一位工程师检查了这座桥。
+programmer|The programmer found a bug in the app.|程序员发现了应用程序中的一个错误。
+designer|She hired a designer to create the logo.|她聘请了一位设计师来设计标志。
+artist|The artist painted scenes from village life.|这位艺术家画了乡村生活的场景。
+writer|Who is your favorite writer?|你最喜欢的作家是谁？
+reporter|A reporter interviewed us after the match.|比赛结束后，一位记者采访了我们。
+lawyer|He asked a lawyer to review the contract.|他请律师审核合同。
+accountant|Our accountant is preparing the annual report.|我们的会计师正在编写年度报告。
+farmer|The farmer gets up before sunrise.|这位农民日出前就起床。
+worker|A worker was repairing the road.|一名工人正在修路。
+cleaner|The cleaner found my missing ring.|清洁工找到了我丢失的戒指。
+police officer|A police officer helped the lost child.|一名警察帮助了迷路的孩子。
+firefighter|The firefighter carried the cat outside.|消防员把猫抱到了外面。
+receptionist|Leave your key with the receptionist.|把钥匙交给接待员。
+assistant|My assistant will arrange the meeting.|我的助理会安排这次会议。
+secretary|The secretary took a message for him.|秘书替他记下了留言。
+scientist|The scientist explained her discovery to the children.|这位科学家向孩子们解释了她的发现。
+professor|Our professor encouraged us to ask questions.|教授鼓励我们提问。
+coach|The coach reminded us to warm up.|教练提醒我们热身。
+volunteer|A volunteer showed us to our seats.|一位志愿者带我们找到了座位。
+tourist|A tourist asked me for directions.|一位游客向我问路。
+passenger|The last passenger boarded the bus.|最后一名乘客上了公交车。
+guest|Each guest received a small gift.|每位客人都收到了一份小礼物。
+hospital|She spent three nights in the hospital.|她在医院住了三个晚上。
+clinic|The clinic opens at eight.|诊所八点开门。
+pharmacy|There is a pharmacy across from the station.|车站对面有一家药店。
+school|We walk to school together.|我们一起走路上学。
+university|He hopes to study at a university abroad.|他希望去国外的大学读书。
+library|You can borrow this book from the library.|你可以从图书馆借到这本书。
+bank|I stopped at the bank on my way home.|回家的路上，我去了一趟银行。
+ATM|This ATM is out of cash.|这台自动取款机没现金了。
+post office|The post office closes early on Saturdays.|邮局星期六提前关门。
+police station|We reported the missing bag at the police station.|我们到警察局报了包丢失的案。
+supermarket|I bumped into her at the supermarket.|我在超市碰见了她。
+store|That store sells handmade toys.|那家商店卖手工玩具。
+mall|Let's meet outside the mall at six.|我们六点在购物中心外面见吧。
+market|Fresh flowers fill the market on Sundays.|每逢星期日，市场里摆满了鲜花。
+bakery|The bakery on the corner smells wonderful.|街角的面包店香气扑鼻。
+restaurant|We booked a table at an Italian restaurant.|我们在一家意大利餐馆订了桌。
+cafe|She studies in a quiet cafe near campus.|她在校园附近一家安静的咖啡馆里学习。
+hotel|Does the hotel offer free breakfast?|这家酒店提供免费早餐吗？
+hostel|I shared a room with three travelers at the hostel.|我在青年旅舍和三位旅客同住一个房间。
+park|Children were flying kites in the park.|孩子们正在公园里放风筝。
+museum|The museum is closed on Mondays.|博物馆星期一闭馆。
+theater|We arrived at the theater just before the play began.|我们在话剧开演前刚好赶到了剧院。
+cinema|There is a new cinema near my apartment.|我公寓附近新开了一家电影院。
+gym|He goes to the gym before work.|他上班前去健身房。
+stadium|Fans filled the stadium an hour before the match.|比赛前一小时，球迷就坐满了体育场。
+airport|Allow extra time to get to the airport.|去机场要多留一点时间。
+station|I'll wait for you outside the station.|我会在车站外等你。
+bus stop|The bus stop is just around the corner.|公交车站就在拐角处。
+parking lot|We forgot where we parked in the parking lot.|我们忘了车停在停车场的哪个位置。
+gas station|Let's stop at the next gas station.|我们在下一个加油站停一下吧。
+restroom|Is there a restroom on this floor?|这一层有洗手间吗？
+exit|Follow the signs to the nearest exit.|跟着标志走到最近的出口。
+bridge|The old bridge crosses a narrow river.|那座老桥横跨一条窄河。
+intersection|Turn left at the next intersection.|在下一个十字路口左转。
+crosswalk|Use the crosswalk to get to the other side.|走人行横道到马路对面。
+car|Our car wouldn't start this morning.|我们的车今天早上发动不起来。
+bus|If we hurry, we can catch the last bus.|如果快一点，我们还能赶上末班公交车。
+train|The train leaves in twenty minutes.|火车二十分钟后开。
+subway|Taking the subway is faster during rush hour.|高峰时段坐地铁更快。
+taxi|Could you call a taxi for me?|你能帮我叫辆出租车吗？
+bicycle|She learned to ride a bicycle at six.|她六岁时学会了骑自行车。
+motorcycle|He wears a helmet on his motorcycle.|他骑摩托车时戴头盔。
+scooter|We rented a scooter to explore the town.|我们租了一辆小型摩托车逛小镇。
+boat|The little boat rocked in the waves.|小船在波浪中摇晃。
+ship|The ship will reach the port tomorrow.|轮船明天会到港。
+ferry|The ferry takes half an hour to cross the river.|渡船过河需要半小时。
+airplane|The airplane disappeared into the clouds.|飞机消失在云层中。
+helicopter|A helicopter landed near the hospital.|一架直升机在医院附近降落。
+tram|Watch out for the tram when crossing the street.|过马路时小心有轨电车。
+high-speed rail|The two cities are connected by high-speed rail.|这两座城市由高铁连接。
+ticket|Keep your ticket until you leave the station.|出站前请保留车票。
+boarding pass|I saved my boarding pass on my phone.|我把登机牌保存在手机里。
+visa|Her visa expires next month.|她的签证下个月到期。
+luggage|How much luggage can I bring?|我可以带多少行李？
+suitcase|This suitcase is too large for the overhead shelf.|这个行李箱太大，放不进头顶的行李架。
+reservation|I can't find my reservation in the app.|我在应用程序里找不到预订信息。
+address|Please send me your new address.|请把你的新地址发给我。
+map|We spread the map across the table.|我们把地图铺在桌子上。
+route|Is there a shorter route to the beach?|有去海滩更近的路线吗？
+schedule|The winter schedule starts next week.|冬季时间表下周开始实行。
+weather|The weather changed suddenly during our hike.|我们徒步途中天气突然变了。
+forecast|According to the forecast, it will rain tonight.|根据天气预报，今晚会下雨。
+traffic|Heavy traffic made us late.|路上堵车让我们迟到了。
+fuel|We don't have enough fuel to reach the next town.|我们的燃料不够撑到下一个镇。
+engine|I heard a strange sound from the engine.|我听到发动机发出了奇怪的声音。
+tire|The front tire needs more air.|前轮胎需要充气。
+brakes|Have someone check the brakes before the trip.|出发前找人检查一下刹车。
+seat belt|Fasten your seat belt before we leave.|出发前系好安全带。
+gate|Our flight now leaves from gate twelve.|我们的航班现在改从十二号登机口登机。
+platform|The train is waiting at platform three.|火车正在三号站台等候。
+destination|We reached our destination after dark.|天黑后我们到达了目的地。
+departure time|The departure time has changed to nine.|出发时间改成了九点。
+arrival time|What is the expected arrival time?|预计到达时间是什么时候？
+flight number|Write your flight number on this form.|在这张表上填写你的航班号。
+itinerary|Our itinerary includes two days by the sea.|我们的行程安排包括在海边待两天。
+phone|My phone rang in the middle of the meeting.|开会时，我的手机响了。
+computer|Save your work before shutting down the computer.|关闭电脑前保存你的工作。
+laptop|I can fit my laptop in this bag.|这个包能装下我的笔记本电脑。
+tablet|She reads magazines on her tablet.|她用平板电脑看杂志。
+keyboard|There are crumbs under the keyboard.|键盘下面有面包屑。
+mouse|Click the right button on your mouse.|点击鼠标右键。
+screen|The screen is too bright in this dark room.|在这个昏暗的房间里，屏幕太亮了。
+monitor|He uses a second monitor for work.|他工作时用第二台显示器。
+printer|The printer has run out of paper.|打印机没纸了。
+camera|I forgot to take the cover off the camera.|我忘了取下相机的镜头盖。
+microphone|Speak directly into the microphone.|请对着麦克风讲话。
+speaker|Move the speaker away from the wall.|把扬声器移到离墙远一点的地方。
+charger|Can I borrow your phone charger?|我能借用你的手机充电器吗？
+battery|The battery lasts all day.|这块电池能用一整天。
+cable|This cable isn't long enough to reach the desk.|这根连接线不够长，接不到书桌那里。
+router|Try restarting the router.|试着重启路由器。
+remote control|The remote control is between the sofa cushions.|遥控器在沙发坐垫之间。
+television|We rarely turn on the television during dinner.|吃晚饭时我们很少开电视。
+headset|Put on your headset before joining the call.|加入通话前戴上耳麦。
+power bank|I brought a power bank for the long journey.|我带了一个充电宝，以备长途旅行时使用。
+app|This app helps me practice English.|这个应用程序帮助我练习英语。
+website|You can find the opening hours on our website.|你可以在我们的网站上找到营业时间。
+browser|Open the page in a different browser.|用另一个浏览器打开这个页面。
+email|I sent you an email with the details.|我给你发了一封包含详细信息的电子邮件。
+message|Did you get my message last night?|你昨晚收到我的消息了吗？
+account|You need an account to save your progress.|你需要一个账户来保存进度。
+password|Choose a password that is hard to guess.|选择一个难以猜到的密码。
+username|Your username will appear beside your comments.|你的用户名会显示在评论旁边。
+file|The file is too large to send.|这个文件太大，发不出去。
+folder|I put all the photos in one folder.|我把所有照片放进了一个文件夹。
+document|Please sign the document on the last page.|请在文档的最后一页签名。
+photo|This photo was taken on our first trip.|这张照片是我们第一次旅行时拍的。
+video|The video stopped halfway through.|视频播放到一半停了。
+link|Click the link to join the meeting.|点击链接加入会议。
+network|My phone can't find the wireless network.|我的手机找不到无线网络。
+connection|We lost our internet connection during the storm.|暴风雨期间，我们的网络连接中断了。
+update|The latest update fixed that problem.|最新的更新修复了那个问题。
+backup|Always keep a backup of important files.|重要文件一定要留备份。
+attachment|The attachment contains this month's report.|附件里是这个月的报告。
+notification|A notification appeared at the top of the screen.|屏幕顶部出现了一条通知。
+setting|Change this setting to turn off the sound.|修改这个设置项可以关闭声音。
+subscription|My subscription ends next week.|我的订阅下周到期。
+software|This software works without an internet connection.|这个软件无需联网也能运行。
+program|Close the program before installing the update.|安装更新前先关闭程序。
+spreadsheet|We track our expenses in a spreadsheet.|我们用电子表格记录支出。
+head|Mind your head when you go through that door.|穿过那扇门时小心碰头。
+face|She washed her face with cold water.|她用冷水洗了脸。
+eye|Something got into my left eye.|有什么东西进了我的左眼。
+ear|He whispered in her ear.|他在她耳边低声说话。
+nose|The smell made me wrinkle my nose.|那股气味让我皱起了鼻子。
+mouth|Cover your mouth when you cough.|咳嗽时捂住嘴。
+tooth|The baby has her first tooth.|宝宝长出了第一颗牙。
+tongue|I burned my tongue on the hot soup.|热汤烫到了我的舌头。
+throat|My throat feels dry after all that talking.|说了那么多话，我的喉咙很干。
+neck|She wore a scarf around her neck.|她脖子上围着一条围巾。
+shoulder|He tapped me on the shoulder.|他拍了拍我的肩膀。
+arm|Raise your arm if you need help.|如果需要帮助，请举起手臂。
+elbow|I bumped my elbow against the door.|我的肘部撞到了门。
+wrist|The watch left a mark on my wrist.|手表在我的手腕上留下了一道印子。
+hand|Take my hand while we cross the road.|过马路时拉着我的手。
+finger|She pointed at the picture with one finger.|她用一根手指指着那张图片。
+thumb|Press the button with your thumb.|用拇指按下按钮。
+back|He carried his daughter on his back.|他背着女儿。
+chest|She held the book against her chest.|她把书抱在胸前。
+stomach|My stomach is making noises because I'm hungry.|我饿得胃咕咕叫。
+waist|The trousers are loose around the waist.|这条裤子的腰部有些松。
+hip|He fell and landed on his hip.|他摔倒了，髋部着地。
+leg|The dog lay against my leg.|狗靠着我的腿躺下了。
+knee|She rested the notebook on her knee.|她把笔记本放在膝盖上。
+ankle|I twisted my ankle on the stairs.|我在楼梯上扭伤了脚踝。
+foot|This shoe is too narrow for my foot.|这只鞋对我的脚来说太窄了。
+toe|I stubbed my toe on the bed.|我的脚趾撞到了床。
+heel|The back of my shoe rubbed against my heel.|鞋后部磨着我的脚后跟。
+skin|Cold weather makes my skin dry.|寒冷的天气让我的皮肤变干。
+muscle|He pulled a muscle while running.|他跑步时拉伤了一块肌肉。
+pain|The pain kept me awake all night.|疼痛让我整晚睡不着。
+fever|She stayed home because she had a fever.|她因为发烧留在家里。
+cough|His cough sounds worse today.|他今天咳嗽听起来更严重了。
+cold|I caught a cold during the trip.|我在旅行时感冒了。
+flu|Several colleagues are off sick with the flu.|几位同事因为流感请了病假。
+headache|The loud music gave me a headache.|吵闹的音乐让我头痛。
+allergy|Tell the waiter about your peanut allergy.|告诉服务员你对花生过敏。
+infection|The doctor checked for signs of infection.|医生检查了是否有感染迹象。
+injury|A knee injury kept her out of the race.|膝盖的伤势让她无法参加比赛。
+wound|The nurse cleaned the wound carefully.|护士仔细清洗了伤口。
+symptom|When did you first notice this symptom?|你最早什么时候注意到这个症状的？
+medicine|Keep this medicine out of children's reach.|把这种药放在儿童够不到的地方。
+pill|She took the pill with a glass of water.|她用一杯水送服了药片。
+prescription|I left my prescription at the pharmacy.|我把处方留在药店了。
+treatment|He asked how long the treatment would take.|他问治疗需要多长时间。
+surgery|Her surgery is scheduled for next week.|她的手术安排在下周。
+vaccine|The clinic called about my vaccine appointment.|诊所打电话来询问我的疫苗接种预约。
+appointment|I'd like to make an appointment for Friday.|我想预约星期五。
+checkup|My annual checkup took about an hour.|我的年度体检花了大约一个小时。
+blood pressure|The nurse measured my blood pressure.|护士测量了我的血压。
+temperature|Have you taken your temperature today?|你今天量过体温吗？
+test result|I'm still waiting for my test result.|我还在等检查结果。
+side effect|Ask whether sleepiness is a common side effect.|问问嗜睡是不是常见的副作用。
+dose|The label tells you the correct dose.|标签上写明了正确的剂量。
+recovery|We wished him a speedy recovery.|我们祝他早日康复。
+price|The price includes breakfast.|这个价格包含早餐。
+cost|What is the total cost of the trip?|这次旅行的总费用是多少？
+bill|Could we split the bill?|我们可以平摊账单吗？
+receipt|Keep the receipt in case you need to return it.|保留收据，以防需要退货。
+discount|Students get a discount on tickets.|学生买票有折扣。
+refund|I requested a refund for the canceled flight.|我为被取消的航班申请了退款。
+payment|Your payment has been received.|您的付款已收到。
+deposit|We paid a deposit before moving in.|我们入住前交了押金。
+fee|Is there a fee for using the pool?|使用游泳池收费吗？
+tax|The tax is added at checkout.|税款会在结账时加上。
+tip|She left a tip for the waiter.|她给服务员留了小费。
+budget|This hotel is outside our budget.|这家酒店超出了我们的预算。
+salary|His salary is paid at the end of the month.|他的工资在月底发放。
+income|Her main income comes from teaching.|她的主要收入来自教学。
+expense|Rent is our biggest monthly expense.|房租是我们每个月最大的支出。
+loan|He applied for a loan to buy a car.|他申请了贷款买车。
+mortgage|They are still paying off their mortgage.|他们还在还房贷。
+debt|It took her years to get out of debt.|她花了好几年才还清债务。
+interest rate|The bank changed its interest rate.|银行调整了利率。
+exchange rate|Check the exchange rate before changing money.|换钱前先查一下汇率。
+insurance|Does your insurance cover lost luggage?|你的保险承保行李丢失吗？
+rent|The rent goes up every year.|租金每年都上涨。
+profit|The shop finally made a profit.|这家商店终于盈利了。
+loss|The company reported a loss last year.|公司报告说去年出现了亏损。
+balance|I checked my balance before buying the tickets.|买票前我查了余额。
+job|She found a job near her home.|她找到了一份离家很近的工作。
+project|Our project is almost finished.|我们的项目快完成了。
+task|Break the task into smaller steps.|把任务分成几个小步骤。
+plan|Do you have a plan for the weekend?|你周末有什么计划吗？
+goal|My goal is to read one book a month.|我的目标是每月读一本书。
+meeting|The meeting lasted longer than expected.|会议持续的时间比预期长。
+interview|He arrived early for his interview.|他提前到达了面试地点。
+report|Please send the report before noon.|请在中午前发出报告。
+presentation|Her presentation included several useful charts.|她的演示报告中有几张实用的图表。
+deadline|We need more time to meet the deadline.|我们需要更多时间才能在截止日期前完成。
+contract|Read the contract carefully before signing.|签字前仔细阅读合同。
+agreement|Both sides finally reached an agreement.|双方终于达成了协议。
+offer|Their offer was lower than our asking price.|他们的报价低于我们的要价。
+request|Your request has been approved.|你的请求已获批准。
+decision|It wasn't an easy decision to make.|做出这个决定并不容易。
+problem|We found a problem with the design.|我们发现设计有一个问题。
+solution|This solution saves both time and money.|这个解决方案既省时间又省钱。
+idea|An idea came to me on the bus.|我在公交车上想到了一个主意。
+suggestion|Thanks for your suggestion about the layout.|谢谢你对布局提出的建议。
+feedback|I'd appreciate your feedback on my draft.|如果你能对我的草稿提出反馈，我会很感激。
+result|We were surprised by the result.|结果让我们感到意外。
+progress|You have made great progress this month.|你这个月进步很大。
+change|A small change could make this much easier.|一个小变化就能让这件事容易很多。
+opportunity|Don't miss this opportunity to learn.|别错过这个学习机会。
+experience|No previous experience is required.|不要求有相关经验。
+training|New staff receive two weeks of training.|新员工会接受两周培训。
+policy|Our policy allows returns within thirty days.|我们的政策允许三十天内退货。
+rule|There is a rule against eating in the library.|有一条规则禁止在图书馆吃东西。
+requirement|A valid passport is a requirement for this trip.|持有有效护照是参加此次旅行的要求。
+detail|You missed one important detail.|你漏掉了一个重要细节。
+word|What does this word mean?|这个单词是什么意思？
+sentence|Try writing a sentence with this verb.|试着用这个动词写一个句子。
+phrase|I hear that phrase in movies all the time.|我经常在电影里听到那个短语。
+expression|Is this expression common in everyday speech?|这个表达在日常口语中常见吗？
+meaning|The meaning changes with the context.|含义会随语境变化。
+translation|The translation sounds natural to me.|我觉得这段翻译很自然。
+pronunciation|Listening to songs helps my pronunciation.|听歌有助于改善我的发音。
+spelling|Check the spelling of your name on the form.|检查一下表格上你名字的拼写。
+example|Could you give us another example?|你能再给我们举一个例子吗？
+lesson|Today's lesson is about asking for directions.|今天的课程讲的是如何问路。
+chapter|I read one chapter before bed.|我睡前读了一个章节。
+paragraph|Start a new paragraph for each main idea.|每个主要观点另起一段。
+page|Turn to page twenty, please.|请翻到第二十页。
+book|This book belongs to my sister.|这本书是我姐姐的。
+textbook|I left my textbook in the classroom.|我把课本忘在教室了。
+dictionary|Look it up in a dictionary.|在词典里查一下它。
+exercise|Complete the first exercise on your own.|独立完成第一道练习。
+exam|She passed the exam on her first try.|她第一次就通过了考试。
+quiz|There will be a short quiz after lunch.|午饭后会有一个小测验。
+answer|I'm not sure that answer is correct.|我不确定那个答案是对的。
+question|May I ask one more question?|我可以再问一个问题吗？
+subject|Science was my favorite subject at school.|上学时，科学是我最喜欢的科目。
+course|He signed up for an evening course.|他报名参加了一门晚间课程。
+grade|She worked hard to improve her grade.|她努力学习以提高成绩。
+assignment|The assignment is due on Friday.|作业星期五要交。
+sun|The sun came out after the rain.|雨后太阳出来了。
+moon|A bright moon lit the path.|明亮的月亮照亮了小路。
+star|Can you see that bright star?|你能看到那颗明亮的星星吗？
+sky|The sky turned orange at sunset.|日落时天空变成了橙色。
+cloud|A cloud hid the top of the mountain.|一朵云遮住了山顶。
+rainbow|We saw a rainbow above the town.|我们看到小镇上空有一道彩虹。
+mountain|Snow covered the mountain even in May.|即使到了五月，山上仍然覆盖着积雪。
+hill|The children ran down the hill.|孩子们从小山上跑下来。
+river|This river flows through three cities.|这条河流经三座城市。
+lake|We rented a boat on the lake.|我们在湖上租了一条船。
+ocean|The ocean looked endless from the airplane.|从飞机上看，海洋一望无际。
+sea|They live in a little house by the sea.|他们住在海边的一栋小房子里。
+beach|Let's walk along the beach after dinner.|晚饭后我们沿着海滩散步吧。
+island|You can only reach the island by boat.|只能坐船到那个岛上。
+forest|The path leads into a thick forest.|这条小路通向一片茂密的森林。
+tree|We sat in the shade of a tree.|我们坐在一棵树的树荫下。
+flower|A single flower grew between the stones.|一朵花从石缝间长了出来。
+leaf|A yellow leaf landed on my shoulder.|一片黄叶落在了我的肩上。
+branch|The bird built its nest on a low branch.|那只鸟在低矮的树枝上筑巢。
+garden|My parents grow vegetables in their garden.|我父母在花园里种蔬菜。
+field|The field was covered in wildflowers.|田野里开满了野花。
+farm|We spent a weekend on a farm.|我们在农场度过了一个周末。
+village|Only one road leads to the village.|只有一条路通往那个村庄。
+sunrise|We got up early to watch the sunrise.|我们早起看日出。
+sunset|The beach is especially beautiful at sunset.|日落时的海滩格外美丽。
+dog|Our dog waits by the door every afternoon.|我们的狗每天下午都在门边等着。
+cat|A cat jumped onto the windowsill.|一只猫跳上了窗台。
+bird|I woke to the sound of a bird singing.|我在鸟鸣声中醒来。
+duck|The duck dived under the water.|鸭子潜入了水中。
+goose|A goose blocked the path to the pond.|一只鹅挡住了通往池塘的小路。
+horse|She brushed the horse after her ride.|骑完马后，她给马刷了毛。
+cow|A cow was grazing beside the fence.|一头奶牛正在篱笆旁吃草。
+pig|The pig rolled in the mud to cool down.|猪在泥里打滚降温。
+sheep|We counted sheep on the hillside.|我们数了数山坡上的绵羊。
+goat|The goat climbed onto a rock.|山羊爬上了一块石头。
+rabbit|Our rabbit likes hiding under the sofa.|我们的兔子喜欢躲在沙发底下。
+rat|A rat ran behind the cupboard.|一只老鼠跑到了橱柜后面。
+squirrel|The squirrel carried a nut up the tree.|松鼠叼着一颗坚果爬上了树。
+monkey|A monkey reached for the fallen fruit.|一只猴子伸手去拿掉落的水果。
+panda|The panda spent the morning eating bamboo.|熊猫整个上午都在吃竹子。
+bear|We spotted a bear across the river.|我们看到河对岸有一头熊。
+tiger|The tiger's stripes help it hide in tall grass.|老虎的条纹有助于它藏在高草中。
+lion|We heard a lion roar in the distance.|我们听到远处传来狮子的吼声。
+elephant|The elephant sprayed water over its back.|大象往自己的背上喷水。
+giraffe|A giraffe can reach leaves high in the trees.|长颈鹿能吃到树上高处的叶子。
+zebra|The zebra stood apart from the herd.|那匹斑马站在离兽群较远的地方。
+deer|A deer crossed the road in front of us.|一只鹿在我们前方穿过了马路。
+wolf|The wolf disappeared into the forest.|那匹狼消失在森林里。
+fox|A fox slipped through a gap in the fence.|一只狐狸从篱笆的缝隙钻了过去。
+turtle|The turtle pulled its head into its shell.|乌龟把头缩进了壳里。
+frog|A frog leaped from the bank into the pond.|一只青蛙从岸边跳进了池塘。
+butterfly|A butterfly landed on her hat.|一只蝴蝶落在了她的帽子上。
+bee|A bee flew from flower to flower.|一只蜜蜂在花丛间飞来飞去。
+ant|An ant was carrying a crumb of bread.|一只蚂蚁正在搬运一小块面包屑。
+spider|The spider built a web across the window.|蜘蛛在窗户上结了一张网。
+music|Could you turn the music down a little?|你能把音乐调小声一点吗？
+art|This museum has a wonderful collection of modern art.|这家博物馆收藏了许多精彩的现代艺术作品。
+photography|She developed an interest in photography while traveling.|她在旅行时对摄影产生了兴趣。
+reading|Daily reading has improved my vocabulary.|每天阅读扩大了我的词汇量。
+writing|He signed up for a creative writing class.|他报名参加了创意写作课。
+painting|We bought some brushes for our painting class.|我们为绘画课买了一些画笔。
+dancing|There will be dancing after dinner.|晚饭后会有跳舞活动。
+singing|Her singing filled the room.|她的歌声充满了整个房间。
+cooking|I learned the basics of cooking from my dad.|我跟爸爸学会了做饭的基本技巧。
+baking|The children helped with the baking on Sunday.|星期日孩子们帮忙做了烘焙。
+gardening|A little gardening helps me relax after work.|下班后做一点园艺能帮助我放松。
+shopping|We did our shopping before the stores got crowded.|我们赶在商店人多之前买好了东西。
+travel|Her job involves a lot of travel.|她的工作需要经常旅行。
+swimming|Is swimming allowed in this lake?|这个湖允许游泳吗？
+running|He took up running last spring.|他去年春天开始跑步。
+walking|A few minutes of walking cleared my head.|散步几分钟后，我头脑清醒了。
+hiking|Wear comfortable shoes for hiking.|徒步旅行要穿舒适的鞋子。
+camping|Our first camping trip ended in heavy rain.|我们的第一次露营因大雨而结束。
+fishing|My uncle knows a quiet spot for fishing.|我叔叔知道一个安静的钓鱼地点。
+cycling|There is a cycling club in our neighborhood.|我们社区有一个骑行俱乐部。
+skiing|We tried skiing during our winter holiday.|寒假里我们尝试了滑雪。
+yoga|She does yoga before breakfast.|她早饭前练瑜伽。
+basketball|Do you want to play basketball after school?|放学后你想打篮球吗？
+soccer|Their soccer team won the final.|他们的足球队赢得了决赛。
+tennis|I need a partner for tennis tomorrow.|我明天打网球需要一个搭档。
+badminton|We play badminton in the park when it isn't windy.|没风时我们在公园打羽毛球。
+volleyball|A volleyball match was taking place on the beach.|海滩上正在进行一场排球比赛。
+baseball|My brother explained the rules of baseball to me.|哥哥给我讲解了棒球规则。
+golf|He borrowed some clubs to try golf.|他借了几根球杆尝试打高尔夫球。
+chess|She beat me at chess in ten minutes.|她十分钟就赢了我一局国际象棋。
+happy|I'm happy to hear that you passed.|听说你通过了，我很开心。
+sad|The ending of the film was sad.|电影的结尾很令人难过。
+angry|He was angry about the broken window.|他因为窗户被打破而生气。
+tired|We were too tired to cook after the hike.|徒步后我们累得不想做饭。
+sleepy|The warm room made me sleepy.|温暖的房间让我犯困。
+hungry|Are you hungry enough for a full meal?|你饿到能吃下一整顿饭了吗？
+thirsty|After the run, everyone was thirsty.|跑完步后，大家都口渴了。
+sick|She called in sick and stayed in bed.|她打电话请了病假，躺在床上休息。
+dizzy|Standing up too quickly makes me dizzy.|站起来太快会让我头晕。
+weak|My legs felt weak after the long climb.|爬了很久后，我的双腿有些无力。
+strong|You need strong arms to lift that box.|抬那个箱子需要强壮的手臂。
+healthy|He stays healthy by walking every day.|他每天走路来保持健康。
+better|I hope you feel better tomorrow.|希望你明天感觉好些。
+worse|My cold is worse than it was yesterday.|我的感冒比昨天更严重了。
+excited|The children are excited about the trip.|孩子们对这次旅行很兴奋。
+nervous|I get nervous before speaking in public.|当众讲话前我会紧张。
+worried|She looked worried when the bus didn't arrive.|公交车迟迟没来，她显得很担心。
+anxious|He felt anxious while waiting for the results.|等待结果时，他感到焦虑。
+calm|Her voice remained calm throughout the argument.|争论过程中，她的声音一直很平静。
+relaxed|A warm bath left me feeling relaxed.|洗个热水澡后，我觉得很放松。
+comfortable|Is that chair comfortable enough?|那把椅子坐着够舒服吗？
+uncomfortable|These new shoes are uncomfortable.|这双新鞋穿着不舒服。
+lonely|Moving to a new city can feel lonely.|搬到一个新城市可能会感到孤独。
+bored|The children grew bored during the long wait.|漫长的等待让孩子们感到无聊。
+confused|I'm confused about which bus to take.|我不清楚该坐哪路公交车。
+confident|She sounded confident during the interview.|面试时，她听起来很自信。
+proud|We're proud of all your hard work.|我们为你的努力感到自豪。
+grateful|I'm grateful for your help with the move.|我很感激你帮忙搬家。
+hopeful|They remain hopeful about finding their cat.|他们对找到猫仍充满希望。
+disappointed|He was disappointed that the concert was canceled.|演唱会取消了，他很失望。
+kind|It was kind of you to wait for me.|你真好，还等着我。
+friendly|Our new neighbors seem very friendly.|我们的新邻居似乎很友好。
+polite|A polite reply can prevent an argument.|有礼貌的回复可以避免争吵。
+rude|It's rude to interrupt someone mid-sentence.|打断别人说话很不礼貌。
+honest|Please give me an honest opinion.|请给我一个诚实的意见。
+patient|The teacher was patient with the beginners.|老师对初学者很有耐心。
+careful|Be careful when you carry that glass.|拿那个玻璃杯时小心一点。
+careless|A careless mistake cost us an hour.|一个粗心的错误耽误了我们一个小时。
+helpful|The hotel staff were helpful when we lost our tickets.|我们丢了票，酒店员工热心帮忙。
+smart|She's smart enough to solve it herself.|她很聪明，能自己解决这个问题。
+clever|The clever child found a quicker way.|那个机灵的孩子找到了更快的办法。
+wise|It was wise to bring an extra battery.|多带一块电池是明智的。
+funny|His funny stories made everyone laugh.|他风趣的故事让大家都笑了。
+serious|She had a serious expression on her face.|她脸上的表情很严肃。
+quiet|Please be quiet while the baby is sleeping.|宝宝睡觉时请保持安静。
+shy|He was too shy to introduce himself.|他太害羞，不敢自我介绍。
+brave|The brave girl spoke up for her friend.|那个勇敢的女孩为朋友说了话。
+creative|We need someone creative to design the poster.|我们需要一个有创造力的人来设计海报。
+curious|The children were curious about the strange machine.|孩子们对这台奇怪的机器很好奇。
+generous|That was a generous gift.|那是一份慷慨的礼物。
+selfish|It would be selfish to keep all the food.|把食物全留下自己吃会很自私。
+lazy|Don't be lazy; put your clothes away.|别偷懒，把衣服收好。
+busy|I'm busy until three, but free after that.|我三点前都很忙，之后有空。
+popular|This singer is popular with young listeners.|这位歌手很受年轻听众欢迎。
+famous|The town is famous for its old bridge.|这个小镇因古桥而闻名。
+big|We need a big box for these books.|我们需要一个大箱子装这些书。
+small|The room is small but bright.|房间很小，但很明亮。
+large|A large crowd gathered outside the station.|车站外聚集了一大群人。
+tiny|A tiny boat floated in the bath.|一只小巧的船漂在浴缸里。
+heavy|This suitcase is too heavy to lift.|这个行李箱太重，提不起来。
+light|Choose a light jacket for the walk.|选一件轻便的夹克去散步。
+new|Have you tried the new restaurant?|你去过那家新餐馆吗？
+old|I turned an old shirt into a cleaning cloth.|我把一件旧衬衫改成了抹布。
+clean|Make sure your hands are clean.|确保你的手是干净的。
+dirty|Leave your dirty boots outside.|把脏靴子留在外面。
+wet|The paint is still wet.|油漆还没干。
+dry|Hang the towel somewhere dry.|把毛巾挂在干燥的地方。
+soft|The baby fell asleep on a soft blanket.|宝宝在柔软的毯子上睡着了。
+hard|This bread is too hard to bite.|这块面包太硬，咬不动。
+cheap|We found a cheap place to stay.|我们找到了一个便宜的住处。
+expensive|Eating out every day gets expensive.|每天在外面吃饭很花钱。
+free|Admission is free for children under six.|六岁以下儿童免费入场。
+beautiful|What a beautiful view from this window!|从这扇窗户望出去，景色真美！
+ugly|An ugly stain ruined the tablecloth.|一块难看的污渍毁了桌布。
+useful|This map will be useful on our trip.|这张地图会对我们的旅行有用。
+useless|Without batteries, the flashlight is useless.|没有电池，手电筒就没用了。
+empty|The streets were empty before sunrise.|日出前街上空无一人。
+full|The bus was already full when it arrived.|公交车到站时已经满了。
+open|Leave the door open for the cat.|把门开着，让猫能进来。
+closed|The shop is closed for repairs.|商店关门维修。
+red|Her face turned red with embarrassment.|她尴尬得脸红了。
+blue|We chose blue paint for the bedroom.|我们给卧室选了蓝色油漆。
+green|The hills turn green in spring.|春天山丘变绿了。
+yellow|Follow the yellow line on the floor.|沿着地板上的黄线走。
+black|He wore black shoes to the wedding.|他穿着黑色鞋子参加婚礼。
+white|Snow left a white layer on the roof.|雪在屋顶上铺了白白的一层。
+gray|Dark gray clouds covered the sky.|深灰色的云覆盖了天空。
+brown|The dog has brown ears and a white tail.|那只狗有棕色的耳朵和白色的尾巴。
+pink|She tied a pink ribbon around the gift.|她在礼物上系了一条粉色丝带。
+purple|The evening sky slowly turned purple.|傍晚的天空慢慢变成了紫色。
+good|That's a good question.|那是个好问题。
+bad|We had bad luck with the weather.|我们运气不好，碰上了坏天气。
+great|You did a great job on the presentation.|你的演示报告做得非常好。
+terrible|The hotel had a terrible smell.|那家酒店有一股难闻的气味。
+normal|Is it normal for this machine to make that sound?|这台机器发出那种声音正常吗？
+unusual|It's unusual to see snow here.|这里很少下雪。
+strange|I heard a strange noise downstairs.|我听到楼下有奇怪的声音。
+different|Let's try a different approach.|我们试试另一种方法。
+similar|The two bags look similar.|这两个包看起来很像。
+simple|The instructions are simple to follow.|这些说明很简单，容易照着做。
+complicated|The rules are more complicated than I thought.|规则比我想的更复杂。
+difficult|It was difficult to hear her over the music.|音乐声太大，很难听清她说话。
+dangerous|Swimming here is dangerous after heavy rain.|大雨后在这里游泳很危险。
+safe|Is it safe to leave my bicycle here?|把自行车放在这里安全吗？
+urgent|Please call me; it's urgent.|请给我打电话，有急事。
+stable|The table is stable now that we've fixed the leg.|桌腿修好后，桌子稳了。
+uncertain|Our travel dates are still uncertain.|我们的旅行日期仍未确定。
+clear|Your explanation made everything clear.|你的解释让一切都清楚了。
+temporary|This is only a temporary arrangement.|这只是一个暂时的安排。
+unfair|It's unfair to blame her for everything.|把一切都怪在她身上是不公平的。
+Monday|The office reopens on Monday.|办公室星期一恢复办公。
+Tuesday|Are you free for lunch on Tuesday?|你星期二有空一起吃午餐吗？
+Wednesday|I have a piano lesson every Wednesday.|我每个星期三上钢琴课。
+Thursday|Please return the books by Thursday.|请在星期四之前把书还回来。
+Friday|We stayed up late on Friday night.|我们星期五晚上熬夜了。
+Saturday|The market is busiest on Saturday mornings.|市场在星期六早上最热闹。
+Sunday|Let's go for a walk this Sunday.|这个星期日我们去散步吧。
+January|The lake often freezes in January.|湖在一月经常结冰。
+February|Her course begins in February.|她的课程二月开始。
+March|We moved into this apartment last March.|我们去年三月搬进了这套公寓。
+April|The garden is full of flowers in April.|四月花园里开满了花。
+May|Will you be here in May?|五月你会在这里吗？
+June|Our final exams are in June.|我们的期末考试在六月。
+July|They spent July by the sea.|他们七月一直待在海边。
+August|The city gets very hot in August.|这座城市八月很热。
+September|School starts again in September.|学校九月重新开学。
+October|We plan to visit our relatives in October.|我们计划十月去探亲。
+November|By November, most of the leaves have fallen.|到了十一月，大部分树叶都落了。
+December|The shop stays open later in December.|这家商店十二月的关门时间会晚一些。
+one|There is only one seat left.|只剩一个座位了。
+two|I'll be ready in two minutes.|我两分钟后就准备好。
+three|She speaks three languages.|她会说三种语言。
+four|Cut the sandwich into four pieces.|把三明治切成四块。
+five|It takes five minutes to walk there.|走到那里需要五分钟。
+six|The table has room for six people.|这张桌子能坐六个人。
+seven|We spent seven days on the island.|我们在岛上待了七天。
+eight|The library opens at eight.|图书馆八点开门。
+nine|He was nine when he learned to swim.|他九岁时学会了游泳。
+ten|Count to ten before you open your eyes.|数到十再睁开眼睛。
+eleven|The last bus leaves at eleven.|末班公交车十一点开。
+twelve|There are twelve months in a year.|一年有十二个月。
+thirteen|Only thirteen students came to class today.|今天只有十三名学生来上课。
+fourteen|The package took fourteen days to arrive.|包裹过了十四天才到。
+fifteen|Bake for fifteen minutes, then check the cake.|烤十五分钟，然后检查蛋糕。
+sixteen|She wrote her first story at sixteen.|她十六岁时写了第一个故事。
+seventeen|The team scored seventeen points.|这支队得了十七分。
+eighteen|He left home when he was eighteen.|他十八岁时离开了家。
+nineteen|There are nineteen names on the list.|名单上有十九个名字。
+twenty|The ticket costs twenty dollars.|票价是二十美元。
+thirty|We waited thirty minutes for a table.|我们等了三十分钟才有空桌。
+forty|The bus can carry forty passengers.|这辆公交车能载四十名乘客。
+fifty|She saved fifty dollars by booking early.|她提前预订省了五十美元。
+sixty|There are sixty seconds in a minute.|一分钟有六十秒。
+seventy|My grandfather turned seventy this year.|我祖父今年七十岁了。
+eighty|The battery is at eighty percent.|电池电量还剩百分之八十。
+ninety|The film lasts ninety minutes.|这部电影时长九十分钟。
+one hundred|The hall can hold one hundred guests.|这个大厅可以容纳一百位客人。
