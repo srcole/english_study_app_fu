@@ -22,9 +22,11 @@ test('play a complete filtered round, hear feedback, self-mark and review mistak
   await expect(page.getByRole('heading', { name: 'A little fu-pas. A little learning.' })).toBeVisible();
   await expect(page.locator('.example-box p[lang=en]')).not.toBeEmpty();
   expect(await page.evaluate(() => (window as unknown as { __spoken: string[] }).__spoken.length)).toBe(1);
-  await page.getByRole('button', { name: 'My answer means the same' }).click();
+  await page.getByRole('button', { name: 'Close enough — mark correct' }).click();
   await expect(page.getByRole('heading', { name: 'Fu-nomenal. You got it!' })).toBeVisible();
+  await expect(page.getByText('Self-marked correct', { exact: true })).toBeVisible();
   await page.getByRole('button', { name: 'Next piece of fu' }).click();
+  await expect(page.getByText('1 correct', { exact: true })).toBeVisible();
   for (let i = 1; i < 5; i++) {
     await page.getByRole('button', { name: 'My brain is tofu' }).click();
     await page.getByRole('button', { name: i === 4 ? 'Show me my fu score' : 'Next piece of fu' }).click();

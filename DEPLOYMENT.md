@@ -302,7 +302,7 @@ Use the actual production site for these checks:
 | Empty vocabulary | Run `schema.sql` first, then the complete `seed.sql`. Confirm the count query. |
 | Permission denied / cannot load words | Confirm login, RLS policies, table grants, and that the URL/key refer to the same project. Rerun the supplied schema instead of disabling RLS. |
 | No questions for idioms/slang | P1-only excludes most expressions. Try P1–P3 or all priorities and clear the topic filter. |
-| Valid translation marked wrong | Use “My answer means the same — count it”; the checker has a finite set of variants. Extend `src/lib/game.ts` for more aliases. |
+| Valid translation marked wrong | Use “Close enough — mark correct”; the checker has a finite set of variants. Extend `src/lib/game.ts` for more aliases. |
 | No voice on a phone | Open **Voice settings**, select **Device default English**, and tap **Preview voice**. Check media volume/output and an installed English speech voice. If using an embedded browser inside another app, try the same site directly in Safari or Chrome. After deploying audio changes, reload the page. |
 | Round does not save | Confirm you are signed in and not in demo, finish the round, then use “Retry saving.” Check Auth logs, table policies, and network access. |
 | Build cannot find files | Confirm Vercel root directory and that the required source/config files were committed. |
