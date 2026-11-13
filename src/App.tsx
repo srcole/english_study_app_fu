@@ -290,7 +290,7 @@ export default function App() {
             <section className="fu-note"><span className="note-star">✳</span><div><strong>A little fu every day.</strong><p>Five minutes beats zero minutes.<br />Master Tofu has done the math.<br /><span>(He used his tiny tofu fingers.)</span></p></div></section>
           </aside>
         </div>
-        <div className="collection-strip"><div className="collection-icon"><Sparkles size={21} /></div><div><strong>Big vocabulary. Bite-sized rounds.</strong><span>1,176 vocabulary entries + 100 idioms + 100 slang & informal expressions.</span></div><span className="collection-badge">Made for 中文 speakers</span></div>
+        <div className="collection-strip"><div className="collection-icon"><Sparkles size={21} /></div><div><strong>Big vocabulary. Bite-sized rounds.</strong><span>1,476 vocabulary entries + 100 idioms + 100 slang & informal expressions.</span></div><span className="collection-badge">Made for 中文 speakers</span></div>
         {demoMode && <p className="demo-notice">You’re in the little fu demo · {demoWords.length} sample entries · scores aren’t saved. {configured ? <button onClick={() => { setDemo(false); if (!session) setModal('login'); }}>Use my account →</button> : 'Connect Supabase to unlock email login and the full collection.'}</p>}
       </>}
 

@@ -1,0 +1,100 @@
+accurate|准确的|ˈækjərət|adjective|信息与判断|2|We need accurate information before we decide.|我们作决定前需要准确的信息。
+adequate|足够的；适当的|ˈædəkwət|adjective|数量与质量|3|The room has adequate space for six people.|这个房间有足够的空间容纳六个人。
+affordable|负担得起的|əˈfɔrdəbəl|adjective|金钱与消费|2|We are looking for affordable housing.|我们正在寻找负担得起的住房。
+alternative|替代方案|ɔlˈtɜrnətɪv|noun|决定与方案|2|Cycling is a cheaper alternative to driving.|骑自行车是比开车更便宜的出行方式。
+ambitious|有雄心的|æmˈbɪʃəs|adjective|人物与态度|3|She has an ambitious plan for the company.|她为公司制定了一个雄心勃勃的计划。
+analyze|分析|ˈænəˌlaɪz|verb|研究与思考|2|We need to analyze the survey results.|我们需要分析调查结果。
+annual|每年的；年度的|ˈænjuəl|adjective|时间与变化|2|The annual festival attracts many visitors.|这个年度节日吸引了许多游客。
+apparent|明显的|əˈpærənt|adjective|信息与判断|3|The reason for the delay soon became apparent.|延误的原因很快就明朗了。
+approach|方法；处理方式|əˈproʊtʃ|noun|决定与方案|2|We need a different approach to this problem.|我们需要用不同的方法处理这个问题。
+appropriate|合适的|əˈproʊpriət|adjective|信息与判断|2|Wear appropriate clothing for the interview.|穿合适的衣服去面试。
+assess|评估|əˈsɛs|verb|研究与思考|3|The team will assess the damage tomorrow.|团队明天将评估损失。
+assume|假定；认为|əˈsum|verb|研究与思考|2|Do not assume that everyone agrees with you.|不要以为每个人都同意你。
+attitude|态度|ˈætəˌtud|noun|人物与态度|2|A positive attitude can help you learn.|积极的态度能帮助你学习。
+aware|意识到的|əˈwɛr|adjective|信息与判断|2|Are you aware of the risks?|你意识到这些风险了吗？
+benefit|益处|ˈbɛnəfɪt|noun|结果与影响|2|One benefit of exercise is better sleep.|锻炼的一个好处是改善睡眠。
+capable|有能力的|ˈkeɪpəbəl|adjective|人物与态度|2|She is capable of managing the project.|她有能力管理这个项目。
+circumstance|情况；情形|ˈsɜrkəmˌstæns|noun|情况与条件|3|One unexpected circumstance changed our plans.|一个意外情况改变了我们的计划。
+commitment|承诺；投入|kəˈmɪtmənt|noun|工作与责任|2|Learning a language requires commitment.|学习一门语言需要投入。
+competitive|有竞争力的|kəmˈpɛtətɪv|adjective|商业与工作|3|The company offers a competitive salary.|这家公司提供有竞争力的薪资。
+complex|复杂的|kəmˈplɛks|adjective|数量与质量|2|This is a complex issue with no easy answer.|这是个复杂的问题，没有简单的答案。
+concept|概念|ˈkɑnsɛpt|noun|研究与思考|2|The teacher explained the concept with a drawing.|老师用一幅图解释了这个概念。
+consequence|后果|ˈkɑnsəˌkwɛns|noun|结果与影响|2|A delay could be one consequence of bad weather.|恶劣天气可能造成延误。
+considerable|相当大的|kənˈsɪdərəbəl|adjective|数量与质量|3|The repairs will take considerable time.|维修将需要相当长的时间。
+consistent|一贯的；始终如一的|kənˈsɪstənt|adjective|数量与质量|3|We need consistent quality across all stores.|我们需要所有门店保持一致的质量。
+contribute|贡献；促成|kənˈtrɪbjut|verb|合作与行动|2|Everyone can contribute to the discussion.|每个人都可以参与讨论并提出意见。
+convince|说服|kənˈvɪns|verb|沟通与观点|2|Can you convince him to try again?|你能说服他再试一次吗？
+crucial|至关重要的|ˈkruʃəl|adjective|数量与质量|3|Trust is crucial to a good partnership.|信任对良好的合作关系至关重要。
+debate|辩论；讨论|dɪˈbeɪt|noun|沟通与观点|2|The proposal started a lively debate.|这个提议引发了热烈的讨论。
+decline|下降|dɪˈklaɪn|noun|时间与变化|3|There was a sharp decline in sales.|销售额大幅下降了。
+demonstrate|展示；证明|ˈdɛmənˌstreɪt|verb|沟通与观点|2|Let me demonstrate how the tool works.|让我演示一下这个工具如何使用。
+dependable|可靠的|dɪˈpɛndəbəl|adjective|人物与态度|3|We need a dependable supplier.|我们需要一个可靠的供应商。
+deserve|值得；应得|dɪˈzɜrv|verb|人物与态度|2|You deserve a break after all that work.|做了那么多工作后，你应该休息一下。
+determine|确定；查明|dɪˈtɜrmɪn|verb|研究与思考|2|The test will determine the cause of the problem.|这项测试将查明问题的原因。
+disadvantage|不利条件；缺点|ˌdɪsədˈvæntɪdʒ|noun|结果与影响|2|The main disadvantage is the high cost.|主要缺点是成本高。
+efficient|高效的|ɪˈfɪʃənt|adjective|商业与工作|2|The new system is more efficient.|新系统效率更高。
+emphasize|强调|ˈɛmfəˌsaɪz|verb|沟通与观点|3|I want to emphasize the importance of practice.|我想强调练习的重要性。
+encounter|遇到；遭遇|ɪnˈkaʊntər|verb|情况与条件|3|You may encounter unfamiliar words in this article.|你可能会在这篇文章中遇到生词。
+ensure|确保|ɪnˈʃʊr|verb|工作与责任|2|Please ensure that the door is locked.|请确保门已经锁好。
+estimate|估计；估算|ˈɛstəˌmeɪt|verb|数量与质量|2|Can you estimate the total cost?|你能估算总成本吗？
+evaluate|评价；评估|ɪˈvæljuˌeɪt|verb|研究与思考|3|We will evaluate the results next week.|我们下周将评估结果。
+evidence|证据|ˈɛvɪdəns|noun|信息与判断|2|There is no evidence to support that claim.|没有证据支持那个说法。
+expand|扩大；扩展|ɪkˈspænd|verb|时间与变化|2|The company plans to expand into new markets.|这家公司计划拓展新市场。
+exposure|接触；暴露|ɪkˈspoʊʒər|noun|结果与影响|3|Regular exposure to English can improve your listening skills.|经常接触英语可以提高你的听力水平。
+flexible|灵活的|ˈflɛksəbəl|adjective|商业与工作|2|My employer offers flexible working hours.|我的雇主提供灵活的工作时间。
+frequent|频繁的|ˈfrikwənt|adjective|时间与变化|3|Frequent breaks can help you concentrate.|经常休息有助于集中注意力。
+fundamental|根本的；基础的|ˌfʌndəˈmɛntəl|adjective|研究与思考|3|We disagree on one fundamental point.|我们在一个根本问题上存在分歧。
+generate|产生|ˈdʒɛnəˌreɪt|verb|结果与影响|3|The campaign helped generate interest in the product.|这次宣传活动帮助人们对产品产生了兴趣。
+genuine|真正的；真诚的|ˈdʒɛnjuɪn|adjective|人物与态度|3|She showed genuine concern for her neighbors.|她对邻居表现出了真诚的关心。
+gradual|逐渐的|ˈɡrædʒuəl|adjective|时间与变化|3|We noticed a gradual improvement in his health.|我们注意到他的健康状况逐渐好转。
+guarantee|保证|ˌɡærənˈti|verb|商业与工作|2|We cannot guarantee delivery by Friday.|我们不能保证星期五之前送达。
+highlight|突出；强调|ˈhaɪˌlaɪt|verb|沟通与观点|2|The report will highlight the main risks.|这份报告将重点指出主要风险。
+identify|识别；确定|aɪˈdɛntəˌfaɪ|verb|研究与思考|2|Can you identify the source of the noise?|你能确定噪声的来源吗？
+impact|影响|ˈɪmpækt|noun|结果与影响|2|The new road will have a major impact on the town.|这条新路将对小镇产生重大影响。
+imply|暗示；意味着|ɪmˈplaɪ|verb|沟通与观点|3|Silence does not always imply agreement.|沉默并不总是表示同意。
+independent|独立的|ˌɪndɪˈpɛndənt|adjective|人物与态度|2|We need an independent review of the decision.|我们需要对这个决定进行独立审查。
+indicate|表明；指出|ˈɪndəˌkeɪt|verb|信息与判断|2|These results indicate a need for further research.|这些结果表明需要进一步研究。
+inevitable|不可避免的|ɪnˈɛvətəbəl|adjective|情况与条件|3|Some delays are inevitable during construction.|施工期间有些延误不可避免。
+initial|最初的|ɪˈnɪʃəl|adjective|时间与变化|2|My initial reaction was surprise.|我的第一反应是惊讶。
+insight|深入理解；洞察|ˈɪnˌsaɪt|noun|研究与思考|3|The interview gave us insight into her work.|这次采访让我们深入了解了她的工作。
+intend|打算|ɪnˈtɛnd|verb|决定与方案|2|I intend to apply for the position.|我打算申请这个职位。
+interpret|解释；理解|ɪnˈtɜrprət|verb|信息与判断|3|People may interpret the message differently.|人们可能会对这条信息有不同的理解。
+investigate|调查|ɪnˈvɛstəˌɡeɪt|verb|研究与思考|2|The company will investigate the complaint.|公司将调查这项投诉。
+justify|证明……有道理|ˈdʒʌstəˌfaɪ|verb|沟通与观点|3|Can you justify the extra expense?|你能说明额外支出的合理性吗？
+maintain|维持；保养|meɪnˈteɪn|verb|工作与责任|2|It takes effort to maintain a healthy routine.|保持健康的生活规律需要付出努力。
+majority|大多数|məˈdʒɔrəti|noun|数量与质量|2|The majority of employees supported the change.|大多数员工支持这项改变。
+minority|少数|maɪˈnɔrəti|noun|数量与质量|3|Only a small minority opposed the plan.|只有少数人反对这个计划。
+negotiate|谈判；协商|nɪˈɡoʊʃiˌeɪt|verb|商业与工作|3|We hope to negotiate a better price.|我们希望协商一个更优惠的价格。
+objective|目标|əbˈdʒɛktɪv|noun|决定与方案|3|Our main objective is to improve access to education.|我们的主要目标是改善教育机会。
+obtain|获得|əbˈteɪn|verb|合作与行动|3|You must obtain permission before filming.|拍摄前必须获得许可。
+obvious|明显的|ˈɑbviəs|adjective|信息与判断|2|There is no obvious solution to the problem.|这个问题没有显而易见的解决办法。
+opponent|对手|əˈpoʊnənt|noun|社会与竞争|3|She shook hands with her opponent.|她与对手握了手。
+outcome|结果|ˈaʊtˌkʌm|noun|结果与影响|2|We are pleased with the outcome of the meeting.|我们对会议的结果很满意。
+overall|总体的|ˌoʊvərˈɔl|adjective|信息与判断|2|The overall quality of the work is excellent.|这项工作的总体质量非常好。
+participate|参与|pɑrˈtɪsəˌpeɪt|verb|合作与行动|2|Everyone is welcome to participate in the discussion.|欢迎大家参与讨论。
+perspective|视角；观点|pərˈspɛktɪv|noun|沟通与观点|2|Try to see the issue from her perspective.|试着从她的角度看这个问题。
+potential|潜力|pəˈtɛnʃəl|noun|结果与影响|2|This idea has great potential.|这个想法有很大的潜力。
+predict|预测|prɪˈdɪkt|verb|研究与思考|2|It is difficult to predict the outcome.|结果很难预测。
+previous|以前的|ˈpriviəs|adjective|时间与变化|2|My previous job involved a lot of travel.|我以前的工作需要经常出差。
+principle|原则|ˈprɪnsəpəl|noun|工作与责任|3|Fairness is the main principle behind this policy.|公平是这项政策背后的主要原则。
+procedure|程序；步骤|prəˈsidʒər|noun|商业与工作|3|Please follow the correct procedure.|请遵循正确的程序。
+propose|提议|prəˈpoʊz|verb|决定与方案|2|I propose that we meet again next week.|我提议我们下周再见面。
+purchase|购买|ˈpɜrtʃəs|verb|金钱与消费|3|You can purchase tickets online.|你可以在网上购票。
+range|范围|reɪndʒ|noun|数量与质量|2|The store offers a wide range of products.|这家商店提供种类繁多的产品。
+reasonable|合理的|ˈrizənəbəl|adjective|信息与判断|2|That seems like a reasonable request.|那个请求似乎很合理。
+relevant|相关的|ˈrɛləvənt|adjective|信息与判断|2|Please include only relevant information.|请只提供相关信息。
+reliable|可靠的|rɪˈlaɪəbəl|adjective|数量与质量|2|We need a reliable internet connection.|我们需要稳定可靠的网络连接。
+require|需要；要求|rɪˈkwaɪr|verb|情况与条件|2|Some jobs require special training.|有些工作需要专门培训。
+resolve|解决|rɪˈzɑlv|verb|决定与方案|3|We need to resolve this issue quickly.|我们需要迅速解决这个问题。
+resource|资源|ˈriˌsɔrs|noun|商业与工作|2|The library is a valuable resource for students.|图书馆对学生来说是宝贵的资源。
+respond|回应|rɪˈspɑnd|verb|沟通与观点|2|Please respond to the invitation by Monday.|请在星期一之前回复邀请。
+retain|保留|rɪˈteɪn|verb|工作与责任|3|The company wants to retain experienced staff.|公司希望留住经验丰富的员工。
+significant|显著的；重要的|sɪɡˈnɪfɪkənt|adjective|数量与质量|2|There has been a significant increase in demand.|需求出现了显著增长。
+specific|具体的|spəˈsɪfɪk|adjective|信息与判断|2|Could you give me a specific example?|你能给我一个具体的例子吗？
+strategy|策略|ˈstrætədʒi|noun|决定与方案|2|We need a clear strategy for growth.|我们需要明确的发展策略。
+sufficient|足够的|səˈfɪʃənt|adjective|数量与质量|3|We do not have sufficient evidence yet.|我们还没有足够的证据。
+survey|调查|ˈsɜrˌveɪ|noun|研究与思考|2|The survey asked customers about their experience.|这项调查询问了顾客的体验。
+tendency|倾向|ˈtɛndənsi|noun|人物与态度|3|I have a tendency to worry too much.|我容易过度担忧。
+threat|威胁|θrɛt|noun|社会与风险|2|Pollution is a threat to wildlife.|污染对野生动物构成威胁。
+transfer|转移；调动|trænsˈfɜr|verb|合作与行动|2|Can you transfer the files to my computer?|你能把文件传到我的电脑上吗？
+valid|有效的；合理的|ˈvælɪd|adjective|信息与判断|3|Your ticket is valid for one month.|你的票有效期为一个月。

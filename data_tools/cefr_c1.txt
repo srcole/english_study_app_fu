@@ -1,0 +1,100 @@
+acknowledge|承认|əkˈnɑlɪdʒ|verb|沟通与观点|3|We must acknowledge that the plan has weaknesses.|我们必须承认这个计划存在不足。
+advocate|提倡；主张|ˈædvəˌkeɪt|verb|沟通与观点|3|Many teachers advocate smaller classes.|许多教师主张缩小班级规模。
+allocate|分配|ˈæləˌkeɪt|verb|商业与管理|3|We need to allocate more time to testing.|我们需要分配更多时间进行测试。
+ambiguous|含糊不清的|æmˈbɪɡjuəs|adjective|语言与逻辑|3|The instructions were ambiguous and caused confusion.|说明含糊不清，造成了混乱。
+anticipate|预料；预期|ænˈtɪsəˌpeɪt|verb|决定与规划|3|We anticipate a rise in demand this winter.|我们预计今年冬天需求会上升。
+arbitrary|任意的；武断的|ˈɑrbəˌtrɛri|adjective|语言与逻辑|4|The deadline seemed arbitrary rather than necessary.|这个截止日期似乎是随意定的，而非必要的。
+assert|断言；坚称|əˈsɜrt|verb|沟通与观点|3|The authors assert that the policy has failed.|作者断言这项政策已经失败。
+attribute|把……归因于|əˈtrɪbjut|verb|研究与解释|3|They attribute their success to careful planning.|他们把成功归功于周密的规划。
+autonomy|自主权|ɔˈtɑnəmi|noun|社会与制度|3|Employees want greater autonomy over their schedules.|员工希望对工作安排有更大的自主权。
+bias|偏见；偏差|ˈbaɪəs|noun|研究与解释|3|The study tries to reduce bias in the sample.|这项研究试图减少样本偏差。
+coherent|连贯的；条理清楚的|koʊˈhɪrənt|adjective|语言与逻辑|3|Her essay presents a coherent argument.|她的文章提出了条理清晰的论证。
+coincide|同时发生；一致|ˌkoʊɪnˈsaɪd|verb|时间与变化|3|The repairs will coincide with the school holiday.|维修将与学校假期同时进行。
+compelling|令人信服的|kəmˈpɛlɪŋ|adjective|沟通与观点|3|There is compelling evidence for the new approach.|有令人信服的证据支持这种新方法。
+comprehensive|全面的|ˌkɑmprɪˈhɛnsɪv|adjective|数量与质量|3|The report provides a comprehensive review of the evidence.|这份报告全面回顾了相关证据。
+compromise|妥协；折中方案|ˈkɑmprəˌmaɪz|noun|合作与冲突|3|Both sides agreed to a compromise.|双方同意了一个折中方案。
+conceive|构想；想出|kənˈsiv|verb|研究与解释|4|It is difficult to conceive a solution that satisfies everyone.|很难想出一个让所有人都满意的方案。
+concede|承认（常指勉强承认）|kənˈsid|verb|沟通与观点|4|I concede that your proposal has some advantages.|我承认你的提议有一些优点。
+consensus|共识|kənˈsɛnsəs|noun|合作与冲突|3|The committee reached a consensus after a long discussion.|委员会经过长时间讨论后达成了共识。
+constraint|限制；约束|kənˈstreɪnt|noun|决定与规划|3|Cost is the main constraint on the project.|成本是这个项目的主要限制因素。
+contradict|反驳；与……矛盾|ˌkɑntrəˈdɪkt|verb|语言与逻辑|3|These findings contradict the earlier report.|这些发现与先前的报告相矛盾。
+controversial|有争议的|ˌkɑntrəˈvɜrʃəl|adjective|社会与制度|3|The proposal remains controversial.|这个提议仍然存在争议。
+convey|传达|kənˈveɪ|verb|沟通与观点|3|The photograph can convey feelings that words cannot.|这张照片能够传达语言无法表达的感受。
+credible|可信的|ˈkrɛdəbəl|adjective|研究与解释|3|We need a credible explanation for the error.|我们需要对这个错误作出可信的解释。
+criterion|标准（单数）|kraɪˈtɪriən|noun|数量与质量|3|Safety is our most important criterion.|安全是我们最重要的标准。
+deduce|推断|dɪˈdus|verb|研究与解释|4|What can we deduce from these results?|我们能从这些结果中推断出什么？
+deficiency|不足；缺乏|dɪˈfɪʃənsi|noun|数量与质量|4|The review identified a deficiency in staff training.|审查发现了员工培训方面的不足。
+deliberate|故意的；深思熟虑的|dɪˈlɪbərət|adjective|人物与态度|3|It was a deliberate decision, not an accident.|那是一个经过深思熟虑的决定，并非偶然。
+deprive|剥夺|dɪˈpraɪv|verb|社会与制度|3|Lack of funding may deprive children of opportunities.|资金不足可能会剥夺孩子们的机会。
+derive|获得；源于|dɪˈraɪv|verb|研究与解释|3|Many people derive satisfaction from helping others.|许多人从帮助他人中获得满足感。
+diminish|减少；减弱|dɪˈmɪnɪʃ|verb|时间与变化|3|The pain should diminish over time.|疼痛应该会随着时间减轻。
+discretion|自行决定权；酌情处理权|dɪˈskrɛʃən|noun|社会与制度|4|Managers have discretion over flexible working arrangements.|经理有权酌情决定灵活工作安排。
+displace|使离开原处；取代|dɪsˈpleɪs|verb|社会与变化|4|Automation may displace some workers.|自动化可能会取代一些工人的岗位。
+distort|歪曲；扭曲|dɪˈstɔrt|verb|信息与判断|3|A misleading headline can distort the facts.|误导性的标题会歪曲事实。
+diverse|多样的|daɪˈvɜrs|adjective|社会与文化|3|The city has a diverse population.|这座城市的人口构成多元。
+elaborate|详细阐述|ɪˈlæbəˌreɪt|verb|沟通与观点|3|Could you elaborate on your proposal?|你能详细阐述一下你的提议吗？
+empirical|以观察或实验为依据的|ɛmˈpɪrɪkəl|adjective|研究与解释|4|The theory needs empirical support.|这个理论需要实证支持。
+enhance|提高；增强|ɪnˈhæns|verb|数量与质量|3|Better lighting can enhance the atmosphere of a room.|更好的照明可以改善房间的氛围。
+entail|意味着需要；必然涉及|ɪnˈteɪl|verb|决定与规划|4|The role will entail frequent travel.|这个职位需要经常出差。
+equivalent|等同的；等值的|ɪˈkwɪvələnt|adjective|数量与质量|3|The two qualifications are roughly equivalent.|这两项资格大致等同。
+explicit|明确的|ɪkˈsplɪsɪt|adjective|语言与逻辑|3|We need explicit permission to use the images.|我们需要得到明确许可才能使用这些图片。
+facilitate|促进；使便利|fəˈsɪləˌteɪt|verb|商业与管理|3|The new platform will facilitate communication.|新平台将促进沟通。
+feasible|可行的|ˈfizəbəl|adjective|决定与规划|3|The plan is technically feasible but expensive.|这个计划在技术上可行，但费用很高。
+fluctuate|波动|ˈflʌktʃuˌeɪt|verb|时间与变化|4|Energy prices fluctuate throughout the year.|能源价格全年都在波动。
+formulate|制定；系统地表达|ˈfɔrmjəˌleɪt|verb|决定与规划|3|We need to formulate a clear response.|我们需要拟定一个明确的答复。
+framework|框架|ˈfreɪmˌwɜrk|noun|研究与解释|3|The agreement provides a framework for cooperation.|这项协议为合作提供了框架。
+hypothesis|假设|haɪˈpɑθəsɪs|noun|研究与解释|4|The experiment was designed to test the hypothesis.|这项实验旨在检验该假设。
+implement|实施|ˈɪmpləˌmɛnt|verb|商业与管理|3|The school will implement the policy next term.|学校将在下学期实施这项政策。
+implicit|含蓄的；未明说的|ɪmˈplɪsɪt|adjective|语言与逻辑|4|There was an implicit agreement to share the work.|大家默契地同意分担工作。
+incentive|激励；刺激因素|ɪnˈsɛntɪv|noun|商业与管理|3|The discount gives customers an incentive to return.|折扣能吸引顾客再次光顾。
+incorporate|包含；纳入|ɪnˈkɔrpəˌreɪt|verb|商业与管理|3|We will incorporate your feedback into the next version.|我们会把你的反馈纳入下一个版本。
+infer|推断|ɪnˈfɜr|verb|研究与解释|4|We cannot infer his intentions from one message.|我们不能仅凭一条消息推断他的意图。
+inherent|固有的；内在的|ɪnˈhɪrənt|adjective|研究与解释|4|There are inherent risks in any investment.|任何投资都有其固有风险。
+initiate|发起；开始|ɪˈnɪʃiˌeɪt|verb|商业与管理|3|The director will initiate a review of the process.|主管将启动对该流程的审查。
+integrity|正直；诚信|ɪnˈtɛɡrəti|noun|人物与态度|3|Her colleagues respect her integrity.|她的同事敬重她的正直。
+intervene|介入；干预|ˌɪntərˈvin|verb|合作与冲突|3|A teacher had to intervene in the argument.|一位老师不得不介入这场争吵。
+intrinsic|本质的；内在的|ɪnˈtrɪnsɪk|adjective|研究与解释|4|The course encourages an intrinsic interest in learning.|这门课程鼓励学生培养对学习本身的兴趣。
+legitimate|合法的；正当的|lɪˈdʒɪtəmət|adjective|社会与制度|3|Employees have a legitimate concern about safety.|员工对安全的担忧是正当的。
+likewise|同样地|ˈlaɪkˌwaɪz|adverb|语言与逻辑|3|The first proposal was rejected; the second was likewise unsuccessful.|第一个提议被否决了，第二个也未获通过。
+marginal|微小的；不显著的|ˈmɑrdʒənəl|adjective|数量与质量|4|The new method offers only a marginal improvement.|新方法只能带来微小的改善。
+mechanism|机制|ˈmɛkəˌnɪzəm|noun|研究与解释|3|The system needs a mechanism for handling complaints.|这个系统需要一套处理投诉的机制。
+mitigate|减轻；缓解|ˈmɪtəˌɡeɪt|verb|风险与应对|4|Trees can help mitigate the effects of extreme heat.|树木有助于减轻极端高温的影响。
+notion|观念；想法|ˈnoʊʃən|noun|研究与解释|3|The study challenges the notion that talent is fixed.|这项研究质疑天赋是固定不变的这一观念。
+obligation|义务|ˌɑbləˈɡeɪʃən|noun|工作与责任|3|We have an obligation to protect customer data.|我们有义务保护客户数据。
+offset|抵消|ˈɔfˌsɛt|verb|数量与质量|4|Lower fuel costs may offset the higher purchase price.|较低的燃料费用可能抵消较高的购买价格。
+ongoing|持续进行的|ˈɑnˌɡoʊɪŋ|adjective|时间与变化|3|The project requires ongoing support.|这个项目需要持续的支持。
+persuasion|说服|pərˈsweɪʒən|noun|沟通与观点|3|It took some persuasion to get him to agree.|费了一番劝说才让他同意。
+plausible|看似合理的|ˈplɔzəbəl|adjective|信息与判断|3|That is a plausible explanation for the mistake.|那是对这个错误的一种看似合理的解释。
+precedent|先例|ˈprɛsədənt|noun|社会与制度|4|The decision could set a precedent for future cases.|这个决定可能为以后的案例开创先例。
+preliminary|初步的|prɪˈlɪməˌnɛri|adjective|研究与解释|3|The preliminary findings are encouraging.|初步研究结果令人鼓舞。
+presume|推定；假定|prɪˈzum|verb|信息与判断|3|I presume you have already read the report.|我想你已经读过报告了。
+prevail|占上风；获胜|prɪˈveɪl|verb|合作与冲突|4|We hope that common sense will prevail.|我们希望常识最终能占上风。
+profound|深刻的；深远的|prəˈfaʊnd|adjective|结果与影响|3|The experience had a profound effect on her.|这段经历对她产生了深远的影响。
+prohibit|禁止|proʊˈhɪbɪt|verb|社会与制度|3|The rules prohibit smoking inside the building.|规定禁止在楼内吸烟。
+proportion|比例|prəˈpɔrʃən|noun|数量与质量|3|A growing proportion of staff work remotely.|远程办公的员工比例正在上升。
+prospect|前景；可能性|ˈprɑspɛkt|noun|决定与规划|3|The prospect of working abroad excites her.|出国工作的可能性让她很兴奋。
+rationale|理由；基本原理|ˌræʃəˈnæl|noun|研究与解释|4|Please explain the rationale behind your decision.|请解释你作出这个决定的理由。
+reconcile|调和；使一致|ˈrɛkənˌsaɪl|verb|合作与冲突|4|We need to reconcile these conflicting goals.|我们需要调和这些相互冲突的目标。
+reinforce|加强；巩固|ˌriɪnˈfɔrs|verb|结果与影响|3|Regular practice helps reinforce what you learn.|经常练习有助于巩固所学知识。
+reluctant|不情愿的|rɪˈlʌktənt|adjective|人物与态度|3|She was reluctant to discuss the incident.|她不愿讨论那件事。
+resilient|有韧性的；恢复力强的|rɪˈzɪljənt|adjective|人物与态度|3|A resilient team can adapt after a setback.|有韧性的团队能在受挫后作出调整。
+restrict|限制|rɪˈstrɪkt|verb|社会与制度|3|The new rules restrict access to the building.|新规定限制进入这栋建筑。
+rigorous|严谨的；严格的|ˈrɪɡərəs|adjective|研究与解释|4|The product went through rigorous testing.|这个产品经过了严格测试。
+scenario|可能出现的情况；情景|səˈnɛrioʊ|noun|决定与规划|3|We need a plan for the worst-case scenario.|我们需要为最坏的情况制定计划。
+scrutiny|仔细审查|ˈskrutəni|noun|信息与判断|4|The proposal is under close scrutiny.|这个提议正在接受仔细审查。
+solely|仅仅；完全|ˈsoʊlli|adverb|语言与逻辑|3|The decision should not be based solely on cost.|这个决定不应仅仅基于成本。
+specify|明确说明|ˈspɛsəˌfaɪ|verb|沟通与观点|3|Please specify which version you need.|请明确说明你需要哪个版本。
+stakeholder|利益相关者|ˈsteɪkˌhoʊldər|noun|商业与管理|3|Each stakeholder should have a chance to comment.|每位利益相关者都应该有机会发表意见。
+subsequent|随后的|ˈsʌbsɪkwənt|adjective|时间与变化|3|Subsequent research confirmed the findings.|后续研究证实了这些发现。
+substantial|大量的；重大的|səbˈstænʃəl|adjective|数量与质量|3|The change led to substantial savings.|这项改变节省了大量开支。
+subtle|微妙的；不易察觉的|ˈsʌtəl|adjective|信息与判断|3|There is a subtle difference between the two meanings.|这两个意思之间有微妙的区别。
+sustainable|可持续的|səˈsteɪnəbəl|adjective|环境与发展|3|The city is investing in sustainable transport.|这座城市正在投资可持续交通。
+tentative|暂定的；试探性的|ˈtɛntətɪv|adjective|决定与规划|4|We have made a tentative agreement.|我们已经达成了一项初步协议。
+thereby|从而|ˌðɛrˈbaɪ|adverb|语言与逻辑|4|The update reduces errors, thereby saving time.|这次更新减少了错误，从而节省了时间。
+undermine|逐渐削弱；破坏|ˌʌndərˈmaɪn|verb|结果与影响|3|Repeated delays can undermine customer trust.|反复延误会损害顾客的信任。
+underlying|根本的；潜在的|ˌʌndərˈlaɪɪŋ|adjective|研究与解释|3|We need to address the underlying cause.|我们需要处理根本原因。
+unprecedented|前所未有的|ʌnˈprɛsɪˌdɛntɪd|adjective|时间与变化|3|The event attracted unprecedented public interest.|这件事引起了公众前所未有的关注。
+viable|切实可行的|ˈvaɪəbəl|adjective|决定与规划|3|We need a financially viable solution.|我们需要一个在财务上切实可行的方案。
+whereas|然而；而|wɛrˈæz|conjunction|语言与逻辑|3|I prefer working alone, whereas she enjoys teamwork.|我更喜欢独自工作，而她喜欢团队合作。
+widespread|广泛的；普遍的|ˈwaɪdˌsprɛd|adjective|社会与文化|3|The proposal received widespread support.|这个提议获得了广泛支持。
+yield|产生；带来|jild|verb|结果与影响|3|The investment may yield long-term benefits.|这项投资可能带来长期收益。

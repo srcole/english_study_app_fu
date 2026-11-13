@@ -12,9 +12,12 @@ MAPPING = {
     'example sentence chinese translation': 'example_zh',
     'part of speech': 'part_of_speech', 'is idiom': 'is_idiom',
     'is slang': 'is_slang', 'pronunciation': 'pronunciation',
+    'cefr level': 'cefr_level',
 }
 
 def sql_literal(value):
+    if value is None:
+        return 'null'
     if isinstance(value, bool):
         return 'true' if value else 'false'
     if isinstance(value, int):
@@ -27,6 +30,7 @@ def main():
     for row in rows:
         row['id'], row['priority'] = int(row['id']), int(row['priority'])
         row['is_idiom'], row['is_slang'] = row['is_idiom'] == '1', row['is_slang'] == '1'
+        row['cefr_level'] = row['cefr_level'] or None
     assert len({r['id'] for r in rows}) == len(rows)
     columns = list(MAPPING.values())
     update = ', '.join(f'{column} = excluded.{column}' for column in columns if column != 'id')
@@ -36,10 +40,51 @@ def main():
         parts.append(f"insert into public.vocabulary ({', '.join(columns)}) values\n{values}\non conflict (id) do update set {update};")
     parts.append('commit;')
     (ROOT / 'supabase' / 'seed.sql').write_text('\n\n'.join(parts) + '\n', encoding='utf-8')
+    additions = [row for row in rows if row['cefr_level']]
+    assert len(additions) == 300
+    assert all(sum(row['cefr_level'] == level for row in additions) == 100 for level in ('B2', 'C1', 'C2'))
+    values = ',\n'.join('(' + ', '.join(sql_literal(row[col]) for col in columns) + ')' for row in additions)
+    # Stage first so an occupied ID or a duplicate headword cannot silently replace
+    # an unrelated entry in a user's existing database.
+    migration = f"""-- Add 100 B2, 100 C1, and 100 C2 words to an existing What the Fu database.
+-- Run this entire file in Supabase SQL Editor. Safe to rerun.
+-- CEFR labels are editorial learning estimates, not certified dictionary ratings.
+begin;
+alter table public.vocabulary add column if not exists cefr_level text
+  check (cefr_level in ('A1', 'A2', 'B1', 'B2', 'C1', 'C2'));
+create temporary table fu_cefr_import (like public.vocabulary including defaults) on commit drop;
+insert into fu_cefr_import ({', '.join(columns)}) values
+{values};
+do $$
+begin
+  if exists (
+    select 1 from public.vocabulary v join fu_cefr_import n on v.id = n.id
+    where lower(v.english) <> lower(n.english)
+  ) then
+    raise exception 'An import ID is already used by another word. Nothing was imported; resolve the ID conflict first.';
+  end if;
+  if exists (
+    select 1 from public.vocabulary v join fu_cefr_import n on lower(v.english) = lower(n.english)
+    where v.id <> n.id
+  ) then
+    raise exception 'An added word already exists under a different ID. Nothing was imported; resolve the duplicate first.';
+  end if;
+end $$;
+insert into public.vocabulary ({', '.join(columns)})
+select {', '.join(columns)} from fu_cefr_import
+on conflict (id) do update set {update};
+commit;
+
+-- Expected: B2 = 100, C1 = 100, C2 = 100 for this expansion.
+select cefr_level, count(*) as added_words
+from public.vocabulary where id between {min(r['id'] for r in additions)} and {max(r['id'] for r in additions)}
+group by cefr_level order by cefr_level;
+"""
+    (ROOT / 'supabase' / 'add_cefr_b2_c1_c2.sql').write_text(migration, encoding='utf-8')
     # Sample across topics, not just the first food entries; include both expression sets.
     topics = defaultdict(list)
     for row in rows:
-        if not row['is_idiom'] and not row['is_slang']:
+        if not row['is_idiom'] and not row['is_slang'] and not row['cefr_level']:
             topics[row['category_l1']].append(row)
     demo = [row for group in topics.values() for row in group[:3]]
     for flag in ('is_idiom', 'is_slang'):

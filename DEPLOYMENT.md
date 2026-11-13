@@ -80,13 +80,21 @@ all users' rows there does not mean the browser app can see them.
 
    | total | vocabulary | idioms | slang |
    | --- | --- | --- | --- |
-   | 1376 | 1176 | 100 | 100 |
+   | 1676 | 1476 | 100 | 100 |
 
 The seed has already been generated from `chinese_to_english_game.csv`. You do
 not need to import the CSV manually or rename its columns. Re-running the seed
 updates matching IDs without creating duplicate entries. It does not remove rows
 that you later remove from the CSV; intentional deletions need a separate SQL
 change. Keep IDs stable when editing vocabulary.
+
+**Already have the original 1,376 entries?** Run the complete
+[`supabase/add_cefr_b2_c1_c2.sql`](supabase/add_cefr_b2_c1_c2.sql) file instead of
+reimporting the full seed. This migration adds the `cefr_level` column and the
+300 new entries, preserves existing content, and can be rerun. Its final query
+should show B2: 100, C1: 100, C2: 100. Level labels are editorial estimates;
+see [the dataset notes](VOCABULARY_README.md). Refresh the game after import and
+select **All priorities** to make all the advanced words eligible.
 
 ## 5. Configure email login in Supabase
 
@@ -181,7 +189,7 @@ and play a round. The app also supports `127.0.0.1`, but if you use it, add
 `http://127.0.0.1:5173/` as a separate allowed redirect URL.
 
 When the variables are missing or still contain the sample placeholders, the app
-shows a 72-entry demo. A connected, signed-in app should load all 1,376 entries,
+shows a 72-entry demo. A connected, signed-in app should load all 1,676 entries,
 although your filters normally show a smaller matching pool. Restart the dev
 server after changing environment variables.
 
@@ -271,7 +279,7 @@ Use the actual production site for these checks:
    link. You should see **Sign out** in the header.
 2. **Auth record:** Supabase **Authentication → Users** should list that account.
 3. **Vocabulary:** open filters and choose **All priorities** and **Include rude /
-   insulting slang** with all topics/types. The matching count should be 1,376.
+   insulting slang** with all topics/types. The matching count should be 1,676.
 4. **Both directions:** play Chinese → English, then English → Chinese. Mixed
    mode randomly selects a direction for each question.
 5. **Feedback:** try a correct answer, a wrong answer, and a skip. Each should show

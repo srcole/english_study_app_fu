@@ -4,10 +4,10 @@ Import `chinese_to_english_game.csv` as UTF-8 with BOM (`utf-8-sig` in Python).
 The BOM helps spreadsheet applications recognize Chinese text. Use a CSV parser;
 examples containing commas and quotation marks are quoted automatically.
 
-The file contains **1,376 learning entries**:
+The file contains **1,676 learning entries**:
 
-- 1,176 ordinary vocabulary entries: 1,174 distinct English headwords, including
-  1,134 single-token headwords and 40 useful multiword terms.
+- 1,476 ordinary vocabulary entries: 1,474 distinct English headwords, including
+  1,434 single-token headwords and 40 useful multiword terms.
 - 100 idioms, including common sayings and figurative phrases.
 - 100 slang or informal expressions, including conversational contractions and
   texting abbreviations. This category deliberately includes everyday informal
@@ -32,6 +32,27 @@ This is a curated learning set, not a cleaned copy of every original entry.
 | `is idiom` | `1` for idioms/sayings, otherwise `0` |
 | `is slang` | `1` for slang/informal entries, otherwise `0` |
 | `pronunciation` | Broad American English IPA, enclosed in `/ /` |
+| `cefr level` | Editorial learning-level estimate: B2, C1, or C2 for the 300 added words; blank for original entries |
+
+The expansion adds 100 new single-word headwords at each of B2, C1, and C2,
+with individual bilingual examples and all original columns. Its entries are
+also available separately in `cefr_b2_c1_c2_additions.csv`.
+
+These are editorial estimates for the taught senses, not official dictionary
+ratings or a certified word list. CEFR describes language proficiency rather
+than providing one universal mandatory word list; see the
+[Council of Europe's CEFR framework](https://www.coe.int/en/web/common-european-framework-reference-languages/introduction-and-context).
+Encounter-frequency priority is separately assigned: an advanced word can still
+be relatively common in work or academic contexts. Original entries have no
+level assigned; blank does not mean A1.
+
+For an existing database, run `supabase/add_cefr_b2_c1_c2.sql` in Supabase SQL
+Editor. It adds the nullable `cefr_level` field and imports only IDs 1377–1676,
+in a transaction. Re-running updates these same entries. Conflicting existing IDs
+or matching headwords under other IDs stop the import with an error. The final
+query should return 100 each for B2, C1, and C2. The existing game loads the new
+words after a refresh; choose **All priorities** and **All topics** to include
+the entire expansion. There is not yet a separate CEFR filter in the game.
 
 Priority is an editorial estimate of likely encounters in everyday conversation,
 travel, work, study, and online communication, not a measured corpus-frequency rank:
@@ -41,7 +62,7 @@ travel, work, study, and online communication, not a measured corpus-frequency r
 - **2:** Common everyday vocabulary and widely useful expressions.
 - **3:** Less frequent, topic-specific vocabulary or more informal expressions.
 - **4:** More context-dependent or niche expressions.
-- **5:** Reserved for rare entries; not used in this version.
+- **5:** Rare or more specialized vocabulary, including some C2 entries.
 
 The two indicator columns are mutually exclusive for convenient game modes. Some
 expressions could linguistically belong to both categories; the flag records their

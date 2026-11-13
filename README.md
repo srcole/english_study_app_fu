@@ -15,7 +15,7 @@ npm run dev
 ```
 
 Open the printed local URL. Without Supabase environment variables, the app uses
-a 72-entry demo. To enable email login and all 1,376 entries, follow
+a 72-entry demo. To enable email login and all 1,676 entries, follow
 [DEPLOYMENT.md](DEPLOYMENT.md).
 
 ## What is included
@@ -64,7 +64,9 @@ your browser and OS; online voices may require connectivity.
 | `src/lib/game.ts` | Filtering, randomized question selection, answer matching |
 | `src/lib/speech.ts` | English pronunciation playback |
 | `supabase/schema.sql` | Tables, constraints, grants, and per-user security policies |
-| `supabase/seed.sql` | Ready-to-paste import of all 1,376 entries |
+| `supabase/seed.sql` | Ready-to-paste import of all 1,676 entries |
+| `supabase/add_cefr_b2_c1_c2.sql` | Incremental import of 100 B2, 100 C1, and 100 C2 words into an existing database |
+| `cefr_b2_c1_c2_additions.csv` | The 300 additions with all columns and editorial CEFR levels |
 | `scripts/prepare_data.py` | Convert the existing CSV into SQL and demo JSON |
 | `chinese_to_english_game.csv` | Canonical vocabulary content |
 | `VOCABULARY_README.md` | Dataset fields and pronunciation conventions |

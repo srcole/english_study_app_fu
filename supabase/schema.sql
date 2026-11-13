@@ -18,6 +18,9 @@ create table if not exists public.vocabulary (
   constraint one_expression_category check (not (is_idiom and is_slang))
 );
 
+alter table public.vocabulary add column if not exists cefr_level text
+  check (cefr_level in ('A1', 'A2', 'B1', 'B2', 'C1', 'C2'));
+
 create table if not exists public.game_sessions (
   id uuid primary key,
   user_id uuid not null references auth.users(id) on delete cascade,

@@ -6,12 +6,13 @@
     "category_l1": "日常生活",
     "category_l2": "食物与食材",
     "priority": 1,
-    "example_en": "We need some rice for dinner.",
-    "example_zh": "我们晚餐需要一些米饭。",
+    "example_en": "The rice is still warm.",
+    "example_zh": "米饭还是热的。",
     "part_of_speech": "noun",
     "is_idiom": false,
     "is_slang": false,
-    "pronunciation": "/raɪs/"
+    "pronunciation": "/raɪs/",
+    "cefr_level": null
   },
   {
     "id": 2,
@@ -20,12 +21,13 @@
     "category_l1": "日常生活",
     "category_l2": "食物与食材",
     "priority": 1,
-    "example_en": "We need some bread for dinner.",
-    "example_zh": "我们晚餐需要一些面包。",
+    "example_en": "She bought fresh bread this morning.",
+    "example_zh": "她今天早上买了新鲜面包。",
     "part_of_speech": "noun",
     "is_idiom": false,
     "is_slang": false,
-    "pronunciation": "/brɛd/"
+    "pronunciation": "/brɛd/",
+    "cefr_level": null
   },
   {
     "id": 3,
@@ -34,12 +36,13 @@
     "category_l1": "日常生活",
     "category_l2": "食物与食材",
     "priority": 2,
-    "example_en": "We need some noodles for dinner.",
-    "example_zh": "我们晚餐需要一些面条。",
+    "example_en": "These noodles are too spicy for me.",
+    "example_zh": "这些面条对我来说太辣了。",
     "part_of_speech": "noun",
     "is_idiom": false,
     "is_slang": false,
-    "pronunciation": "/ˈnudəlz/"
+    "pronunciation": "/ˈnudəlz/",
+    "cefr_level": null
   },
   {
     "id": 121,
@@ -48,12 +51,13 @@
     "category_l1": "居家",
     "category_l2": "房间与家具",
     "priority": 1,
-    "example_en": "The kitchen needs cleaning.",
-    "example_zh": "厨房需要打扫。",
+    "example_en": "Dad is singing in the kitchen.",
+    "example_zh": "爸爸正在厨房里唱歌。",
     "part_of_speech": "noun",
     "is_idiom": false,
     "is_slang": false,
-    "pronunciation": "/ˈkɪtʃən/"
+    "pronunciation": "/ˈkɪtʃən/",
+    "cefr_level": null
   },
   {
     "id": 122,
@@ -62,12 +66,13 @@
     "category_l1": "居家",
     "category_l2": "房间与家具",
     "priority": 1,
-    "example_en": "The bathroom needs cleaning.",
-    "example_zh": "浴室需要打扫。",
+    "example_en": "Someone left the bathroom light on.",
+    "example_zh": "有人忘了关浴室的灯。",
     "part_of_speech": "noun",
     "is_idiom": false,
     "is_slang": false,
-    "pronunciation": "/ˈbæθˌrum/"
+    "pronunciation": "/ˈbæθˌrum/",
+    "cefr_level": null
   },
   {
     "id": 123,
@@ -76,12 +81,13 @@
     "category_l1": "居家",
     "category_l2": "房间与家具",
     "priority": 1,
-    "example_en": "The bedroom needs cleaning.",
-    "example_zh": "卧室需要打扫。",
+    "example_en": "Her bedroom faces the garden.",
+    "example_zh": "她的卧室朝向花园。",
     "part_of_speech": "noun",
     "is_idiom": false,
     "is_slang": false,
-    "pronunciation": "/ˈbɛdˌrum/"
+    "pronunciation": "/ˈbɛdˌrum/",
+    "cefr_level": null
   },
   {
     "id": 231,
@@ -90,12 +96,13 @@
     "category_l1": "人际关系",
     "category_l2": "家人与熟人",
     "priority": 1,
-    "example_en": "My mother lives nearby.",
-    "example_zh": "我的母亲住在附近。",
+    "example_en": "My mother taught me how to cook.",
+    "example_zh": "妈妈教会了我做饭。",
     "part_of_speech": "noun",
     "is_idiom": false,
     "is_slang": false,
-    "pronunciation": "/ˈmʌðər/"
+    "pronunciation": "/ˈmʌðər/",
+    "cefr_level": null
   },
   {
     "id": 232,
@@ -104,12 +111,13 @@
     "category_l1": "人际关系",
     "category_l2": "家人与熟人",
     "priority": 1,
-    "example_en": "My father lives nearby.",
-    "example_zh": "我的父亲住在附近。",
+    "example_en": "Her father works at the airport.",
+    "example_zh": "她父亲在机场工作。",
     "part_of_speech": "noun",
     "is_idiom": false,
     "is_slang": false,
-    "pronunciation": "/ˈfɑðər/"
+    "pronunciation": "/ˈfɑðər/",
+    "cefr_level": null
   },
   {
     "id": 233,
@@ -118,12 +126,13 @@
     "category_l1": "人际关系",
     "category_l2": "家人与熟人",
     "priority": 1,
-    "example_en": "My parent lives nearby.",
-    "example_zh": "我的家长住在附近。",
+    "example_en": "Each child must come with a parent.",
+    "example_zh": "每个孩子都必须由一位家长陪同。",
     "part_of_speech": "noun",
     "is_idiom": false,
     "is_slang": false,
-    "pronunciation": "/ˈpɛrənt/"
+    "pronunciation": "/ˈpɛrənt/",
+    "cefr_level": null
   },
   {
     "id": 256,
@@ -132,12 +141,13 @@
     "category_l1": "工作与社会",
     "category_l2": "职业与角色",
     "priority": 1,
-    "example_en": "We spoke to the teacher.",
-    "example_zh": "我们和那位教师谈了话。",
+    "example_en": "Our teacher writes new words on the board.",
+    "example_zh": "老师把新单词写在黑板上。",
     "part_of_speech": "noun",
     "is_idiom": false,
     "is_slang": false,
-    "pronunciation": "/ˈtitʃər/"
+    "pronunciation": "/ˈtitʃər/",
+    "cefr_level": null
   },
   {
     "id": 257,
@@ -146,12 +156,13 @@
     "category_l1": "工作与社会",
     "category_l2": "职业与角色",
     "priority": 1,
-    "example_en": "We spoke to the student.",
-    "example_zh": "我们和那位学生谈了话。",
+    "example_en": "A student raised her hand to ask a question.",
+    "example_zh": "一名学生举手提问。",
     "part_of_speech": "noun",
     "is_idiom": false,
     "is_slang": false,
-    "pronunciation": "/ˈstudənt/"
+    "pronunciation": "/ˈstudənt/",
+    "cefr_level": null
   },
   {
     "id": 258,
@@ -160,12 +171,13 @@
     "category_l1": "工作与社会",
     "category_l2": "职业与角色",
     "priority": 1,
-    "example_en": "We spoke to the doctor.",
-    "example_zh": "我们和那位医生谈了话。",
+    "example_en": "The doctor listened carefully to my concerns.",
+    "example_zh": "医生仔细听了我的担忧。",
     "part_of_speech": "noun",
     "is_idiom": false,
     "is_slang": false,
-    "pronunciation": "/ˈdɑktər/"
+    "pronunciation": "/ˈdɑktər/",
+    "cefr_level": null
   },
   {
     "id": 296,
@@ -174,12 +186,13 @@
     "category_l1": "出行",
     "category_l2": "城市地点",
     "priority": 1,
-    "example_en": "Where is the nearest hospital?",
-    "example_zh": "最近的医院在哪里？",
+    "example_en": "She spent three nights in the hospital.",
+    "example_zh": "她在医院住了三个晚上。",
     "part_of_speech": "noun",
     "is_idiom": false,
     "is_slang": false,
-    "pronunciation": "/ˈhɑspɪtəl/"
+    "pronunciation": "/ˈhɑspɪtəl/",
+    "cefr_level": null
   },
   {
     "id": 297,
@@ -188,12 +201,13 @@
     "category_l1": "出行",
     "category_l2": "城市地点",
     "priority": 2,
-    "example_en": "Where is the nearest clinic?",
-    "example_zh": "最近的诊所在哪里？",
+    "example_en": "The clinic opens at eight.",
+    "example_zh": "诊所八点开门。",
     "part_of_speech": "noun",
     "is_idiom": false,
     "is_slang": false,
-    "pronunciation": "/ˈklɪnɪk/"
+    "pronunciation": "/ˈklɪnɪk/",
+    "cefr_level": null
   },
   {
     "id": 298,
@@ -202,12 +216,13 @@
     "category_l1": "出行",
     "category_l2": "城市地点",
     "priority": 2,
-    "example_en": "Where is the nearest pharmacy?",
-    "example_zh": "最近的药店在哪里？",
+    "example_en": "There is a pharmacy across from the station.",
+    "example_zh": "车站对面有一家药店。",
     "part_of_speech": "noun",
     "is_idiom": false,
     "is_slang": false,
-    "pronunciation": "/ˈfɑrməsi/"
+    "pronunciation": "/ˈfɑrməsi/",
+    "cefr_level": null
   },
   {
     "id": 371,
@@ -216,12 +231,13 @@
     "category_l1": "科技",
     "category_l2": "设备与配件",
     "priority": 1,
-    "example_en": "My phone is not working.",
-    "example_zh": "我的手机坏了。",
+    "example_en": "My phone rang in the middle of the meeting.",
+    "example_zh": "开会时，我的手机响了。",
     "part_of_speech": "noun",
     "is_idiom": false,
     "is_slang": false,
-    "pronunciation": "/foʊn/"
+    "pronunciation": "/foʊn/",
+    "cefr_level": null
   },
   {
     "id": 372,
@@ -230,12 +246,13 @@
     "category_l1": "科技",
     "category_l2": "设备与配件",
     "priority": 1,
-    "example_en": "My computer is not working.",
-    "example_zh": "我的电脑坏了。",
+    "example_en": "Save your work before shutting down the computer.",
+    "example_zh": "关闭电脑前保存你的工作。",
     "part_of_speech": "noun",
     "is_idiom": false,
     "is_slang": false,
-    "pronunciation": "/kəmˈpjutər/"
+    "pronunciation": "/kəmˈpjutər/",
+    "cefr_level": null
   },
   {
     "id": 373,
@@ -244,12 +261,13 @@
     "category_l1": "科技",
     "category_l2": "设备与配件",
     "priority": 2,
-    "example_en": "My laptop is not working.",
-    "example_zh": "我的笔记本电脑坏了。",
+    "example_en": "I can fit my laptop in this bag.",
+    "example_zh": "这个包能装下我的笔记本电脑。",
     "part_of_speech": "noun",
     "is_idiom": false,
     "is_slang": false,
-    "pronunciation": "/ˈlæpˌtɑp/"
+    "pronunciation": "/ˈlæpˌtɑp/",
+    "cefr_level": null
   },
   {
     "id": 416,
@@ -258,12 +276,13 @@
     "category_l1": "健康",
     "category_l2": "身体部位",
     "priority": 1,
-    "example_en": "My head hurts.",
-    "example_zh": "我的头疼。",
+    "example_en": "Mind your head when you go through that door.",
+    "example_zh": "穿过那扇门时小心碰头。",
     "part_of_speech": "noun",
     "is_idiom": false,
     "is_slang": false,
-    "pronunciation": "/hɛd/"
+    "pronunciation": "/hɛd/",
+    "cefr_level": null
   },
   {
     "id": 417,
@@ -272,12 +291,13 @@
     "category_l1": "健康",
     "category_l2": "身体部位",
     "priority": 1,
-    "example_en": "My face hurts.",
-    "example_zh": "我的脸疼。",
+    "example_en": "She washed her face with cold water.",
+    "example_zh": "她用冷水洗了脸。",
     "part_of_speech": "noun",
     "is_idiom": false,
     "is_slang": false,
-    "pronunciation": "/feɪs/"
+    "pronunciation": "/feɪs/",
+    "cefr_level": null
   },
   {
     "id": 418,
@@ -286,12 +306,13 @@
     "category_l1": "健康",
     "category_l2": "身体部位",
     "priority": 1,
-    "example_en": "My eye hurts.",
-    "example_zh": "我的眼睛疼。",
+    "example_en": "Something got into my left eye.",
+    "example_zh": "有什么东西进了我的左眼。",
     "part_of_speech": "noun",
     "is_idiom": false,
     "is_slang": false,
-    "pronunciation": "/aɪ/"
+    "pronunciation": "/aɪ/",
+    "cefr_level": null
   },
   {
     "id": 471,
@@ -300,12 +321,13 @@
     "category_l1": "购物与金钱",
     "category_l2": "付款与财务",
     "priority": 1,
-    "example_en": "Could you explain this price?",
-    "example_zh": "你能解释一下这项价格吗？",
+    "example_en": "The price includes breakfast.",
+    "example_zh": "这个价格包含早餐。",
     "part_of_speech": "noun",
     "is_idiom": false,
     "is_slang": false,
-    "pronunciation": "/praɪs/"
+    "pronunciation": "/praɪs/",
+    "cefr_level": null
   },
   {
     "id": 472,
@@ -314,12 +336,13 @@
     "category_l1": "购物与金钱",
     "category_l2": "付款与财务",
     "priority": 1,
-    "example_en": "Could you explain this cost?",
-    "example_zh": "你能解释一下这项费用吗？",
+    "example_en": "What is the total cost of the trip?",
+    "example_zh": "这次旅行的总费用是多少？",
     "part_of_speech": "noun",
     "is_idiom": false,
     "is_slang": false,
-    "pronunciation": "/kɔst/"
+    "pronunciation": "/kɔst/",
+    "cefr_level": null
   },
   {
     "id": 473,
@@ -328,12 +351,13 @@
     "category_l1": "购物与金钱",
     "category_l2": "付款与财务",
     "priority": 1,
-    "example_en": "Could you explain this bill?",
-    "example_zh": "你能解释一下这项账单吗？",
+    "example_en": "Could we split the bill?",
+    "example_zh": "我们可以平摊账单吗？",
     "part_of_speech": "noun",
     "is_idiom": false,
     "is_slang": false,
-    "pronunciation": "/bɪl/"
+    "pronunciation": "/bɪl/",
+    "cefr_level": null
   },
   {
     "id": 496,
@@ -342,12 +366,13 @@
     "category_l1": "工作与学习",
     "category_l2": "任务与沟通",
     "priority": 1,
-    "example_en": "Let us discuss the job tomorrow.",
-    "example_zh": "我们明天讨论一下工作吧。",
+    "example_en": "She found a job near her home.",
+    "example_zh": "她找到了一份离家很近的工作。",
     "part_of_speech": "noun",
     "is_idiom": false,
     "is_slang": false,
-    "pronunciation": "/dʒɑb/"
+    "pronunciation": "/dʒɑb/",
+    "cefr_level": null
   },
   {
     "id": 497,
@@ -356,12 +381,13 @@
     "category_l1": "工作与学习",
     "category_l2": "任务与沟通",
     "priority": 1,
-    "example_en": "Let us discuss the project tomorrow.",
-    "example_zh": "我们明天讨论一下项目吧。",
+    "example_en": "Our project is almost finished.",
+    "example_zh": "我们的项目快完成了。",
     "part_of_speech": "noun",
     "is_idiom": false,
     "is_slang": false,
-    "pronunciation": "/ˈprɑdʒɛkt/"
+    "pronunciation": "/ˈprɑdʒɛkt/",
+    "cefr_level": null
   },
   {
     "id": 498,
@@ -370,12 +396,13 @@
     "category_l1": "工作与学习",
     "category_l2": "任务与沟通",
     "priority": 1,
-    "example_en": "Let us discuss the task tomorrow.",
-    "example_zh": "我们明天讨论一下任务吧。",
+    "example_en": "Break the task into smaller steps.",
+    "example_zh": "把任务分成几个小步骤。",
     "part_of_speech": "noun",
     "is_idiom": false,
     "is_slang": false,
-    "pronunciation": "/tæsk/"
+    "pronunciation": "/tæsk/",
+    "cefr_level": null
   },
   {
     "id": 551,
@@ -384,12 +411,13 @@
     "category_l1": "自然与环境",
     "category_l2": "户外景物",
     "priority": 2,
-    "example_en": "We took a photo of the sun.",
-    "example_zh": "我们给太阳拍了一张照片。",
+    "example_en": "The sun came out after the rain.",
+    "example_zh": "雨后太阳出来了。",
     "part_of_speech": "noun",
     "is_idiom": false,
     "is_slang": false,
-    "pronunciation": "/sʌn/"
+    "pronunciation": "/sʌn/",
+    "cefr_level": null
   },
   {
     "id": 552,
@@ -398,12 +426,13 @@
     "category_l1": "自然与环境",
     "category_l2": "户外景物",
     "priority": 2,
-    "example_en": "We took a photo of the moon.",
-    "example_zh": "我们给月亮拍了一张照片。",
+    "example_en": "A bright moon lit the path.",
+    "example_zh": "明亮的月亮照亮了小路。",
     "part_of_speech": "noun",
     "is_idiom": false,
     "is_slang": false,
-    "pronunciation": "/mun/"
+    "pronunciation": "/mun/",
+    "cefr_level": null
   },
   {
     "id": 553,
@@ -412,12 +441,13 @@
     "category_l1": "自然与环境",
     "category_l2": "户外景物",
     "priority": 2,
-    "example_en": "We took a photo of the star.",
-    "example_zh": "我们给星星拍了一张照片。",
+    "example_en": "Can you see that bright star?",
+    "example_zh": "你能看到那颗明亮的星星吗？",
     "part_of_speech": "noun",
     "is_idiom": false,
     "is_slang": false,
-    "pronunciation": "/stɑr/"
+    "pronunciation": "/stɑr/",
+    "cefr_level": null
   },
   {
     "id": 606,
@@ -426,12 +456,13 @@
     "category_l1": "休闲与文化",
     "category_l2": "活动",
     "priority": 2,
-    "example_en": "I enjoy music in my free time.",
-    "example_zh": "我空闲时喜欢音乐。",
+    "example_en": "Could you turn the music down a little?",
+    "example_zh": "你能把音乐调小声一点吗？",
     "part_of_speech": "noun",
     "is_idiom": false,
     "is_slang": false,
-    "pronunciation": "/ˈmjuzɪk/"
+    "pronunciation": "/ˈmjuzɪk/",
+    "cefr_level": null
   },
   {
     "id": 607,
@@ -440,12 +471,13 @@
     "category_l1": "休闲与文化",
     "category_l2": "活动",
     "priority": 1,
-    "example_en": "I enjoy art in my free time.",
-    "example_zh": "我空闲时喜欢艺术。",
+    "example_en": "This museum has a wonderful collection of modern art.",
+    "example_zh": "这家博物馆收藏了许多精彩的现代艺术作品。",
     "part_of_speech": "noun",
     "is_idiom": false,
     "is_slang": false,
-    "pronunciation": "/ɑrt/"
+    "pronunciation": "/ɑrt/",
+    "cefr_level": null
   },
   {
     "id": 608,
@@ -454,12 +486,13 @@
     "category_l1": "休闲与文化",
     "category_l2": "活动",
     "priority": 2,
-    "example_en": "I enjoy photography in my free time.",
-    "example_zh": "我空闲时喜欢摄影。",
+    "example_en": "She developed an interest in photography while traveling.",
+    "example_zh": "她在旅行时对摄影产生了兴趣。",
     "part_of_speech": "noun",
     "is_idiom": false,
     "is_slang": false,
-    "pronunciation": "/fəˈtɑɡrəfi/"
+    "pronunciation": "/fəˈtɑɡrəfi/",
+    "cefr_level": null
   },
   {
     "id": 636,
@@ -468,12 +501,13 @@
     "category_l1": "描述",
     "category_l2": "人的感受",
     "priority": 1,
-    "example_en": "I feel happy today.",
-    "example_zh": "我今天感到开心。",
+    "example_en": "I'm happy to hear that you passed.",
+    "example_zh": "听说你通过了，我很开心。",
     "part_of_speech": "adjective",
     "is_idiom": false,
     "is_slang": false,
-    "pronunciation": "/ˈhæpi/"
+    "pronunciation": "/ˈhæpi/",
+    "cefr_level": null
   },
   {
     "id": 637,
@@ -482,12 +516,13 @@
     "category_l1": "描述",
     "category_l2": "人的感受",
     "priority": 1,
-    "example_en": "I feel sad today.",
-    "example_zh": "我今天感到难过。",
+    "example_en": "The ending of the film was sad.",
+    "example_zh": "电影的结尾很令人难过。",
     "part_of_speech": "adjective",
     "is_idiom": false,
     "is_slang": false,
-    "pronunciation": "/sæd/"
+    "pronunciation": "/sæd/",
+    "cefr_level": null
   },
   {
     "id": 638,
@@ -496,12 +531,13 @@
     "category_l1": "描述",
     "category_l2": "人的感受",
     "priority": 1,
-    "example_en": "I feel angry today.",
-    "example_zh": "我今天感到生气。",
+    "example_en": "He was angry about the broken window.",
+    "example_zh": "他因为窗户被打破而生气。",
     "part_of_speech": "adjective",
     "is_idiom": false,
     "is_slang": false,
-    "pronunciation": "/ˈæŋɡri/"
+    "pronunciation": "/ˈæŋɡri/",
+    "cefr_level": null
   },
   {
     "id": 746,
@@ -510,12 +546,13 @@
     "category_l1": "时间",
     "category_l2": "星期",
     "priority": 1,
-    "example_en": "The meeting is on Monday.",
-    "example_zh": "会议在星期一。",
+    "example_en": "The office reopens on Monday.",
+    "example_zh": "办公室星期一恢复办公。",
     "part_of_speech": "noun",
     "is_idiom": false,
     "is_slang": false,
-    "pronunciation": "/ˈmʌndeɪ/"
+    "pronunciation": "/ˈmʌndeɪ/",
+    "cefr_level": null
   },
   {
     "id": 747,
@@ -524,12 +561,13 @@
     "category_l1": "时间",
     "category_l2": "星期",
     "priority": 1,
-    "example_en": "The meeting is on Tuesday.",
-    "example_zh": "会议在星期二。",
+    "example_en": "Are you free for lunch on Tuesday?",
+    "example_zh": "你星期二有空一起吃午餐吗？",
     "part_of_speech": "noun",
     "is_idiom": false,
     "is_slang": false,
-    "pronunciation": "/ˈtuzdeɪ/"
+    "pronunciation": "/ˈtuzdeɪ/",
+    "cefr_level": null
   },
   {
     "id": 748,
@@ -538,12 +576,13 @@
     "category_l1": "时间",
     "category_l2": "星期",
     "priority": 1,
-    "example_en": "The meeting is on Wednesday.",
-    "example_zh": "会议在星期三。",
+    "example_en": "I have a piano lesson every Wednesday.",
+    "example_zh": "我每个星期三上钢琴课。",
     "part_of_speech": "noun",
     "is_idiom": false,
     "is_slang": false,
-    "pronunciation": "/ˈwɛnzdeɪ/"
+    "pronunciation": "/ˈwɛnzdeɪ/",
+    "cefr_level": null
   },
   {
     "id": 765,
@@ -552,12 +591,13 @@
     "category_l1": "数量",
     "category_l2": "基数词",
     "priority": 1,
-    "example_en": "We need one more chairs.",
-    "example_zh": "我们还需要一把椅子。",
+    "example_en": "There is only one seat left.",
+    "example_zh": "只剩一个座位了。",
     "part_of_speech": "numeral",
     "is_idiom": false,
     "is_slang": false,
-    "pronunciation": "/wʌn/"
+    "pronunciation": "/wʌn/",
+    "cefr_level": null
   },
   {
     "id": 766,
@@ -566,12 +606,13 @@
     "category_l1": "数量",
     "category_l2": "基数词",
     "priority": 1,
-    "example_en": "We need two more chairs.",
-    "example_zh": "我们还需要两把椅子。",
+    "example_en": "I'll be ready in two minutes.",
+    "example_zh": "我两分钟后就准备好。",
     "part_of_speech": "numeral",
     "is_idiom": false,
     "is_slang": false,
-    "pronunciation": "/tu/"
+    "pronunciation": "/tu/",
+    "cefr_level": null
   },
   {
     "id": 767,
@@ -580,12 +621,13 @@
     "category_l1": "数量",
     "category_l2": "基数词",
     "priority": 1,
-    "example_en": "We need three more chairs.",
-    "example_zh": "我们还需要三把椅子。",
+    "example_en": "She speaks three languages.",
+    "example_zh": "她会说三种语言。",
     "part_of_speech": "numeral",
     "is_idiom": false,
     "is_slang": false,
-    "pronunciation": "/θri/"
+    "pronunciation": "/θri/",
+    "cefr_level": null
   },
   {
     "id": 793,
@@ -599,7 +641,8 @@
     "part_of_speech": "verb",
     "is_idiom": false,
     "is_slang": false,
-    "pronunciation": "/bi/"
+    "pronunciation": "/bi/",
+    "cefr_level": null
   },
   {
     "id": 794,
@@ -613,7 +656,8 @@
     "part_of_speech": "verb",
     "is_idiom": false,
     "is_slang": false,
-    "pronunciation": "/hæv/"
+    "pronunciation": "/hæv/",
+    "cefr_level": null
   },
   {
     "id": 795,
@@ -627,7 +671,8 @@
     "part_of_speech": "verb",
     "is_idiom": false,
     "is_slang": false,
-    "pronunciation": "/du/"
+    "pronunciation": "/du/",
+    "cefr_level": null
   },
   {
     "id": 962,
@@ -641,7 +686,8 @@
     "part_of_speech": "pronoun",
     "is_idiom": false,
     "is_slang": false,
-    "pronunciation": "/aɪ/"
+    "pronunciation": "/aɪ/",
+    "cefr_level": null
   },
   {
     "id": 963,
@@ -655,7 +701,8 @@
     "part_of_speech": "pronoun",
     "is_idiom": false,
     "is_slang": false,
-    "pronunciation": "/ju/"
+    "pronunciation": "/ju/",
+    "cefr_level": null
   },
   {
     "id": 964,
@@ -669,7 +716,8 @@
     "part_of_speech": "pronoun",
     "is_idiom": false,
     "is_slang": false,
-    "pronunciation": "/hi/"
+    "pronunciation": "/hi/",
+    "cefr_level": null
   },
   {
     "id": 1177,
@@ -683,7 +731,8 @@
     "part_of_speech": "verb phrase",
     "is_idiom": true,
     "is_slang": false,
-    "pronunciation": "/breɪk ði aɪs/"
+    "pronunciation": "/breɪk ði aɪs/",
+    "cefr_level": null
   },
   {
     "id": 1178,
@@ -697,7 +746,8 @@
     "part_of_speech": "noun phrase",
     "is_idiom": true,
     "is_slang": false,
-    "pronunciation": "/ə pis əv keɪk/"
+    "pronunciation": "/ə pis əv keɪk/",
+    "cefr_level": null
   },
   {
     "id": 1179,
@@ -711,7 +761,8 @@
     "part_of_speech": "adjective phrase",
     "is_idiom": true,
     "is_slang": false,
-    "pronunciation": "/ˈʌndər ðə ˈwɛðər/"
+    "pronunciation": "/ˈʌndər ðə ˈwɛðər/",
+    "cefr_level": null
   },
   {
     "id": 1180,
@@ -725,7 +776,8 @@
     "part_of_speech": "adverb phrase",
     "is_idiom": true,
     "is_slang": false,
-    "pronunciation": "/wʌns ɪn ə blu mun/"
+    "pronunciation": "/wʌns ɪn ə blu mun/",
+    "cefr_level": null
   },
   {
     "id": 1181,
@@ -739,7 +791,8 @@
     "part_of_speech": "verb phrase",
     "is_idiom": true,
     "is_slang": false,
-    "pronunciation": "/spɪl ðə binz/"
+    "pronunciation": "/spɪl ðə binz/",
+    "cefr_level": null
   },
   {
     "id": 1182,
@@ -753,7 +806,8 @@
     "part_of_speech": "verb phrase",
     "is_idiom": true,
     "is_slang": false,
-    "pronunciation": "/lɛt ðə kæt aʊt əv ðə bæɡ/"
+    "pronunciation": "/lɛt ðə kæt aʊt əv ðə bæɡ/",
+    "cefr_level": null
   },
   {
     "id": 1183,
@@ -767,7 +821,8 @@
     "part_of_speech": "verb phrase",
     "is_idiom": true,
     "is_slang": false,
-    "pronunciation": "/hɪt ðə neɪl ɑn ðə hɛd/"
+    "pronunciation": "/hɪt ðə neɪl ɑn ðə hɛd/",
+    "cefr_level": null
   },
   {
     "id": 1184,
@@ -781,7 +836,8 @@
     "part_of_speech": "verb phrase",
     "is_idiom": true,
     "is_slang": false,
-    "pronunciation": "/kɔst ən ɑrm ænd ə lɛɡ/"
+    "pronunciation": "/kɔst ən ɑrm ænd ə lɛɡ/",
+    "cefr_level": null
   },
   {
     "id": 1185,
@@ -795,7 +851,8 @@
     "part_of_speech": "clause",
     "is_idiom": true,
     "is_slang": false,
-    "pronunciation": "/ðə bɔl ɪz ɪn jʊr kɔrt/"
+    "pronunciation": "/ðə bɔl ɪz ɪn jʊr kɔrt/",
+    "cefr_level": null
   },
   {
     "id": 1186,
@@ -809,7 +866,8 @@
     "part_of_speech": "adjective phrase",
     "is_idiom": true,
     "is_slang": false,
-    "pronunciation": "/ɑn ðə seɪm peɪdʒ/"
+    "pronunciation": "/ɑn ðə seɪm peɪdʒ/",
+    "cefr_level": null
   },
   {
     "id": 1277,
@@ -823,7 +881,8 @@
     "part_of_speech": "adjective",
     "is_idiom": false,
     "is_slang": true,
-    "pronunciation": "/kul/"
+    "pronunciation": "/kul/",
+    "cefr_level": null
   },
   {
     "id": 1278,
@@ -837,7 +896,8 @@
     "part_of_speech": "adjective",
     "is_idiom": false,
     "is_slang": true,
-    "pronunciation": "/ˈɔsəm/"
+    "pronunciation": "/ˈɔsəm/",
+    "cefr_level": null
   },
   {
     "id": 1279,
@@ -851,7 +911,8 @@
     "part_of_speech": "verb",
     "is_idiom": false,
     "is_slang": true,
-    "pronunciation": "/tʃɪl/"
+    "pronunciation": "/tʃɪl/",
+    "cefr_level": null
   },
   {
     "id": 1280,
@@ -865,7 +926,8 @@
     "part_of_speech": "phrasal verb",
     "is_idiom": false,
     "is_slang": true,
-    "pronunciation": "/tʃɪl aʊt/"
+    "pronunciation": "/tʃɪl aʊt/",
+    "cefr_level": null
   },
   {
     "id": 1281,
@@ -879,7 +941,8 @@
     "part_of_speech": "phrasal verb",
     "is_idiom": false,
     "is_slang": true,
-    "pronunciation": "/hæŋ aʊt/"
+    "pronunciation": "/hæŋ aʊt/",
+    "cefr_level": null
   },
   {
     "id": 1282,
@@ -893,7 +956,8 @@
     "part_of_speech": "adjective",
     "is_idiom": false,
     "is_slang": true,
-    "pronunciation": "/ˈhæŋɡri/"
+    "pronunciation": "/ˈhæŋɡri/",
+    "cefr_level": null
   },
   {
     "id": 1283,
@@ -907,7 +971,8 @@
     "part_of_speech": "interjection",
     "is_idiom": false,
     "is_slang": true,
-    "pronunciation": "/noʊp/"
+    "pronunciation": "/noʊp/",
+    "cefr_level": null
   },
   {
     "id": 1284,
@@ -921,7 +986,8 @@
     "part_of_speech": "interjection",
     "is_idiom": false,
     "is_slang": true,
-    "pronunciation": "/jɛp/"
+    "pronunciation": "/jɛp/",
+    "cefr_level": null
   },
   {
     "id": 1285,
@@ -935,7 +1001,8 @@
     "part_of_speech": "interjection",
     "is_idiom": false,
     "is_slang": true,
-    "pronunciation": "/jæ/"
+    "pronunciation": "/jæ/",
+    "cefr_level": null
   },
   {
     "id": 1286,
@@ -949,7 +1016,8 @@
     "part_of_speech": "interjection",
     "is_idiom": false,
     "is_slang": true,
-    "pronunciation": "/nɑ/"
+    "pronunciation": "/nɑ/",
+    "cefr_level": null
   },
   {
     "id": 1213,
@@ -963,7 +1031,8 @@
     "part_of_speech": "proverb",
     "is_idiom": true,
     "is_slang": false,
-    "pronunciation": "/ˈɛvri klaʊd hæz ə ˈsɪlvər ˈlaɪnɪŋ/"
+    "pronunciation": "/ˈɛvri klaʊd hæz ə ˈsɪlvər ˈlaɪnɪŋ/",
+    "cefr_level": null
   },
   {
     "id": 1319,
@@ -977,7 +1046,8 @@
     "part_of_speech": "adverb",
     "is_idiom": false,
     "is_slang": true,
-    "pronunciation": "/ˌhaɪ ˈki/"
+    "pronunciation": "/ˌhaɪ ˈki/",
+    "cefr_level": null
   },
   {
     "id": 1345,
@@ -991,7 +1061,8 @@
     "part_of_speech": "adjective phrase",
     "is_idiom": false,
     "is_slang": true,
-    "pronunciation": "/pɪst ɔf/"
+    "pronunciation": "/pɪst ɔf/",
+    "cefr_level": null
   },
   {
     "id": 1376,
@@ -1005,6 +1076,7 @@
     "part_of_speech": "adverb phrase",
     "is_idiom": false,
     "is_slang": true,
-    "pronunciation": "/noʊ kæp/"
+    "pronunciation": "/noʊ kæp/",
+    "cefr_level": null
   }
 ]

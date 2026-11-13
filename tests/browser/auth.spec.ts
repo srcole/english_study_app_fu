@@ -5,7 +5,7 @@ test.use({ baseURL: 'http://127.0.0.1:5174' });
 
 test('connected app sends a magic link, loads both vocabulary pages and saves account history', async ({ page }) => {
   const sample = JSON.parse(readFileSync('public/demo-vocabulary.json', 'utf8'));
-  const vocabulary = Array.from({ length: 1376 }, (_, i) => ({ ...sample[i % sample.length], id: i + 1 }));
+  const vocabulary = Array.from({ length: 1676 }, (_, i) => ({ ...sample[i % sample.length], id: i + 1 }));
   const user = { id: '11111111-1111-4111-8111-111111111111', email: 'student@example.com', aud: 'authenticated', role: 'authenticated', app_metadata: {}, user_metadata: {}, created_at: new Date().toISOString() };
   const records: Record<string, unknown>[] = [];
   const ranges: string[] = [];
@@ -60,7 +60,7 @@ test('connected app sends a magic link, loads both vocabulary pages and saves ac
   await page.getByLabel('Include rude / insulting slang').check();
   await page.getByLabel('Number of questions').selectOption('5');
   await page.getByRole('switch').click();
-  await expect(page.getByText('1,376 matching entries', { exact: false })).toBeVisible();
+  await expect(page.getByText('1,676 matching entries', { exact: false })).toBeVisible();
   expect(ranges).toContain('0:1000');
   expect(ranges).toContain('1000:1000');
   await page.getByRole('button', { name: 'Let’s fu this' }).click();
