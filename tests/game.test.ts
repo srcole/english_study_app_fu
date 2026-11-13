@@ -34,15 +34,19 @@ describe('learning filters and question selection', () => {
     const pool: Word[] = [word, { ...word, id: 10, cefr_level: 'B2', priority: 2 },
       { ...word, id: 11, cefr_level: 'C1', priority: 3 },
       { ...word, id: 12, cefr_level: 'C2', priority: 5 },
-      { ...word, id: 13, cefr_level: null }];
+      { ...word, id: 13, cefr_level: null },
+      { ...word, id: 14, cefr_level: 'A1' }, { ...word, id: 15, cefr_level: 'A2' },
+      { ...word, id: 16, cefr_level: 'B1' }];
     const settings = { ...DEFAULT_SETTINGS, maxPriority: 5 };
-    expect(filterWords(pool, settings)).toHaveLength(5);
-    for (const [level, id] of [['B2', 10], ['C1', 11], ['C2', 12]] as const) {
-      expect(filterWords(pool, { ...settings, cefrLevel: level }).map(w => w.id)).toEqual([id]);
+    expect(filterWords(pool, settings)).toHaveLength(8);
+    expect(filterWords(pool, { ...settings, cefrLevels: ['A1', 'B1', 'C1'] }).map(w => w.id)).toEqual([11, 14, 16]);
+    expect(filterWords(pool, { ...settings, cefrLevels: ['C2', 'unrated'] }).map(w => w.id)).toEqual([1, 12, 13]);
+    for (const [level, id] of [['A1', 14], ['A2', 15], ['B1', 16], ['B2', 10], ['C1', 11], ['C2', 12]] as const) {
+      expect(filterWords(pool, { ...settings, cefrLevels: [level] }).map(w => w.id)).toEqual([id]);
     }
-    expect(filterWords(pool, { ...settings, cefrLevel: 'unrated' }).map(w => w.id)).toEqual([1, 13]);
-    expect(filterWords(pool, { ...settings, cefrLevel: 'C1', maxPriority: 2 })).toEqual([]);
-    expect(filterWords(pool, { ...settings, cefrLevel: 'C1', category: '健康' })).toEqual([]);
+    expect(filterWords(pool, { ...settings, cefrLevels: ['unrated'] }).map(w => w.id)).toEqual([1, 13]);
+    expect(filterWords(pool, { ...settings, cefrLevels: ['C1'], maxPriority: 2 })).toEqual([]);
+    expect(filterWords(pool, { ...settings, cefrLevels: ['C1'], category: '健康' })).toEqual([]);
   });
   it('supports both directions in a mixed round and empty pools', () => {
     const questions = makeQuestions(words, { ...DEFAULT_SETTINGS, direction: 'mixed' }, () => 0.2);

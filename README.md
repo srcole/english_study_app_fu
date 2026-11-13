@@ -15,7 +15,7 @@ npm run dev
 ```
 
 Open the printed local URL. Without Supabase environment variables, the app uses
-a 72-entry demo. To enable email login and all 1,676 entries, follow
+a 72-entry demo. To enable email login and all 2,576 entries, follow
 [DEPLOYMENT.md](DEPLOYMENT.md).
 
 ## What is included
@@ -64,8 +64,9 @@ your browser and OS; online voices may require connectivity.
 | `src/lib/game.ts` | Filtering, randomized question selection, answer matching |
 | `src/lib/speech.ts` | English pronunciation playback |
 | `supabase/schema.sql` | Tables, constraints, grants, and per-user security policies |
-| `supabase/seed.sql` | Ready-to-paste import of all 1,676 entries |
+| `supabase/seed.sql` | Ready-to-paste import of all 2,576 entries |
 | `supabase/add_cefr_b2_c1_c2.sql` | Incremental import of 100 B2, 100 C1, and 100 C2 words into an existing database |
+| `supabase/classify_remaining_cefr.sql` | Fill missing CEFR levels on the original 1,376 entries without changing their content |
 | `cefr_b2_c1_c2_additions.csv` | The 300 additions with all columns and editorial CEFR levels |
 | `scripts/prepare_data.py` | Convert the existing CSV into SQL and demo JSON |
 | `chinese_to_english_game.csv` | Canonical vocabulary content |
@@ -106,3 +107,17 @@ correct. Scores are user-controlled study records, not verified competition
 scores. Unfinished rounds are not persisted; refreshing or leaving loses that
 round. Preferences are stored in the current browser. Completed account rounds
 are stored in Supabase. The demo is public and does not save scores.
+
+### Add the second CEFR expansion (900 words)
+
+For an existing database, open **Supabase → SQL Editor → New query**, paste the
+entire contents of `supabase/add_cefr_900.sql`, and click **Run**. It adds 300
+more words each at B2, C1, and C2, with all vocabulary columns. The final query
+should show 300 per level. The import is safe to rerun; ID or duplicate-headword
+conflicts stop the transaction. It leaves earlier vocabulary and game history
+untouched. Refresh the game, open **Fine-tune your fu**, and select one or more CEFR levels
+with all topics/priorities. No schema change or Vercel configuration change is
+needed for an already configured app. New installations use the full seed.
+
+The new batch is also in `cefr_b2_c1_c2_900_additions.csv`. Full collection: 2,576
+entries, including B2: 521, C1: 451, C2: 400. Levels are editorial estimates.

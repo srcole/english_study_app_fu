@@ -4,7 +4,7 @@ import type { Session } from '@supabase/supabase-js';
 import { ArrowDownUp, ArrowLeft, ArrowRight, Check, CheckCircle2, ChevronDown, CircleHelp, Headphones, History, Leaf, LogIn, LogOut, Mail, RotateCcw, Settings2, Sparkles, Volume2, VolumeX, X } from 'lucide-react';
 import { FuMascot } from './components/FuMascot';
 import { VoiceSettings } from './components/VoiceSettings';
-import { DEFAULT_SETTINGS, filterWords, isCorrect, loadSettings, makeQuestions, stripNotes } from './lib/game';
+import { CEFR_LEVELS, DEFAULT_SETTINGS, filterWords, isCorrect, loadSettings, makeQuestions, stripNotes } from './lib/game';
 import { configured, getHistory, loadVocabulary, saveGame, supabase } from './lib/supabase';
 import { speakEnglish, stopSpeaking } from './lib/speech';
 import type { Answer, GameRecord, Question, Settings, Word } from './lib/types';
@@ -174,7 +174,8 @@ export default function App() {
   }
 
   function submitAnswer(skipped = false) {
-    if (!question || submitLock.current || (!skipped && !guess.trim())) return;
+    if (!question || submitLock.current) return;
+    skipped = skipped || !guess.trim();
     submitLock.current = true;
     setAnswers(old => [...old, { ...question, guess: skipped ? '' : guess.trim(), correct: !skipped && isCorrect(guess, question), selfMarked: false, skipped }]);
     setScreen('feedback'); setSpeechError('');
@@ -201,6 +202,20 @@ export default function App() {
       void persist(nextRecord);
     }
   }
+
+  useEffect(() => {
+    if (screen !== 'feedback' || modal) return;
+    const onEnter = (event: KeyboardEvent) => {
+      if (event.key !== 'Enter' || event.isComposing || event.keyCode === 229) return;
+      if (event.repeat) { event.preventDefault(); return; }
+      // Keep native keyboard behavior for controls the user deliberately focused.
+      if (event.target instanceof Element && event.target.closest('button, a, input, textarea, select, [contenteditable="true"]')) return;
+      event.preventDefault();
+      nextQuestion();
+    };
+    window.addEventListener('keydown', onEnter);
+    return () => window.removeEventListener('keydown', onEnter);
+  });
 
   async function openHistory() {
     setModal('history'); setHistoryError('');
@@ -265,16 +280,28 @@ export default function App() {
               </div>
             </fieldset>
             <details className="filter-disclosure">
-              <summary><span className="filter-title"><Settings2 size={17} /> Fine-tune your fu <span className="small-label">Filters</span></span><span className="filter-summary">{settings.count} questions · P1–{settings.maxPriority}{settings.cefrLevel !== 'all' && ` · ${settings.cefrLevel === 'unrated' ? 'Unrated' : settings.cefrLevel}`}<ChevronDown size={16} /></span></summary>
+              <summary><span className="filter-title"><Settings2 size={17} /> Fine-tune your fu <span className="small-label">Filters</span></span><span className="filter-summary">{settings.count} questions · P1–{settings.maxPriority}{settings.cefrLevels.length > 0 && ` · ${settings.cefrLevels.map(level => level === 'unrated' ? 'Unrated' : level).join(', ')}`}<ChevronDown size={16} /></span></summary>
               <div className="filters">
                 <label>Vocabulary flavor<select value={settings.kind} onChange={e => { update('kind', e.target.value as Settings['kind']); update('category', ''); }}><option value="all">A bit of everything</option><option value="words">Useful words only</option><option value="idioms">Idioms only</option><option value="slang">Slang & informal only</option></select></label>
                 <label>Number of questions<select value={settings.count} onChange={e => update('count', Number(e.target.value))}>{[5, 10, 20, 30, 50, 100].map(n => <option key={n} value={n}>{n} questions</option>)}</select></label>
                 <label>Priority cutoff<select value={settings.maxPriority} onChange={e => update('maxPriority', Number(e.target.value))}><option value={1}>P1 only · essential</option><option value={2}>P1–P2 · everyday</option><option value={3}>P1–P3 · broaden your fu</option><option value={4}>P1–P4 · niche included</option><option value={5}>All priorities</option></select><small>1 is highest priority. P1–P2 includes levels 1 and 2.</small></label>
                 <label>Topic / 主题<select value={settings.category} onChange={e => update('category', e.target.value)}><option value="">All topics</option>{categories.map(c => <option value={c} key={c}>{c}</option>)}</select></label>
-                <label>CEFR level / 英语等级<select aria-label="CEFR level" value={settings.cefrLevel} onChange={e => {
-                  const cefrLevel = e.target.value as Settings['cefrLevel'];
-                  setSettings(old => ({ ...old, cefrLevel, ...(cefrLevel !== 'all' && cefrLevel !== 'unrated' ? { maxPriority: 5 } : {}) }));
-                }}><option value="all">All levels</option><option value="B2">B2 · Upper intermediate</option><option value="C1">C1 · Advanced</option><option value="C2">C2 · Proficient</option><option value="unrated">Unrated · Original collection</option></select><small>Selecting B2/C1/C2 includes all priorities; you can narrow them again. Original entries are unrated.{demoMode && ' The advanced collection is available when signed in, after importing the CEFR SQL.'}</small></label>
+                <fieldset className="cefr-filter">
+                  <legend>CEFR levels / 英语等级</legend>
+                  <button type="button" className="reset-filters" onClick={() => setSettings(old => ({ ...old, cefrLevels: [] }))}>All levels</button>
+                  <div className="cefr-options">
+                    {CEFR_LEVELS.map(level => <label key={level}>
+                      <input type="checkbox" checked={settings.cefrLevels.includes(level)} onChange={e => {
+                        const checked = e.target.checked;
+                        setSettings(old => ({ ...old,
+                          cefrLevels: checked ? CEFR_LEVELS.filter(item => item === level || old.cefrLevels.includes(item)) : old.cefrLevels.filter(item => item !== level),
+                          ...(checked && level !== 'unrated' ? { maxPriority: 5 } : {}),
+                        }));
+                      }} />{level === 'unrated' ? 'Unrated' : level}
+                    </label>)}
+                  </div>
+                  <small>Choose any combination. No selection means all levels. Adding a level includes all priorities; you can narrow them again. Unrated means no level has been assigned.{demoMode && ' The advanced collection is available when signed in, after importing the CEFR SQL.'}</small>
+                </fieldset>
                 <label>Speaking speed<select value={settings.rate} onChange={e => update('rate', Number(e.target.value))}><option value={1}>Normal · 1× (default)</option><option value={0.85}>Slower · 0.85×</option><option value={0.7}>Slow · 0.7×</option></select></label>
                 <label className="checkbox-field"><input type="checkbox" checked={settings.includeRude} onChange={e => update('includeRude', e.target.checked)} /><span>Include rude / insulting slang<small>Off by default. Keep your fu friendly.</small></span></label>
                 <button className="text-button reset-filters" onClick={() => setSettings({ ...DEFAULT_SETTINGS })}><RotateCcw size={13} /> Reset settings</button>
@@ -294,7 +321,7 @@ export default function App() {
             <section className="fu-note"><span className="note-star">✳</span><div><strong>A little fu every day.</strong><p>Five minutes beats zero minutes.<br />Master Tofu has done the math.<br /><span>(He used his tiny tofu fingers.)</span></p></div></section>
           </aside>
         </div>
-        <div className="collection-strip"><div className="collection-icon"><Sparkles size={21} /></div><div><strong>Big vocabulary. Bite-sized rounds.</strong><span>1,476 vocabulary entries + 100 idioms + 100 slang & informal expressions.</span></div><span className="collection-badge">Made for 中文 speakers</span></div>
+        <div className="collection-strip"><div className="collection-icon"><Sparkles size={21} /></div><div><strong>Big vocabulary. Bite-sized rounds.</strong><span>2,376 vocabulary entries + 100 idioms + 100 slang & informal expressions.</span></div><span className="collection-badge">Made for 中文 speakers</span></div>
         {demoMode && <p className="demo-notice">You’re in the little fu demo · {demoWords.length} sample entries · scores aren’t saved. {configured ? <button onClick={() => { setDemo(false); if (!session) setModal('login'); }}>Use my account →</button> : 'Connect Supabase to unlock email login and the full collection.'}</p>}
       </>}
 
@@ -309,7 +336,7 @@ export default function App() {
           <form onSubmit={event => { event.preventDefault(); submitAnswer(); }}>
             <label className="answer-label" htmlFor="answer">Your best guess <span>大胆猜，别怕 fu。</span></label>
             <input key={`${question.word.id}-${answers.length}`} id="answer" className="answer-input" value={guess} onChange={e => setGuess(e.target.value)} placeholder={question.direction === 'zh-en' ? 'Let your English fu flow…' : '在这里输入中文…'} autoComplete="off" autoCorrect="off" autoCapitalize="none" spellCheck={false} maxLength={300} autoFocus onKeyDown={event => { if (event.key === 'Enter' && (event.nativeEvent.isComposing || event.keyCode === 229)) event.preventDefault(); }} />
-            <button className="primary" disabled={!guess.trim()} type="submit">Check my fu <ArrowRight size={19} /></button>
+            <button className="primary" type="submit">Check my fu <ArrowRight size={19} /></button>
           </form>
           <button className="text-button skip-button" onClick={() => submitAnswer(true)}>My brain is tofu. Show me. <ArrowRight size={14} /></button>
         </div><p className="under-card">No timer. Take a breath. Even tofu needs time to marinate.</p>

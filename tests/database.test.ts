@@ -25,7 +25,7 @@ describe.sequential('Supabase SQL and row-level security', () => {
     await db.exec(readFileSync('supabase/seed.sql', 'utf8'));
     const { rows } = await db.query<{ total: number; idioms: number; slang: number }>(
       'select count(*)::int total, count(*) filter (where is_idiom)::int idioms, count(*) filter (where is_slang)::int slang from public.vocabulary');
-    expect(rows[0]).toEqual({ total: 1676, idioms: 100, slang: 100 });
+    expect(rows[0]).toEqual({ total: 2576, idioms: 100, slang: 100 });
   });
   it('denies anonymous database access', async () => {
     await db.exec('set role anon');
@@ -51,6 +51,50 @@ describe.sequential('Supabase SQL and row-level security', () => {
     await db.exec('rollback');
     expect((await db.query('select english from public.vocabulary where id = 1377')).rows).toEqual([{ english: 'custom-existing-word' }]);
     await db.exec("update public.vocabulary set english = 'accurate' where id = 1377");
+  });
+  it('classifies every remaining entry once without changing content or the expansion', async () => {
+    const before = (await db.query<Record<string, unknown>>('select * from public.vocabulary order by id')).rows;
+    const sql = readFileSync('supabase/classify_remaining_cefr.sql', 'utf8');
+    await db.exec(sql);
+    await db.exec(sql);
+    const after = (await db.query<Record<string, unknown>>('select * from public.vocabulary order by id')).rows;
+    expect(after.map(({ cefr_level: _level, ...row }) => row)).toEqual(before.map(({ cefr_level: _level, ...row }) => row));
+    expect(after.filter(row => Number(row.id) > 1376)).toEqual(before.filter(row => Number(row.id) > 1376));
+    expect((await db.query('select count(*)::int as count from public.vocabulary where cefr_level is null')).rows).toEqual([{ count: 0 }]);
+    expect((await db.query('select cefr_level, count(*)::int as count from public.vocabulary group by cefr_level order by cefr_level')).rows).toEqual([
+      { cefr_level: 'A1', count: 567 }, { cefr_level: 'A2', count: 214 }, { cefr_level: 'B1', count: 423 },
+      { cefr_level: 'B2', count: 221 }, { cefr_level: 'C1', count: 151 }, { cefr_level: 'C2', count: 100 },
+    ]);
+    await db.exec("update public.vocabulary set cefr_level = 'B2' where id = 1");
+    await db.exec(sql);
+    expect((await db.query('select cefr_level from public.vocabulary where id = 1')).rows).toEqual([{ cefr_level: 'B2' }]);
+    await db.exec("update public.vocabulary set cefr_level = 'A1' where id = 1");
+  });
+  it('aborts classification when an original ID belongs to a different word', async () => {
+    await db.exec("update public.vocabulary set english = 'custom-word' where id = 1");
+    await expect(db.exec(readFileSync('supabase/classify_remaining_cefr.sql', 'utf8'))).rejects.toThrow(/refers to a different entry/);
+    await db.exec('rollback');
+    expect((await db.query('select english from public.vocabulary where id = 1')).rows).toEqual([{ english: 'custom-word' }]);
+    await db.exec("update public.vocabulary set english = 'rice' where id = 1");
+  });
+  it('adds 300 more words per advanced level, preserves existing rows, and is idempotent', async () => {
+    const before = (await db.query('select * from public.vocabulary order by id')).rows;
+    const sql = readFileSync('supabase/add_cefr_900.sql', 'utf8');
+    await db.exec(sql);
+    await db.exec(sql);
+    expect((await db.query('select * from public.vocabulary where id <= 1676 order by id')).rows).toEqual(before);
+    expect((await db.query('select cefr_level, count(*)::int as count from public.vocabulary where id > 1676 group by cefr_level order by cefr_level')).rows)
+      .toEqual([{ cefr_level: 'B2', count: 300 }, { cefr_level: 'C1', count: 300 }, { cefr_level: 'C2', count: 300 }]);
+    expect((await db.query('select count(*)::int as count from public.vocabulary')).rows).toEqual([{ count: 2576 }]);
+    await db.exec("update public.vocabulary set english = 'custom-900-word' where id = 1677");
+    await expect(db.exec(sql)).rejects.toThrow(/already used by another word/);
+    await db.exec('rollback');
+    expect((await db.query('select english from public.vocabulary where id = 1677')).rows).toEqual([{ english: 'custom-900-word' }]);
+    await db.exec("update public.vocabulary set english = 'abandon' where id = 1677");
+    await db.exec("update public.vocabulary set english = 'abandon' where id = 1");
+    await expect(db.exec(sql)).rejects.toThrow(/already exists under a different ID/);
+    await db.exec('rollback');
+    await db.exec("update public.vocabulary set english = 'rice' where id = 1");
   });
   it('lets signed-in users read vocabulary but not modify it', async () => {
     await db.exec(`set role authenticated; set request.jwt.claim.sub = '${first}'`);

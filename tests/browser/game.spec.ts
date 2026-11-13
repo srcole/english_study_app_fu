@@ -18,7 +18,7 @@ test('play a complete filtered round, hear feedback, self-mark and review mistak
   await page.getByRole('button', { name: 'Let’s fu this' }).click();
   await expect(page.getByText('IDIOM FU', { exact: true })).toBeVisible();
   await page.getByLabel('Your best guess').fill('deliberately wrong');
-  await page.getByRole('button', { name: 'Check my fu' }).click();
+  await page.getByLabel('Your best guess').press('Enter');
   await expect(page.getByRole('heading', { name: 'A little fu-pas. A little learning.' })).toBeVisible();
   await expect(page.locator('.example-box p[lang=en]')).not.toBeEmpty();
   expect(await page.evaluate(() => (window as unknown as { __spoken: string[] }).__spoken.length)).toBe(1);
@@ -28,8 +28,10 @@ test('play a complete filtered round, hear feedback, self-mark and review mistak
   await page.getByRole('button', { name: 'Next piece of fu' }).click();
   await expect(page.getByText('1 correct', { exact: true })).toBeVisible();
   for (let i = 1; i < 5; i++) {
-    await page.getByRole('button', { name: 'My brain is tofu' }).click();
-    await page.getByRole('button', { name: i === 4 ? 'Show me my fu score' : 'Next piece of fu' }).click();
+    await expect(page.getByLabel('Your best guess')).toBeFocused();
+    await page.keyboard.press('Enter');
+    await expect(page.getByText('Skipped — learning mode activated.')).toBeVisible();
+    await page.keyboard.press('Enter');
   }
   await expect(page.getByRole('heading', { name: 'Look at all that fresh fu.' })).toBeVisible();
   await expect(page.locator('.review-list>div')).toHaveCount(4);

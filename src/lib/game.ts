@@ -1,16 +1,17 @@
-import type { Question, Settings, Word } from './types';
+import type { CefrLevel, Question, Settings, Word } from './types';
+
+export const CEFR_LEVELS: CefrLevel[] = ['A1', 'A2', 'B1', 'B2', 'C1', 'C2', 'unrated'];
 
 export const DEFAULT_SETTINGS: Settings = {
   direction: 'zh-en', kind: 'all', maxPriority: 2, count: 10,
-  category: '', cefrLevel: 'all', autoSpeak: true, rate: 1, voiceURI: '', speechVersion: 1, includeRude: false,
+  category: '', cefrLevels: [], autoSpeak: true, rate: 1, voiceURI: '', speechVersion: 1, includeRude: false,
 };
 
 export function filterWords(words: Word[], settings: Settings): Word[] {
   return words.filter(word =>
     word.priority <= settings.maxPriority &&
     (!settings.category || word.category_l1 === settings.category) &&
-    (!settings.cefrLevel || settings.cefrLevel === 'all' ||
-      (settings.cefrLevel === 'unrated' ? !word.cefr_level : word.cefr_level === settings.cefrLevel)) &&
+    (!settings.cefrLevels.length || settings.cefrLevels.includes(word.cefr_level ?? 'unrated')) &&
     (settings.includeRude || !/粗鲁|粗话|贬义/.test(word.chinese)) &&
     (settings.kind === 'all' ||
       (settings.kind === 'words' && !word.is_idiom && !word.is_slang) ||
@@ -77,7 +78,10 @@ export function loadSettings(): Settings {
       maxPriority: [1, 2, 3, 4, 5].includes(raw.maxPriority) ? raw.maxPriority : 2,
       count: [5, 10, 20, 30, 50, 100].includes(raw.count) ? raw.count : 10,
       category: typeof raw.category === 'string' ? raw.category : '',
-      cefrLevel: ['all', 'B2', 'C1', 'C2', 'unrated'].includes(raw.cefrLevel) ? raw.cefrLevel : 'all',
+      // Preserve the previous single-level preference on upgrade.
+      cefrLevels: Array.isArray(raw.cefrLevels)
+        ? CEFR_LEVELS.filter(level => raw.cefrLevels.includes(level))
+        : CEFR_LEVELS.filter(level => level === raw.cefrLevel),
       autoSpeak: typeof raw.autoSpeak === 'boolean' ? raw.autoSpeak : true,
       // Upgrade existing installations from the old slow default once.
       rate: raw.speechVersion === 1 && [0.7, 0.85, 1].includes(raw.rate) ? raw.rate : 1,

@@ -40,13 +40,14 @@ def main():
         parts.append(f"insert into public.vocabulary ({', '.join(columns)}) values\n{values}\non conflict (id) do update set {update};")
     parts.append('commit;')
     (ROOT / 'supabase' / 'seed.sql').write_text('\n\n'.join(parts) + '\n', encoding='utf-8')
-    additions = [row for row in rows if row['cefr_level']]
-    assert len(additions) == 300
-    assert all(sum(row['cefr_level'] == level for row in additions) == 100 for level in ('B2', 'C1', 'C2'))
-    values = ',\n'.join('(' + ', '.join(sql_literal(row[col]) for col in columns) + ')' for row in additions)
-    # Stage first so an occupied ID or a duplicate headword cannot silently replace
-    # an unrelated entry in a user's existing database.
-    migration = f"""-- Add 100 B2, 100 C1, and 100 C2 words to an existing What the Fu database.
+    for lower_id, upper_id, per_level, filename in ((1376, 1676, 100, 'add_cefr_b2_c1_c2.sql'), (1676, 2576, 300, 'add_cefr_900.sql')):
+        additions = [row for row in rows if lower_id < row['id'] <= upper_id]
+        assert len(additions) == per_level * 3
+        assert all(sum(row['cefr_level'] == level for row in additions) == per_level for level in ('B2', 'C1', 'C2'))
+        values = ',\n'.join('(' + ', '.join(sql_literal(row[col]) for col in columns) + ')' for row in additions)
+        # Stage first so an occupied ID or a duplicate headword cannot silently replace
+        # an unrelated entry in a user's existing database.
+        migration = f"""-- Add {per_level} B2, {per_level} C1, and {per_level} C2 words to an existing What the Fu database.
 -- Run this entire file in Supabase SQL Editor. Safe to rerun.
 -- CEFR labels are editorial learning estimates, not certified dictionary ratings.
 begin;
@@ -75,16 +76,54 @@ select {', '.join(columns)} from fu_cefr_import
 on conflict (id) do update set {update};
 commit;
 
--- Expected: B2 = 100, C1 = 100, C2 = 100 for this expansion.
+-- Expected: B2 = {per_level}, C1 = {per_level}, C2 = {per_level} for this expansion.
 select cefr_level, count(*) as added_words
 from public.vocabulary where id between {min(r['id'] for r in additions)} and {max(r['id'] for r in additions)}
 group by cefr_level order by cefr_level;
 """
-    (ROOT / 'supabase' / 'add_cefr_b2_c1_c2.sql').write_text(migration, encoding='utf-8')
+        (ROOT / 'supabase' / filename).write_text(migration, encoding='utf-8')
+    original_rows = [row for row in rows if row['id'] <= 1376]
+    assert len(original_rows) == 1376
+    level_columns = ['id', 'english', 'part_of_speech', 'is_idiom', 'is_slang', 'cefr_level']
+    level_values = ',\n'.join('(' + ', '.join(sql_literal(row[col]) for col in level_columns) + ')' for row in original_rows)
+    classification = f"""-- Fill missing CEFR levels for the original 1,376 entries (including idioms/slang).
+-- Editorial estimates for the taught senses; not certified CEFR dictionary ratings.
+-- Run the ENTIRE file in Supabase SQL Editor. Safe to rerun.
+-- Existing non-empty classifications, including the 300 expansion words, are preserved.
+begin;
+alter table public.vocabulary add column if not exists cefr_level text
+  check (cefr_level in ('A1', 'A2', 'B1', 'B2', 'C1', 'C2'));
+create temporary table fu_original_levels (
+  id integer primary key, english text not null, part_of_speech text not null,
+  is_idiom boolean not null, is_slang boolean not null, cefr_level text not null
+) on commit drop;
+insert into fu_original_levels ({', '.join(level_columns)}) values
+{level_values};
+do $$
+begin
+  if exists (
+    select 1 from fu_original_levels n left join public.vocabulary v on v.id = n.id
+    where v.id is null or v.english <> n.english
+      or v.part_of_speech <> n.part_of_speech
+      or v.is_idiom <> n.is_idiom or v.is_slang <> n.is_slang
+  ) then
+    raise exception 'Original vocabulary is missing or an ID refers to a different entry. No levels changed. Check IDs 1-1376 before retrying.';
+  end if;
+end $$;
+update public.vocabulary v set cefr_level = n.cefr_level
+from fu_original_levels n
+where v.id = n.id and (v.cefr_level is null or btrim(v.cefr_level) = '');
+commit;
+
+-- Inspect the resulting distribution. NULL/unrated should have zero entries.
+select coalesce(nullif(btrim(cefr_level), ''), 'unrated') as cefr_level, count(*) as entries
+from public.vocabulary group by 1 order by 1;
+"""
+    (ROOT / 'supabase' / 'classify_remaining_cefr.sql').write_text(classification, encoding='utf-8')
     # Sample across topics, not just the first food entries; include both expression sets.
     topics = defaultdict(list)
     for row in rows:
-        if not row['is_idiom'] and not row['is_slang'] and not row['cefr_level']:
+        if not row['is_idiom'] and not row['is_slang'] and row['id'] <= 1376:
             topics[row['category_l1']].append(row)
     demo = [row for group in topics.values() for row in group[:3]]
     for flag in ('is_idiom', 'is_slang'):

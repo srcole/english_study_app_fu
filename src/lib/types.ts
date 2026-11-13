@@ -14,13 +14,14 @@ export interface Word {
   cefr_level?: 'A1' | 'A2' | 'B1' | 'B2' | 'C1' | 'C2' | null;
 }
 export type Direction = 'zh-en' | 'en-zh' | 'mixed';
+export type CefrLevel = NonNullable<Word['cefr_level']> | 'unrated';
 export interface Settings {
   direction: Direction;
   kind: 'all' | 'words' | 'idioms' | 'slang';
   maxPriority: number;
   count: number;
   category: string;
-  cefrLevel: 'all' | 'B2' | 'C1' | 'C2' | 'unrated';
+  cefrLevels: CefrLevel[];
   autoSpeak: boolean;
   rate: number;
   voiceURI: string;

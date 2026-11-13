@@ -1,0 +1,300 @@
+abandon|放弃|əˈbændən|verb|行动与决定|3|We cannot abandon the project now.|我们现在不能放弃这个项目。
+absorb|吸收|əbˈzɔrb|verb|科学与变化|3|These materials absorb heat.|这些材料吸收热量。
+accompany|陪同|əˈkʌmpəni|verb|人际与行动|3|May I accompany you?|我可以陪你去吗？
+accomplish|完成；实现|əˈkɑmplɪʃ|verb|工作与目标|3|We can accomplish more together.|我们一起能完成更多事情。
+accuse|指控；指责|əˈkjuz|verb|社会与行为|3|Do not accuse someone without evidence.|不要无凭无据地指责别人。
+acquire|获得；习得|əˈkwaɪr|verb|学习与发展|3|Children acquire language through interaction.|儿童通过互动习得语言。
+adapt|适应；调整|əˈdæpt|verb|学习与发展|2|We must adapt to the changes.|我们必须适应这些变化。
+adjust|调整|əˈdʒʌst|verb|行动与决定|2|Please adjust the screen brightness.|请调整屏幕亮度。
+admire|钦佩|ədˈmaɪr|verb|人际与行动|3|I admire her determination.|我钦佩她的决心。
+admit|承认|ədˈmɪt|verb|沟通与观点|2|I admit that I was wrong.|我承认我错了。
+adopt|采用；采纳|əˈdɑpt|verb|行动与决定|3|We should adopt a simpler method.|我们应该采用更简单的方法。
+affect|影响|əˈfɛkt|verb|原因与结果|2|Noise can affect your concentration.|噪声会影响你的注意力。
+afford|负担得起|əˈfɔrd|verb|金钱与生活|2|We cannot afford another delay.|我们承受不起再次延误。
+alter|改变|ˈɔltər|verb|科学与变化|3|We may need to alter the design.|我们可能需要修改设计。
+announce|宣布|əˈnaʊns|verb|沟通与观点|2|They will announce the winner tonight.|他们今晚将宣布获胜者。
+appeal|呼吁|əˈpil|verb|沟通与观点|3|We appeal to everyone to help.|我们呼吁大家提供帮助。
+appoint|任命|əˈpɔɪnt|verb|工作与目标|3|They will appoint a new director.|他们将任命一位新主管。
+appreciate|感激；欣赏|əˈpriʃiˌeɪt|verb|人际与行动|2|I appreciate your honesty.|我很欣赏你的诚实。
+approve|批准|əˈpruv|verb|工作与目标|3|The board must approve the budget.|董事会必须批准预算。
+arise|出现；发生|əˈraɪz|verb|原因与结果|3|Problems may arise during testing.|测试过程中可能出现问题。
+attach|附上|əˈtætʃ|verb|工作与目标|2|Please attach a copy of your receipt.|请附上一份收据副本。
+attempt|尝试|əˈtɛmpt|verb|行动与决定|3|Do not attempt this without training.|未经训练不要尝试这个。
+attract|吸引|əˈtrækt|verb|人际与行动|2|Bright colors attract attention.|鲜艳的颜色吸引注意。
+ban|禁止|bæn|verb|社会与行为|3|The city will ban smoking here.|这座城市将禁止在这里吸烟。
+behave|表现；举止|bɪˈheɪv|verb|社会与行为|3|Please behave respectfully toward others.|请尊重他人。
+blame|责怪|bleɪm|verb|社会与行为|2|Do not blame yourself for everything.|不要什么事都责怪自己。
+boost|促进；提高|bust|verb|学习与发展|3|Exercise can boost your mood.|锻炼可以改善心情。
+capture|捕捉；记录|ˈkæptʃər|verb|科学与变化|3|The camera can capture fine details.|这台相机能捕捉细节。
+challenge|质疑；挑战|ˈtʃælɪndʒ|verb|沟通与观点|2|We should challenge that assumption.|我们应该质疑那个假设。
+clarify|澄清|ˈklærəˌfaɪ|verb|沟通与观点|3|Could you clarify your request?|你能说明一下你的要求吗？
+combine|结合|kəmˈbaɪn|verb|行动与决定|2|We can combine the two methods.|我们可以结合这两种方法。
+command|命令|kəˈmænd|verb|社会与行为|3|Officers command their troops.|军官指挥部队。
+compete|竞争|kəmˈpit|verb|工作与目标|2|Small shops compete with large chains.|小商店与大型连锁店竞争。
+concentrate|集中注意力|ˈkɑnsənˌtreɪt|verb|学习与发展|2|I cannot concentrate in this noise.|在这样的噪声中我无法集中注意力。
+conduct|进行；实施|kənˈdʌkt|verb|工作与目标|3|We will conduct a survey.|我们将进行一项调查。
+confirm|确认|kənˈfɜrm|verb|沟通与观点|2|Please confirm your booking.|请确认你的预订。
+confront|面对；直面|kənˈfrʌnt|verb|社会与行为|3|We need to confront this problem.|我们需要直面这个问题。
+conserve|保护；节约|kənˈsɜrv|verb|环境与资源|3|These measures conserve water.|这些措施节约用水。
+construct|建造|kənˈstrʌkt|verb|工作与目标|3|They will construct a new bridge.|他们将建造一座新桥。
+consult|咨询；查阅|kənˈsʌlt|verb|沟通与观点|3|Please consult the manual first.|请先查阅手册。
+consume|消耗；消费|kənˈsum|verb|环境与资源|3|Old appliances consume more electricity.|旧电器消耗更多电。
+convict|判定有罪|kənˈvɪkt|verb|社会与行为|3|A court needs evidence to convict someone.|法院需要证据才能判定某人有罪。
+cope|应对|koʊp|verb|生活与压力|3|How do you cope with stress?|你如何应对压力？
+criticize|批评|ˈkrɪtəˌsaɪz|verb|沟通与观点|3|It is easy to criticize from outside.|局外人很容易提出批评。
+debunk|揭穿；驳斥|diˈbʌŋk|verb|沟通与观点|3|The article will debunk that myth.|这篇文章将揭穿那个误传。
+defend|保卫；为……辩护|dɪˈfɛnd|verb|社会与行为|3|She stood up to defend her colleague.|她站出来为同事辩护。
+delay|推迟|dɪˈleɪ|verb|行动与决定|2|We may need to delay departure.|我们可能需要推迟出发。
+demand|要求|dɪˈmænd|verb|沟通与观点|2|Customers demand better service.|顾客要求更好的服务。
+deny|否认|dɪˈnaɪ|verb|沟通与观点|3|They deny any involvement.|他们否认有任何牵连。
+detect|发现；检测出|dɪˈtɛkt|verb|科学与变化|3|The sensor can detect smoke.|这个传感器能检测到烟雾。
+devote|投入；奉献|dɪˈvoʊt|verb|工作与目标|3|I devote an hour to reading daily.|我每天花一小时阅读。
+disappoint|使失望|ˌdɪsəˈpɔɪnt|verb|人际与行动|3|I do not want to disappoint you.|我不想让你失望。
+discourage|使气馁；劝阻|dɪsˈkɜrɪdʒ|verb|人际与行动|3|Do not let setbacks discourage you.|不要让挫折使你气馁。
+dismiss|不予考虑；解雇|dɪsˈmɪs|verb|工作与目标|3|Do not dismiss the idea too quickly.|不要过快地否定这个想法。
+display|展示|dɪˈspleɪ|verb|沟通与观点|2|The screen can display several charts.|屏幕可以显示几张图表。
+distribute|分发；分配|dɪˈstrɪbjut|verb|工作与目标|3|Volunteers distribute food to families.|志愿者向各个家庭分发食物。
+disturb|打扰|dɪˈstɜrb|verb|人际与行动|2|Please do not disturb the guests.|请不要打扰客人。
+dominate|支配；占主导地位|ˈdɑməˌneɪt|verb|社会与行为|3|Two firms dominate the market.|两家公司主导着市场。
+edit|编辑|ˈɛdɪt|verb|工作与目标|2|Please edit the introduction.|请编辑引言部分。
+eliminate|消除|ɪˈlɪməˌneɪt|verb|行动与决定|3|We cannot eliminate every risk.|我们无法消除所有风险。
+emerge|出现；显现|ɪˈmɜrdʒ|verb|科学与变化|3|New evidence may emerge later.|以后可能出现新的证据。
+enable|使能够|ɪˈneɪbəl|verb|原因与结果|2|These tools enable faster communication.|这些工具让沟通更迅速。
+engage|使参与；吸引|ɪnˈɡeɪdʒ|verb|人际与行动|3|Stories engage young readers.|故事吸引年轻读者。
+establish|建立；确立|ɪˈstæblɪʃ|verb|工作与目标|3|We must establish clear rules.|我们必须制定明确的规则。
+exceed|超过|ɪkˈsid|verb|数量与比较|3|Costs must not exceed the budget.|费用不得超过预算。
+exchange|交换|ɪksˈtʃeɪndʒ|verb|人际与行动|2|We exchange ideas every week.|我们每周交流想法。
+exclude|排除|ɪkˈsklud|verb|行动与决定|3|The quoted price will exclude delivery costs.|报价将不包括配送费用。
+exhibit|展出；表现出|ɪɡˈzɪbɪt|verb|社会与文化|3|Local artists exhibit their work here.|当地艺术家在这里展出作品。
+exploit|利用；剥削|ɪkˈsplɔɪt|verb|社会与行为|3|Some employers exploit vulnerable workers.|一些雇主剥削弱势工人。
+expose|揭露；使接触|ɪkˈspoʊz|verb|沟通与观点|3|The investigation may expose serious failures.|调查可能揭露严重失误。
+extend|延长；扩展|ɪkˈstɛnd|verb|行动与决定|2|Could you extend the deadline?|你能延长截止期限吗？
+finance|为……提供资金|fəˈnæns|verb|金钱与生活|3|How will we finance the expansion?|我们将如何为扩张筹资？
+fulfill|履行；实现|fʊlˈfɪl|verb|工作与目标|3|We intend to fulfill our promise.|我们打算履行承诺。
+govern|治理；支配|ˈɡʌvərn|verb|社会与行为|3|These rules govern how funds are used.|这些规则规定资金的使用方式。
+handle|处理|ˈhændəl|verb|行动与决定|2|She can handle difficult conversations.|她能处理棘手的谈话。
+hesitate|犹豫|ˈhɛzəˌteɪt|verb|行动与决定|3|Do not hesitate to ask questions.|有问题尽管问。
+illustrate|说明；图解|ˈɪləˌstreɪt|verb|沟通与观点|3|This example will illustrate my point.|这个例子将说明我的观点。
+impose|强加；实施|ɪmˈpoʊz|verb|社会与行为|3|The council may impose new restrictions.|市政委员会可能实施新的限制。
+impress|给……留下深刻印象|ɪmˈprɛs|verb|人际与行动|3|Her skills continue to impress us.|她的技能不断让我们赞叹。
+inspire|激励|ɪnˈspaɪr|verb|人际与行动|3|Her story will inspire many people.|她的故事将激励许多人。
+install|安装|ɪnˈstɔl|verb|科技与操作|2|Please install the latest update.|请安装最新更新。
+instruct|指导；指示|ɪnˈstrʌkt|verb|学习与发展|3|A coach will instruct the beginners.|教练将指导初学者。
+interrupt|打断|ˌɪntəˈrʌpt|verb|沟通与观点|2|Please do not interrupt the speaker.|请不要打断发言者。
+launch|推出；启动|lɔntʃ|verb|工作与目标|3|We will launch the website tomorrow.|我们明天将上线网站。
+manufacture|生产；制造|ˌmænjəˈfæktʃər|verb|商业与生产|3|They manufacture medical equipment.|他们生产医疗设备。
+motivate|激励；促使|ˈmoʊtəˌveɪt|verb|人际与行动|3|Clear goals motivate the team.|明确的目标能激励团队。
+overcome|克服|ˌoʊvərˈkʌm|verb|生活与压力|3|We can overcome these difficulties.|我们能克服这些困难。
+persuade|说服|pərˈsweɪd|verb|沟通与观点|2|Can you persuade her to stay?|你能说服她留下吗？
+prevent|阻止；预防|prɪˈvɛnt|verb|生活与压力|2|Regular checks help prevent accidents.|定期检查有助于预防事故。
+promote|促进；推广|prəˈmoʊt|verb|商业与生产|2|The campaign will promote healthier habits.|这次活动将推广更健康的习惯。
+pursue|追求|pərˈsu|verb|工作与目标|3|She wants to pursue a research career.|她想从事研究工作。
+react|作出反应|riˈækt|verb|人际与行动|2|How did they react to the news?|他们对这个消息有什么反应？
+recruit|招聘；招募|rɪˈkrut|verb|商业与生产|3|We need to recruit more volunteers.|我们需要招募更多志愿者。
+reflect|反映；反思|rɪˈflɛkt|verb|沟通与观点|3|The results reflect changing attitudes.|这些结果反映了态度的变化。
+reject|拒绝|rɪˈdʒɛkt|verb|行动与决定|2|They may reject our proposal.|他们可能会拒绝我们的提案。
+release|发布；释放|rɪˈlis|verb|商业与生产|2|They will release the report tomorrow.|他们明天将发布报告。
+replace|替换|rɪˈpleɪs|verb|行动与决定|2|We need to replace the damaged cable.|我们需要更换损坏的线缆。
+represent|代表|ˌrɛprɪˈzɛnt|verb|社会与行为|2|Who will represent the students?|谁将代表学生？
+resist|抵抗；抵制|rɪˈzɪst|verb|行动与决定|3|Some employees resist the changes.|一些员工抵制这些变化。
+reveal|揭示；透露|rɪˈvil|verb|沟通与观点|2|The test may reveal the cause.|测试可能揭示原因。
+absence|缺席；缺乏|ˈæbsəns|noun|生活与工作|3|Her absence was unexpected.|她的缺席出乎意料。
+access|使用权；进入的机会|ˈækˌsɛs|noun|社会与科技|2|Students have free access to the library.|学生可以免费使用图书馆。
+achievement|成就|əˈtʃivmənt|noun|学习与发展|2|Finishing the course was a real achievement.|完成这门课程是一项真正的成就。
+accommodation|住宿|əˌkɑməˈdeɪʃən|noun|生活与工作|3|The fee includes accommodation.|费用包括住宿。
+accuracy|准确性|ˈækjərəsi|noun|研究与信息|3|We checked the accuracy of the figures.|我们核查了数字的准确性。
+advantage|优势|ədˈvæntɪdʒ|noun|数量与比较|2|Experience gives her an advantage.|经验让她占据优势。
+advertisement|广告|ˌædvərˈtaɪzmənt|noun|商业与消费|2|I saw an advertisement for the course.|我看到了一则课程广告。
+agenda|议程|əˈdʒɛndə|noun|生活与工作|3|What is on today's agenda?|今天的议程是什么？
+agriculture|农业|ˈæɡrɪˌkʌltʃər|noun|环境与资源|3|Agriculture is important to this region.|农业对这个地区很重要。
+aid|援助|eɪd|noun|社会与制度|3|The village urgently needs aid.|这个村庄急需援助。
+aspect|方面|ˈæsˌpɛkt|noun|研究与信息|2|Cost is only one aspect of the decision.|成本只是决策的一个方面。
+asset|资产；有价值的人或物|ˈæˌsɛt|noun|商业与消费|3|Her language skills are a valuable asset.|她的语言技能是宝贵的财富。
+authority|权力；主管机构|əˈθɔrəti|noun|社会与制度|3|Who has the authority to approve this?|谁有权批准这件事？
+awareness|意识；认识|əˈwɛrnəs|noun|社会与制度|3|The campaign raises awareness of pollution.|这次活动提高了人们对污染的认识。
+barrier|障碍|ˈbæriər|noun|社会与制度|3|Cost can be a barrier to education.|费用可能成为受教育的障碍。
+capacity|容量；能力|kəˈpæsəti|noun|数量与比较|3|The hall has a capacity of 500.|这个大厅可容纳五百人。
+candidate|候选人；申请者|ˈkændɪdət|noun|生活与工作|3|Each candidate will have an interview.|每位申请者都将接受面试。
+certificate|证书|sərˈtɪfɪkət|noun|学习与发展|3|You will receive a certificate.|你将获得一张证书。
+contribution|贡献|ˌkɑntrɪˈbjuʃən|noun|学习与发展|3|Your contribution made a difference.|你的贡献发挥了作用。
+citizen|公民|ˈsɪtɪzən|noun|社会与制度|3|Every citizen has rights and responsibilities.|每位公民都有权利和责任。
+climate|气候|ˈklaɪmət|noun|环境与资源|2|The local climate is changing.|当地气候正在变化。
+colony|殖民地；群体|ˈkɑləni|noun|社会与历史|3|The island was once a colony.|这座岛曾是一块殖民地。
+combination|组合|ˌkɑmbəˈneɪʃən|noun|数量与比较|3|Success requires a combination of skills.|成功需要多种技能的结合。
+commerce|商业；贸易|ˈkɑmɜrs|noun|商业与消费|3|The river supported local commerce.|这条河支撑了当地贸易。
+competition|竞争；竞赛|ˌkɑmpəˈtɪʃən|noun|商业与消费|2|Competition has lowered prices.|竞争使价格降低了。
+complaint|投诉；抱怨|kəmˈpleɪnt|noun|商业与消费|2|I would like to make a complaint.|我想提出投诉。
+conclusion|结论|kənˈkluʒən|noun|研究与信息|2|The evidence supports our conclusion.|证据支持我们的结论。
+condition|条件；状况|kənˈdɪʃən|noun|研究与信息|2|Payment in advance is a condition.|预先付款是一项条件。
+confidence|信心|ˈkɑnfɪdəns|noun|学习与发展|2|Practice builds confidence.|练习能建立信心。
+conflict|冲突|ˈkɑnflɪkt|noun|社会与制度|3|We want to avoid unnecessary conflict.|我们想避免不必要的冲突。
+conservation|保护；保存|ˌkɑnsərˈveɪʃən|noun|环境与资源|3|The charity supports wildlife conservation.|这家慈善机构支持野生动物保护。
+consumer|消费者|kənˈsumər|noun|商业与消费|3|The law protects the consumer.|法律保护消费者。
+context|背景；语境|ˈkɑntɛkst|noun|研究与信息|2|The meaning depends on the context.|意思取决于语境。
+convention|惯例；大会|kənˈvɛnʃən|noun|社会与文化|3|We followed the local convention.|我们遵循了当地惯例。
+cooperation|合作|koʊˌɑpəˈreɪʃən|noun|社会与制度|3|The project depends on cooperation.|这个项目依靠合作。
+crisis|危机|ˈkraɪsɪs|noun|社会与制度|3|The country faces a housing crisis.|这个国家面临住房危机。
+criticism|批评|ˈkrɪtəˌsɪzəm|noun|沟通与观点|3|Her criticism was fair and useful.|她的批评公正且有用。
+currency|货币|ˈkɜrənsi|noun|商业与消费|3|What currency do they use there?|那里使用什么货币？
+diversity|多样性|daɪˈvɜrsəti|noun|社会与文化|3|The city celebrates cultural diversity.|这座城市重视文化多样性。
+decade|十年|ˈdɛkeɪd|noun|时间与变化|3|The town grew rapidly over a decade.|这个小镇在十年间迅速发展。
+defense|防御；辩护|dɪˈfɛns|noun|社会与制度|3|He spoke in defense of the proposal.|他为这个提议作了辩护。
+democracy|民主|dɪˈmɑkrəsi|noun|社会与制度|3|Free elections are essential to democracy.|自由选举对民主至关重要。
+demonstration|示范；示威|ˌdɛmənˈstreɪʃən|noun|社会与制度|3|The demonstration showed how it works.|这次演示展示了它如何运作。
+departure|离开；出发|dɪˈpɑrtʃər|noun|旅行与变化|3|Our departure was delayed.|我们的出发时间推迟了。
+discipline|纪律；学科|ˈdɪsəplɪn|noun|学习与发展|3|Independent study requires discipline.|自主学习需要自律。
+discovery|发现|dɪˈskʌvəri|noun|研究与信息|2|The discovery changed our understanding.|这一发现改变了我们的认识。
+drought|干旱|draʊt|noun|环境与资源|3|The drought damaged local crops.|干旱损害了当地庄稼。
+economy|经济|ɪˈkɑnəmi|noun|商业与消费|2|Tourism supports the local economy.|旅游业支撑着当地经济。
+efficiency|效率|ɪˈfɪʃənsi|noun|生活与工作|3|The changes improved efficiency.|这些改变提高了效率。
+election|选举|ɪˈlɛkʃən|noun|社会与制度|2|The election takes place next month.|选举将在下个月举行。
+emergency|紧急情况|ɪˈmɜrdʒənsi|noun|生活与工作|2|Call this number in an emergency.|遇到紧急情况请拨打这个号码。
+emphasis|强调；重点|ˈɛmfəsɪs|noun|沟通与观点|3|The course places emphasis on speaking.|这门课程注重口语。
+employment|就业；雇用|ɪmˈplɔɪmənt|noun|生活与工作|3|The factory provides local employment.|这家工厂提供当地就业机会。
+enterprise|企业；事业|ˈɛntərˌpraɪz|noun|商业与消费|3|They started a small enterprise.|他们创办了一家小企业。
+enthusiasm|热情|ɪnˈθuziˌæzəm|noun|学习与发展|3|Her enthusiasm encouraged the class.|她的热情鼓舞了全班。
+environment|环境|ɪnˈvaɪrənmənt|noun|环境与资源|2|We need a quiet learning environment.|我们需要安静的学习环境。
+equality|平等|ɪˈkwɑləti|noun|社会与制度|3|The campaign promotes gender equality.|这次活动倡导性别平等。
+era|时代|ˈɪrə|noun|社会与历史|3|The invention marked a new era.|这项发明标志着一个新时代。
+exception|例外|ɪkˈsɛpʃən|noun|研究与信息|3|There is one exception to this rule.|这条规则有一个例外。
+expansion|扩张；扩大|ɪkˈspænʃən|noun|商业与消费|3|The expansion will create jobs.|这次扩张将创造就业机会。
+expertise|专业知识|ˌɛkspərˈtiz|noun|生活与工作|3|We need her technical expertise.|我们需要她的技术专长。
+factor|因素|ˈfæktər|noun|研究与信息|2|Time is an important factor.|时间是一个重要因素。
+failure|失败；故障|ˈfeɪljər|noun|生活与工作|2|We learned from the failure.|我们从失败中吸取了教训。
+feature|特征；功能|ˈfitʃər|noun|社会与科技|2|This feature saves time.|这个功能节省时间。
+foundation|基础|faʊnˈdeɪʃən|noun|学习与发展|3|Trust is the foundation of teamwork.|信任是团队合作的基础。
+freedom|自由|ˈfridəm|noun|社会与制度|2|The role gives me creative freedom.|这个职位让我享有创作自由。
+funding|资金；经费|ˈfʌndɪŋ|noun|商业与消费|3|The project needs additional funding.|这个项目需要额外资金。
+generation|一代人|ˌdʒɛnəˈreɪʃən|noun|社会与文化|2|Each generation faces different challenges.|每一代人面临不同的挑战。
+habitat|栖息地|ˈhæbəˌtæt|noun|环境与资源|3|The forest is an important habitat.|这片森林是重要的栖息地。
+heritage|遗产；传统|ˈhɛrɪtɪdʒ|noun|社会与文化|3|The museum celebrates our cultural heritage.|这座博物馆展示我们的文化遗产。
+identity|身份；认同|aɪˈdɛntəti|noun|社会与文化|3|Please bring proof of identity.|请携带身份证明。
+immigration|移民入境|ˌɪməˈɡreɪʃən|noun|社会与制度|3|Immigration has shaped the city.|移民塑造了这座城市。
+independence|独立|ˌɪndɪˈpɛndəns|noun|社会与制度|3|The country gained independence.|这个国家取得了独立。
+industry|工业；行业|ˈɪndəstri|noun|商业与消费|2|She works in the publishing industry.|她在出版行业工作。
+influence|影响力|ˈɪnfluəns|noun|人际与社会|2|Teachers have a lasting influence.|教师具有持久的影响力。
+innovation|创新|ˌɪnəˈveɪʃən|noun|社会与科技|3|The company encourages innovation.|公司鼓励创新。
+institution|机构；制度|ˌɪnstɪˈtuʃən|noun|社会与制度|3|The university is a respected institution.|这所大学是一家受尊重的机构。
+intention|意图；打算|ɪnˈtɛnʃən|noun|沟通与观点|3|That was not my intention.|那不是我的本意。
+investment|投资|ɪnˈvɛstmənt|noun|商业与消费|2|Education is a long-term investment.|教育是一项长期投资。
+justice|公正；司法|ˈdʒʌstɪs|noun|社会与制度|3|They continue to demand justice.|他们继续要求公正。
+leadership|领导能力|ˈlidərˌʃɪp|noun|生活与工作|3|The crisis requires strong leadership.|这场危机需要强有力的领导。
+legislation|法律；立法|ˌlɛdʒɪsˈleɪʃən|noun|社会与制度|3|New legislation protects consumer data.|新的法律保护消费者数据。
+limitation|限制；局限|ˌlɪməˈteɪʃən|noun|研究与信息|3|Every method has a limitation.|每种方法都有局限。
+location|位置；地点|loʊˈkeɪʃən|noun|生活与工作|2|The location is convenient for commuters.|这个地点对通勤者很方便。
+maintenance|维护；保养|ˈmeɪntənəns|noun|生活与工作|3|The equipment needs regular maintenance.|设备需要定期维护。
+negotiation|谈判；协商|nɪˌɡoʊʃiˈeɪʃən|noun|商业与消费|3|The terms are open to negotiation.|这些条款可以协商。
+obstacle|障碍|ˈɑbstəkəl|noun|学习与发展|3|Lack of time is the biggest obstacle.|时间不足是最大的障碍。
+ownership|所有权|ˈoʊnərˌʃɪp|noun|商业与消费|3|The contract confirms ownership.|合同确认了所有权。
+participation|参与|pɑrˌtɪsəˈpeɪʃən|noun|社会与制度|3|Participation is completely voluntary.|参与完全出于自愿。
+permission|许可|pərˈmɪʃən|noun|社会与制度|2|You need permission to enter.|你需要许可才能进入。
+population|人口|ˌpɑpjəˈleɪʃən|noun|社会与制度|2|The population is growing steadily.|人口正在稳步增长。
+poverty|贫困|ˈpɑvərti|noun|社会与制度|3|Education can help reduce poverty.|教育有助于减少贫困。
+preference|偏好|ˈprɛfərəns|noun|人际与社会|3|Do you have a seating preference?|你对座位有偏好吗？
+privacy|隐私|ˈpraɪvəsi|noun|社会与科技|2|We respect your privacy.|我们尊重你的隐私。
+qualification|资格；资历|ˌkwɑləfəˈkeɪʃən|noun|学习与发展|3|The job requires a teaching qualification.|这份工作要求具备教师资格。
+reputation|声誉|ˌrɛpjəˈteɪʃən|noun|商业与消费|3|The restaurant has an excellent reputation.|这家餐馆享有极佳的声誉。
+responsibility|责任|rɪˌspɑnsəˈbɪləti|noun|生活与工作|2|We share responsibility for the outcome.|我们共同对结果负责。
+revenue|收入；收益|ˈrɛvəˌnu|noun|商业与消费|3|Advertising provides most of the revenue.|广告带来了大部分收入。
+shortage|短缺|ˈʃɔrtɪdʒ|noun|环境与资源|3|There is a shortage of skilled workers.|熟练工人短缺。
+accessible|可进入的；易使用的|əkˈsɛsəbəl|adjective|质量与特点|3|The building is accessible to wheelchair users.|这栋楼方便轮椅使用者进入。
+acceptable|可接受的|əkˈsɛptəbəl|adjective|质量与特点|2|That is an acceptable compromise.|那是可以接受的折中方案。
+additional|额外的|əˈdɪʃənəl|adjective|数量与程度|2|There is an additional charge.|还要额外收费。
+abundant|丰富的；充足的|əˈbʌndənt|adjective|数量与程度|3|The region has abundant resources.|这个地区资源丰富。
+advanced|先进的；高级的|ədˈvænst|adjective|科技与发展|2|The course covers advanced techniques.|课程涵盖高级技巧。
+aggressive|咄咄逼人的；有攻击性的|əˈɡrɛsɪv|adjective|人物与态度|3|His aggressive tone made matters worse.|他咄咄逼人的语气使情况更糟。
+authentic|真实的；正宗的|ɔˈθɛntɪk|adjective|质量与特点|3|The restaurant serves authentic local food.|这家餐馆供应正宗的当地食物。
+artificial|人工的；人造的|ˌɑrtəˈfɪʃəl|adjective|科技与发展|3|The room has only artificial light.|这个房间只有人工照明。
+automatic|自动的|ˌɔtəˈmætɪk|adjective|科技与发展|2|The doors are automatic.|这些门是自动的。
+available|可用的；有空的|əˈveɪləbəl|adjective|数量与程度|2|No seats are available tonight.|今晚没有空座位。
+beneficial|有益的|ˌbɛnəˈfɪʃəl|adjective|质量与特点|3|Walking is beneficial to your health.|步行有益健康。
+brilliant|出色的；聪颖的|ˈbrɪljənt|adjective|人物与态度|2|That is a brilliant suggestion.|那个建议很棒。
+casual|随意的；非正式的|ˈkæʒuəl|adjective|生活与习惯|3|The event has a casual atmosphere.|这个活动气氛轻松。
+cautious|谨慎的|ˈkɔʃəs|adjective|人物与态度|3|Investors remain cautious.|投资者仍然谨慎。
+central|核心的；中心的|ˈsɛntrəl|adjective|选择与判断|2|Trust is central to our work.|信任是我们工作的核心。
+challenging|具有挑战性的|ˈtʃælɪndʒɪŋ|adjective|质量与特点|2|It was a challenging assignment.|那是一项有挑战性的任务。
+commercial|商业的|kəˈmɜrʃəl|adjective|商业与制度|3|The idea has commercial potential.|这个想法具有商业潜力。
+confidential|保密的|ˌkɑnfəˈdɛnʃəl|adjective|商业与制度|3|Please keep this information confidential.|请对这些信息保密。
+conscious|意识到的；有意识的|ˈkɑnʃəs|adjective|人物与态度|3|We are conscious of the risks.|我们意识到了风险。
+constant|持续的；不变的|ˈkɑnstənt|adjective|数量与程度|3|The noise was constant.|噪声一直持续。
+constructive|建设性的|kənˈstrʌktɪv|adjective|沟通与观点|3|I welcome constructive criticism.|我欢迎建设性的批评。
+contemporary|当代的|kənˈtɛmpəˌrɛri|adjective|社会与文化|3|The gallery displays contemporary art.|画廊展示当代艺术。
+convenient|方便的|kənˈvinjənt|adjective|生活与习惯|2|Is Friday convenient for you?|星期五对你方便吗？
+conventional|传统的；常规的|kənˈvɛnʃənəl|adjective|社会与文化|3|We tried a conventional approach first.|我们先尝试了常规方法。
+critical|关键的；批判的|ˈkrɪtɪkəl|adjective|选择与判断|3|Timing is critical to success.|时机对成功至关重要。
+delicate|脆弱的；精细的|ˈdɛlɪkət|adjective|质量与特点|3|Handle the delicate equipment carefully.|小心搬动精密设备。
+dependent|依赖的|dɪˈpɛndənt|adjective|人物与态度|3|The region is dependent on tourism.|该地区依赖旅游业。
+desirable|值得拥有的；理想的|dɪˈzaɪrəbəl|adjective|选择与判断|3|Experience is desirable but not essential.|有经验是理想条件，但不是必需的。
+detailed|详细的|ˈdiˌteɪld|adjective|沟通与观点|2|Please send a detailed description.|请发送详细描述。
+determined|坚定的|dɪˈtɜrmɪnd|adjective|人物与态度|3|She is determined to finish.|她决心完成。
+distinct|不同的；明显的|dɪˈstɪŋkt|adjective|选择与判断|3|These are two distinct problems.|这是两个不同的问题。
+domestic|国内的；家庭的|dəˈmɛstɪk|adjective|商业与制度|3|Domestic demand has increased.|国内需求增加了。
+dramatic|巨大的；戏剧性的|drəˈmætɪk|adjective|数量与程度|3|We saw a dramatic improvement.|我们看到了显著改善。
+economic|经济的|ˌɛkəˈnɑmɪk|adjective|商业与制度|2|Economic growth has slowed.|经济增长放缓了。
+effective|有效的|ɪˈfɛktɪv|adjective|质量与特点|2|This is an effective method.|这是一个有效的方法。
+electronic|电子的|ɪˌlɛkˈtrɑnɪk|adjective|科技与发展|2|Keep an electronic copy.|保留一份电子副本。
+emotional|情绪的；情感的|ɪˈmoʊʃənəl|adjective|人物与态度|2|She needs emotional support.|她需要情感支持。
+enormous|巨大的|ɪˈnɔrməs|adjective|数量与程度|3|The project requires enormous effort.|这个项目需要巨大的努力。
+environmental|环境的|ɪnˌvaɪrənˈmɛntəl|adjective|环境与资源|3|We must assess the environmental impact.|我们必须评估环境影响。
+essential|必不可少的|ɪˈsɛnʃəl|adjective|质量与特点|2|Water is essential for life.|水对生命不可或缺。
+ethical|合乎道德的；伦理的|ˈɛθɪkəl|adjective|商业与制度|3|The study raises ethical questions.|这项研究引发了伦理问题。
+exceptional|卓越的；异常的|ɪkˈsɛpʃənəl|adjective|质量与特点|3|She showed exceptional skill.|她展现了卓越的技能。
+extensive|广泛的；大量的|ɪkˈstɛnsɪv|adjective|数量与程度|3|The proposal requires extensive research.|这个提案需要大量研究。
+external|外部的|ɪkˈstɜrnəl|adjective|选择与判断|3|We need external advice.|我们需要外部建议。
+extreme|极端的|ɪkˈstrim|adjective|数量与程度|3|The region experiences extreme heat.|该地区经历极端高温。
+familiar|熟悉的|fəˈmɪljər|adjective|人物与态度|2|The name sounds familiar.|这个名字听起来很熟悉。
+financial|财务的；金融的|faɪˈnænʃəl|adjective|商业与制度|2|We need financial support.|我们需要资金支持。
+formal|正式的|ˈfɔrməl|adjective|沟通与观点|2|They issued a formal apology.|他们发表了正式道歉。
+fortunate|幸运的|ˈfɔrtʃənət|adjective|人物与态度|3|We were fortunate to find help.|我们很幸运找到了帮助。
+global|全球的|ˈɡloʊbəl|adjective|社会与文化|2|This is a global problem.|这是一个全球性问题。
+harmful|有害的|ˈhɑrmfəl|adjective|环境与资源|3|The chemicals are harmful to wildlife.|这些化学物质对野生动物有害。
+historical|历史的|hɪˈstɔrɪkəl|adjective|社会与文化|3|The novel uses historical sources.|这部小说使用了历史资料。
+illegal|违法的|ɪˈliɡəl|adjective|商业与制度|2|It is illegal to park here.|在这里停车是违法的。
+immediate|立即的；直接的|ɪˈmidiət|adjective|数量与程度|2|The issue needs immediate attention.|这个问题需要立即关注。
+impressive|令人印象深刻的|ɪmˈprɛsɪv|adjective|质量与特点|3|The results are impressive.|结果令人印象深刻。
+increasing|不断增长的|ɪnˈkrisɪŋ|adjective|数量与程度|2|We face increasing demand.|我们面临不断增长的需求。
+industrial|工业的|ɪnˈdʌstriəl|adjective|商业与制度|3|The town has an industrial history.|这座城镇有工业发展历史。
+informal|非正式的|ɪnˈfɔrməl|adjective|沟通与观点|2|We had an informal discussion.|我们进行了一次非正式讨论。
+innovative|创新的|ˈɪnəˌveɪtɪv|adjective|科技与发展|3|They proposed an innovative design.|他们提出了一个创新设计。
+intense|强烈的|ɪnˈtɛns|adjective|数量与程度|3|The competition was intense.|竞争很激烈。
+internal|内部的|ɪnˈtɜrnəl|adjective|商业与制度|3|The company began an internal review.|公司开始了内部审查。
+legal|合法的；法律的|ˈliɡəl|adjective|商业与制度|2|We need legal advice.|我们需要法律建议。
+logical|合乎逻辑的|ˈlɑdʒɪkəl|adjective|选择与判断|3|That is a logical conclusion.|那是一个合乎逻辑的结论。
+massive|巨大的；大规模的|ˈmæsɪv|adjective|数量与程度|3|The change caused massive disruption.|这一变化造成了大规模混乱。
+mental|心理的；精神的|ˈmɛntəl|adjective|生活与习惯|2|Sleep supports mental health.|睡眠有助于心理健康。
+minor|较小的；次要的|ˈmaɪnər|adjective|数量与程度|2|There was a minor delay.|有一点延误。
+moderate|适度的；中等的|ˈmɑdərət|adjective|数量与程度|3|The task requires moderate effort.|这项任务需要适度的努力。
+negative|消极的；负面的|ˈnɛɡətɪv|adjective|选择与判断|2|The decision had negative consequences.|这个决定带来了负面后果。
+neutral|中立的|ˈnutrəl|adjective|选择与判断|3|The mediator remained neutral.|调解员保持中立。
+numerous|众多的|ˈnumərəs|adjective|数量与程度|3|We received numerous suggestions.|我们收到了众多建议。
+optimistic|乐观的|ˌɑptəˈmɪstɪk|adjective|人物与态度|3|I am optimistic about the future.|我对未来持乐观态度。
+ordinary|普通的|ˈɔrdəˌnɛri|adjective|质量与特点|2|It began as an ordinary day.|那天开始时很平常。
+original|原创的；最初的|əˈrɪdʒənəl|adjective|质量与特点|2|That is an original idea.|那是一个原创的想法。
+permanent|永久的|ˈpɜrmənənt|adjective|数量与程度|3|They offered her a permanent position.|他们给了她一个长期职位。
+physical|身体的；物理的|ˈfɪzɪkəl|adjective|生活与习惯|2|The job involves physical activity.|这份工作涉及体力活动。
+political|政治的|pəˈlɪtɪkəl|adjective|商业与制度|2|The issue has political implications.|这个问题具有政治影响。
+practical|实用的；实际的|ˈpræktɪkəl|adjective|质量与特点|2|We need practical advice.|我们需要实用建议。
+precise|精确的|prɪˈsaɪs|adjective|选择与判断|3|Please give a precise location.|请提供准确位置。
+predictable|可预测的|prɪˈdɪktəbəl|adjective|选择与判断|3|The ending was predictable.|结局可以预料。
+professional|专业的|prəˈfɛʃənəl|adjective|商业与制度|2|You should seek professional advice.|你应该寻求专业建议。
+promising|有前途的|ˈprɑmɪsɪŋ|adjective|质量与特点|3|The early results look promising.|初步结果看起来很有希望。
+psychological|心理的|ˌsaɪkəˈlɑdʒɪkəl|adjective|生活与习惯|3|The event had a psychological impact.|这件事产生了心理影响。
+realistic|现实的；切实可行的|ˌriəˈlɪstɪk|adjective|选择与判断|3|Set yourself a realistic goal.|给自己设定一个切实的目标。
+regional|地区的|ˈridʒənəl|adjective|社会与文化|3|The airport serves regional routes.|这座机场运营地区航线。
+remarkable|非凡的；引人注目的|rɪˈmɑrkəbəl|adjective|质量与特点|3|She made remarkable progress.|她取得了显著进步。
+remote|偏远的；远程的|rɪˈmoʊt|adjective|科技与发展|2|The school is in a remote village.|学校位于一个偏远村庄。
+responsible|负责的；有责任的|rɪˈspɑnsəbəl|adjective|人物与态度|2|Who is responsible for the schedule?|谁负责安排日程？
+rural|乡村的|ˈrʊrəl|adjective|社会与文化|3|The program supports rural communities.|这个项目支持农村社区。
+scientific|科学的|ˌsaɪənˈtɪfɪk|adjective|科技与发展|2|We need scientific evidence.|我们需要科学证据。
+severe|严重的；严厉的|səˈvɪr|adjective|数量与程度|3|The storm caused severe damage.|风暴造成了严重破坏。
+social|社会的；社交的|ˈsoʊʃəl|adjective|社会与文化|2|The project has social benefits.|这个项目具有社会效益。
+strict|严格的|strɪkt|adjective|商业与制度|3|The laboratory has strict rules.|实验室有严格的规定。
+suitable|合适的|ˈsutəbəl|adjective|选择与判断|2|Is this room suitable for meetings?|这个房间适合开会吗？
+technical|技术的|ˈtɛknɪkəl|adjective|科技与发展|2|We had a technical problem.|我们遇到了技术问题。
+traditional|传统的|trəˈdɪʃənəl|adjective|社会与文化|2|They sell traditional crafts.|他们出售传统工艺品。
+typical|典型的|ˈtɪpɪkəl|adjective|选择与判断|2|This is a typical example.|这是一个典型的例子。
+ultimate|最终的|ˈʌltəmət|adjective|选择与判断|3|Our ultimate goal is independence.|我们的最终目标是独立。
+unique|独特的|juˈnik|adjective|质量与特点|2|Every learner has unique needs.|每个学习者都有独特需求。
+urban|城市的|ˈɜrbən|adjective|社会与文化|3|Urban life can be expensive.|城市生活可能很昂贵。
+voluntary|自愿的|ˈvɑlənˌtɛri|adjective|人物与态度|3|Attendance is voluntary.|参加是自愿的。
+vulnerable|脆弱的；易受伤害的|ˈvʌlnərəbəl|adjective|人物与态度|3|The policy protects vulnerable people.|这项政策保护弱势群体。

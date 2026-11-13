@@ -12,7 +12,7 @@
     "is_idiom": false,
     "is_slang": false,
     "pronunciation": "/raɪs/",
-    "cefr_level": null
+    "cefr_level": "A1"
   },
   {
     "id": 2,
@@ -27,7 +27,7 @@
     "is_idiom": false,
     "is_slang": false,
     "pronunciation": "/brɛd/",
-    "cefr_level": null
+    "cefr_level": "A1"
   },
   {
     "id": 3,
@@ -42,7 +42,7 @@
     "is_idiom": false,
     "is_slang": false,
     "pronunciation": "/ˈnudəlz/",
-    "cefr_level": null
+    "cefr_level": "A2"
   },
   {
     "id": 121,
@@ -57,7 +57,7 @@
     "is_idiom": false,
     "is_slang": false,
     "pronunciation": "/ˈkɪtʃən/",
-    "cefr_level": null
+    "cefr_level": "A1"
   },
   {
     "id": 122,
@@ -72,7 +72,7 @@
     "is_idiom": false,
     "is_slang": false,
     "pronunciation": "/ˈbæθˌrum/",
-    "cefr_level": null
+    "cefr_level": "A1"
   },
   {
     "id": 123,
@@ -87,7 +87,7 @@
     "is_idiom": false,
     "is_slang": false,
     "pronunciation": "/ˈbɛdˌrum/",
-    "cefr_level": null
+    "cefr_level": "A1"
   },
   {
     "id": 231,
@@ -102,7 +102,7 @@
     "is_idiom": false,
     "is_slang": false,
     "pronunciation": "/ˈmʌðər/",
-    "cefr_level": null
+    "cefr_level": "A1"
   },
   {
     "id": 232,
@@ -117,7 +117,7 @@
     "is_idiom": false,
     "is_slang": false,
     "pronunciation": "/ˈfɑðər/",
-    "cefr_level": null
+    "cefr_level": "A1"
   },
   {
     "id": 233,
@@ -132,7 +132,7 @@
     "is_idiom": false,
     "is_slang": false,
     "pronunciation": "/ˈpɛrənt/",
-    "cefr_level": null
+    "cefr_level": "A1"
   },
   {
     "id": 256,
@@ -147,7 +147,7 @@
     "is_idiom": false,
     "is_slang": false,
     "pronunciation": "/ˈtitʃər/",
-    "cefr_level": null
+    "cefr_level": "A1"
   },
   {
     "id": 257,
@@ -162,7 +162,7 @@
     "is_idiom": false,
     "is_slang": false,
     "pronunciation": "/ˈstudənt/",
-    "cefr_level": null
+    "cefr_level": "A1"
   },
   {
     "id": 258,
@@ -177,7 +177,7 @@
     "is_idiom": false,
     "is_slang": false,
     "pronunciation": "/ˈdɑktər/",
-    "cefr_level": null
+    "cefr_level": "A1"
   },
   {
     "id": 296,
@@ -192,7 +192,7 @@
     "is_idiom": false,
     "is_slang": false,
     "pronunciation": "/ˈhɑspɪtəl/",
-    "cefr_level": null
+    "cefr_level": "A1"
   },
   {
     "id": 297,
@@ -207,7 +207,7 @@
     "is_idiom": false,
     "is_slang": false,
     "pronunciation": "/ˈklɪnɪk/",
-    "cefr_level": null
+    "cefr_level": "B1"
   },
   {
     "id": 298,
@@ -222,7 +222,7 @@
     "is_idiom": false,
     "is_slang": false,
     "pronunciation": "/ˈfɑrməsi/",
-    "cefr_level": null
+    "cefr_level": "B1"
   },
   {
     "id": 371,
@@ -237,7 +237,7 @@
     "is_idiom": false,
     "is_slang": false,
     "pronunciation": "/foʊn/",
-    "cefr_level": null
+    "cefr_level": "A1"
   },
   {
     "id": 372,
@@ -252,7 +252,7 @@
     "is_idiom": false,
     "is_slang": false,
     "pronunciation": "/kəmˈpjutər/",
-    "cefr_level": null
+    "cefr_level": "A1"
   },
   {
     "id": 373,
@@ -267,7 +267,7 @@
     "is_idiom": false,
     "is_slang": false,
     "pronunciation": "/ˈlæpˌtɑp/",
-    "cefr_level": null
+    "cefr_level": "A1"
   },
   {
     "id": 416,
@@ -282,7 +282,7 @@
     "is_idiom": false,
     "is_slang": false,
     "pronunciation": "/hɛd/",
-    "cefr_level": null
+    "cefr_level": "A1"
   },
   {
     "id": 417,
@@ -297,7 +297,7 @@
     "is_idiom": false,
     "is_slang": false,
     "pronunciation": "/feɪs/",
-    "cefr_level": null
+    "cefr_level": "A1"
   },
   {
     "id": 418,
@@ -312,7 +312,7 @@
     "is_idiom": false,
     "is_slang": false,
     "pronunciation": "/aɪ/",
-    "cefr_level": null
+    "cefr_level": "A1"
   },
   {
     "id": 471,
@@ -327,7 +327,7 @@
     "is_idiom": false,
     "is_slang": false,
     "pronunciation": "/praɪs/",
-    "cefr_level": null
+    "cefr_level": "A1"
   },
   {
     "id": 472,
@@ -342,7 +342,7 @@
     "is_idiom": false,
     "is_slang": false,
     "pronunciation": "/kɔst/",
-    "cefr_level": null
+    "cefr_level": "A1"
   },
   {
     "id": 473,
@@ -357,7 +357,7 @@
     "is_idiom": false,
     "is_slang": false,
     "pronunciation": "/bɪl/",
-    "cefr_level": null
+    "cefr_level": "A2"
   },
   {
     "id": 496,
@@ -372,7 +372,7 @@
     "is_idiom": false,
     "is_slang": false,
     "pronunciation": "/dʒɑb/",
-    "cefr_level": null
+    "cefr_level": "A1"
   },
   {
     "id": 497,
@@ -387,7 +387,7 @@
     "is_idiom": false,
     "is_slang": false,
     "pronunciation": "/ˈprɑdʒɛkt/",
-    "cefr_level": null
+    "cefr_level": "A2"
   },
   {
     "id": 498,
@@ -402,7 +402,7 @@
     "is_idiom": false,
     "is_slang": false,
     "pronunciation": "/tæsk/",
-    "cefr_level": null
+    "cefr_level": "B1"
   },
   {
     "id": 551,
@@ -417,7 +417,7 @@
     "is_idiom": false,
     "is_slang": false,
     "pronunciation": "/sʌn/",
-    "cefr_level": null
+    "cefr_level": "A1"
   },
   {
     "id": 552,
@@ -432,7 +432,7 @@
     "is_idiom": false,
     "is_slang": false,
     "pronunciation": "/mun/",
-    "cefr_level": null
+    "cefr_level": "A1"
   },
   {
     "id": 553,
@@ -447,7 +447,7 @@
     "is_idiom": false,
     "is_slang": false,
     "pronunciation": "/stɑr/",
-    "cefr_level": null
+    "cefr_level": "A1"
   },
   {
     "id": 606,
@@ -462,7 +462,7 @@
     "is_idiom": false,
     "is_slang": false,
     "pronunciation": "/ˈmjuzɪk/",
-    "cefr_level": null
+    "cefr_level": "A1"
   },
   {
     "id": 607,
@@ -477,7 +477,7 @@
     "is_idiom": false,
     "is_slang": false,
     "pronunciation": "/ɑrt/",
-    "cefr_level": null
+    "cefr_level": "A1"
   },
   {
     "id": 608,
@@ -492,7 +492,7 @@
     "is_idiom": false,
     "is_slang": false,
     "pronunciation": "/fəˈtɑɡrəfi/",
-    "cefr_level": null
+    "cefr_level": "B1"
   },
   {
     "id": 636,
@@ -507,7 +507,7 @@
     "is_idiom": false,
     "is_slang": false,
     "pronunciation": "/ˈhæpi/",
-    "cefr_level": null
+    "cefr_level": "A1"
   },
   {
     "id": 637,
@@ -522,7 +522,7 @@
     "is_idiom": false,
     "is_slang": false,
     "pronunciation": "/sæd/",
-    "cefr_level": null
+    "cefr_level": "A1"
   },
   {
     "id": 638,
@@ -537,7 +537,7 @@
     "is_idiom": false,
     "is_slang": false,
     "pronunciation": "/ˈæŋɡri/",
-    "cefr_level": null
+    "cefr_level": "A1"
   },
   {
     "id": 746,
@@ -552,7 +552,7 @@
     "is_idiom": false,
     "is_slang": false,
     "pronunciation": "/ˈmʌndeɪ/",
-    "cefr_level": null
+    "cefr_level": "A1"
   },
   {
     "id": 747,
@@ -567,7 +567,7 @@
     "is_idiom": false,
     "is_slang": false,
     "pronunciation": "/ˈtuzdeɪ/",
-    "cefr_level": null
+    "cefr_level": "A1"
   },
   {
     "id": 748,
@@ -582,7 +582,7 @@
     "is_idiom": false,
     "is_slang": false,
     "pronunciation": "/ˈwɛnzdeɪ/",
-    "cefr_level": null
+    "cefr_level": "A1"
   },
   {
     "id": 765,
@@ -597,7 +597,7 @@
     "is_idiom": false,
     "is_slang": false,
     "pronunciation": "/wʌn/",
-    "cefr_level": null
+    "cefr_level": "A1"
   },
   {
     "id": 766,
@@ -612,7 +612,7 @@
     "is_idiom": false,
     "is_slang": false,
     "pronunciation": "/tu/",
-    "cefr_level": null
+    "cefr_level": "A1"
   },
   {
     "id": 767,
@@ -627,7 +627,7 @@
     "is_idiom": false,
     "is_slang": false,
     "pronunciation": "/θri/",
-    "cefr_level": null
+    "cefr_level": "A1"
   },
   {
     "id": 793,
@@ -642,7 +642,7 @@
     "is_idiom": false,
     "is_slang": false,
     "pronunciation": "/bi/",
-    "cefr_level": null
+    "cefr_level": "A1"
   },
   {
     "id": 794,
@@ -657,7 +657,7 @@
     "is_idiom": false,
     "is_slang": false,
     "pronunciation": "/hæv/",
-    "cefr_level": null
+    "cefr_level": "A1"
   },
   {
     "id": 795,
@@ -672,7 +672,7 @@
     "is_idiom": false,
     "is_slang": false,
     "pronunciation": "/du/",
-    "cefr_level": null
+    "cefr_level": "A1"
   },
   {
     "id": 962,
@@ -687,7 +687,7 @@
     "is_idiom": false,
     "is_slang": false,
     "pronunciation": "/aɪ/",
-    "cefr_level": null
+    "cefr_level": "A1"
   },
   {
     "id": 963,
@@ -702,7 +702,7 @@
     "is_idiom": false,
     "is_slang": false,
     "pronunciation": "/ju/",
-    "cefr_level": null
+    "cefr_level": "A1"
   },
   {
     "id": 964,
@@ -717,7 +717,7 @@
     "is_idiom": false,
     "is_slang": false,
     "pronunciation": "/hi/",
-    "cefr_level": null
+    "cefr_level": "A1"
   },
   {
     "id": 1177,
@@ -732,7 +732,7 @@
     "is_idiom": true,
     "is_slang": false,
     "pronunciation": "/breɪk ði aɪs/",
-    "cefr_level": null
+    "cefr_level": "B2"
   },
   {
     "id": 1178,
@@ -747,7 +747,7 @@
     "is_idiom": true,
     "is_slang": false,
     "pronunciation": "/ə pis əv keɪk/",
-    "cefr_level": null
+    "cefr_level": "B1"
   },
   {
     "id": 1179,
@@ -762,7 +762,7 @@
     "is_idiom": true,
     "is_slang": false,
     "pronunciation": "/ˈʌndər ðə ˈwɛðər/",
-    "cefr_level": null
+    "cefr_level": "B2"
   },
   {
     "id": 1180,
@@ -777,7 +777,7 @@
     "is_idiom": true,
     "is_slang": false,
     "pronunciation": "/wʌns ɪn ə blu mun/",
-    "cefr_level": null
+    "cefr_level": "B2"
   },
   {
     "id": 1181,
@@ -792,7 +792,7 @@
     "is_idiom": true,
     "is_slang": false,
     "pronunciation": "/spɪl ðə binz/",
-    "cefr_level": null
+    "cefr_level": "B2"
   },
   {
     "id": 1182,
@@ -807,7 +807,7 @@
     "is_idiom": true,
     "is_slang": false,
     "pronunciation": "/lɛt ðə kæt aʊt əv ðə bæɡ/",
-    "cefr_level": null
+    "cefr_level": "B2"
   },
   {
     "id": 1183,
@@ -822,7 +822,7 @@
     "is_idiom": true,
     "is_slang": false,
     "pronunciation": "/hɪt ðə neɪl ɑn ðə hɛd/",
-    "cefr_level": null
+    "cefr_level": "C1"
   },
   {
     "id": 1184,
@@ -837,7 +837,7 @@
     "is_idiom": true,
     "is_slang": false,
     "pronunciation": "/kɔst ən ɑrm ænd ə lɛɡ/",
-    "cefr_level": null
+    "cefr_level": "B2"
   },
   {
     "id": 1185,
@@ -852,7 +852,7 @@
     "is_idiom": true,
     "is_slang": false,
     "pronunciation": "/ðə bɔl ɪz ɪn jʊr kɔrt/",
-    "cefr_level": null
+    "cefr_level": "C1"
   },
   {
     "id": 1186,
@@ -867,7 +867,7 @@
     "is_idiom": true,
     "is_slang": false,
     "pronunciation": "/ɑn ðə seɪm peɪdʒ/",
-    "cefr_level": null
+    "cefr_level": "B2"
   },
   {
     "id": 1277,
@@ -882,7 +882,7 @@
     "is_idiom": false,
     "is_slang": true,
     "pronunciation": "/kul/",
-    "cefr_level": null
+    "cefr_level": "A2"
   },
   {
     "id": 1278,
@@ -897,7 +897,7 @@
     "is_idiom": false,
     "is_slang": true,
     "pronunciation": "/ˈɔsəm/",
-    "cefr_level": null
+    "cefr_level": "B1"
   },
   {
     "id": 1279,
@@ -912,7 +912,7 @@
     "is_idiom": false,
     "is_slang": true,
     "pronunciation": "/tʃɪl/",
-    "cefr_level": null
+    "cefr_level": "B1"
   },
   {
     "id": 1280,
@@ -927,7 +927,7 @@
     "is_idiom": false,
     "is_slang": true,
     "pronunciation": "/tʃɪl aʊt/",
-    "cefr_level": null
+    "cefr_level": "B1"
   },
   {
     "id": 1281,
@@ -942,7 +942,7 @@
     "is_idiom": false,
     "is_slang": true,
     "pronunciation": "/hæŋ aʊt/",
-    "cefr_level": null
+    "cefr_level": "B1"
   },
   {
     "id": 1282,
@@ -957,7 +957,7 @@
     "is_idiom": false,
     "is_slang": true,
     "pronunciation": "/ˈhæŋɡri/",
-    "cefr_level": null
+    "cefr_level": "B2"
   },
   {
     "id": 1283,
@@ -972,7 +972,7 @@
     "is_idiom": false,
     "is_slang": true,
     "pronunciation": "/noʊp/",
-    "cefr_level": null
+    "cefr_level": "A2"
   },
   {
     "id": 1284,
@@ -987,7 +987,7 @@
     "is_idiom": false,
     "is_slang": true,
     "pronunciation": "/jɛp/",
-    "cefr_level": null
+    "cefr_level": "A2"
   },
   {
     "id": 1285,
@@ -1002,7 +1002,7 @@
     "is_idiom": false,
     "is_slang": true,
     "pronunciation": "/jæ/",
-    "cefr_level": null
+    "cefr_level": "A1"
   },
   {
     "id": 1286,
@@ -1017,7 +1017,7 @@
     "is_idiom": false,
     "is_slang": true,
     "pronunciation": "/nɑ/",
-    "cefr_level": null
+    "cefr_level": "A2"
   },
   {
     "id": 1213,
@@ -1032,7 +1032,7 @@
     "is_idiom": true,
     "is_slang": false,
     "pronunciation": "/ˈɛvri klaʊd hæz ə ˈsɪlvər ˈlaɪnɪŋ/",
-    "cefr_level": null
+    "cefr_level": "B2"
   },
   {
     "id": 1319,
@@ -1047,7 +1047,7 @@
     "is_idiom": false,
     "is_slang": true,
     "pronunciation": "/ˌhaɪ ˈki/",
-    "cefr_level": null
+    "cefr_level": "C1"
   },
   {
     "id": 1345,
@@ -1062,7 +1062,7 @@
     "is_idiom": false,
     "is_slang": true,
     "pronunciation": "/pɪst ɔf/",
-    "cefr_level": null
+    "cefr_level": "B2"
   },
   {
     "id": 1376,
@@ -1077,6 +1077,6 @@
     "is_idiom": false,
     "is_slang": true,
     "pronunciation": "/noʊ kæp/",
-    "cefr_level": null
+    "cefr_level": "C1"
   }
 ]

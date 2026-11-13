@@ -1,0 +1,1377 @@
+id,english,part of speech,is idiom,is slang,cefr level
+1,rice,noun,0,0,A1
+2,bread,noun,0,0,A1
+3,noodles,noun,0,0,A2
+4,pasta,noun,0,0,A2
+5,chicken,noun,0,0,A1
+6,beef,noun,0,0,A2
+7,pork,noun,0,0,A2
+8,fish,noun,0,0,A1
+9,tofu,noun,0,0,B1
+10,cheese,noun,0,0,A1
+11,butter,noun,0,0,A1
+12,oil,noun,0,0,A2
+13,salt,noun,0,0,A1
+14,pepper,noun,0,0,A2
+15,sugar,noun,0,0,A1
+16,flour,noun,0,0,B1
+17,corn,noun,0,0,A2
+18,broccoli,noun,0,0,B1
+19,cabbage,noun,0,0,B1
+20,spinach,noun,0,0,B1
+21,lettuce,noun,0,0,B1
+22,garlic,noun,0,0,B1
+23,ginger,noun,0,0,B1
+24,seafood,noun,0,0,A2
+25,shrimp,noun,0,0,B1
+26,salmon,noun,0,0,B1
+27,tuna,noun,0,0,B1
+28,lamb,noun,0,0,B1
+29,cream,noun,0,0,A2
+30,yogurt,noun,0,0,A2
+31,soup,noun,0,0,A1
+32,salad,noun,0,0,A1
+33,sauce,noun,0,0,A2
+34,vinegar,noun,0,0,B1
+35,honey,noun,0,0,A2
+36,oatmeal,noun,0,0,B1
+37,seaweed,noun,0,0,B1
+38,cauliflower,noun,0,0,B1
+39,celery,noun,0,0,B1
+40,mustard,noun,0,0,B1
+41,apple,noun,0,0,A1
+42,banana,noun,0,0,A1
+43,orange,noun,0,0,A1
+44,pear,noun,0,0,A2
+45,peach,noun,0,0,A2
+46,lemon,noun,0,0,A1
+47,lime,noun,0,0,B1
+48,mango,noun,0,0,B1
+49,pineapple,noun,0,0,B1
+50,watermelon,noun,0,0,A2
+51,strawberry,noun,0,0,A2
+52,grape,noun,0,0,A2
+53,cherry,noun,0,0,A2
+54,plum,noun,0,0,B1
+55,avocado,noun,0,0,B1
+56,tomato,noun,0,0,A1
+57,potato,noun,0,0,A1
+58,carrot,noun,0,0,A1
+59,cucumber,noun,0,0,A2
+60,onion,noun,0,0,A1
+61,pumpkin,noun,0,0,B1
+62,eggplant,noun,0,0,B1
+63,mushroom,noun,0,0,A2
+64,sweet potato,noun,0,0,B1
+65,bell pepper,noun,0,0,B1
+66,water,noun,0,0,A1
+67,milk,noun,0,0,A1
+68,tea,noun,0,0,A1
+69,coffee,noun,0,0,A1
+70,juice,noun,0,0,A1
+71,beer,noun,0,0,A2
+72,wine,noun,0,0,A2
+73,lemonade,noun,0,0,A2
+74,soda,noun,0,0,A2
+75,soy milk,noun,0,0,B1
+76,hot chocolate,noun,0,0,A2
+77,green tea,noun,0,0,A2
+78,black tea,noun,0,0,A2
+79,mineral water,noun,0,0,A2
+80,sparkling water,noun,0,0,B1
+81,breakfast,noun,0,0,A1
+82,lunch,noun,0,0,A1
+83,dinner,noun,0,0,A1
+84,dessert,noun,0,0,A2
+85,pizza,noun,0,0,A1
+86,ice cream,noun,0,0,A1
+87,cake,noun,0,0,A1
+88,chocolate,noun,0,0,A1
+89,fries,noun,0,0,A2
+90,dumplings,noun,0,0,B1
+91,cookies,noun,0,0,A1
+92,sandwiches,noun,0,0,A1
+93,hamburgers,noun,0,0,A1
+94,pancakes,noun,0,0,A2
+95,eggs,noun,0,0,A1
+96,snacks,noun,0,0,A2
+97,peanuts,noun,0,0,B1
+98,popcorn,noun,0,0,A2
+99,toast,noun,0,0,A2
+100,cereal,noun,0,0,A2
+101,plate,noun,0,0,A1
+102,bowl,noun,0,0,A2
+103,cup,noun,0,0,A1
+104,glass,noun,0,0,A1
+105,mug,noun,0,0,A2
+106,fork,noun,0,0,A2
+107,knife,noun,0,0,A2
+108,spoon,noun,0,0,A2
+109,chopsticks,noun,0,0,B1
+110,pan,noun,0,0,A2
+111,pot,noun,0,0,A2
+112,kettle,noun,0,0,B1
+113,tray,noun,0,0,B1
+114,cutting board,noun,0,0,B1
+115,lid,noun,0,0,B1
+116,container,noun,0,0,B1
+117,bottle,noun,0,0,A1
+118,jar,noun,0,0,B1
+119,sink,noun,0,0,A2
+120,teapot,noun,0,0,A2
+121,kitchen,noun,0,0,A1
+122,bathroom,noun,0,0,A1
+123,bedroom,noun,0,0,A1
+124,living room,noun,0,0,A1
+125,dining room,noun,0,0,A1
+126,balcony,noun,0,0,A2
+127,garage,noun,0,0,A2
+128,basement,noun,0,0,B1
+129,hallway,noun,0,0,B1
+130,floor,noun,0,0,A1
+131,window,noun,0,0,A1
+132,door,noun,0,0,A1
+133,wall,noun,0,0,A1
+134,ceiling,noun,0,0,B1
+135,table,noun,0,0,A1
+136,desk,noun,0,0,A1
+137,chair,noun,0,0,A1
+138,sofa,noun,0,0,A1
+139,bed,noun,0,0,A1
+140,shelf,noun,0,0,A2
+141,cabinet,noun,0,0,B1
+142,drawer,noun,0,0,B1
+143,closet,noun,0,0,A2
+144,mirror,noun,0,0,A1
+145,carpet,noun,0,0,A2
+146,bathtub,noun,0,0,A2
+147,toilet,noun,0,0,A1
+148,shower,noun,0,0,A1
+149,staircase,noun,0,0,B1
+150,entrance,noun,0,0,A2
+151,refrigerator,noun,0,0,A1
+152,freezer,noun,0,0,B1
+153,oven,noun,0,0,B1
+154,microwave,noun,0,0,B1
+155,stove,noun,0,0,B1
+156,dishwasher,noun,0,0,B1
+157,washing machine,noun,0,0,A1
+158,dryer,noun,0,0,B1
+159,vacuum cleaner,noun,0,0,B1
+160,fan,noun,0,0,A2
+161,heater,noun,0,0,B1
+162,air conditioner,noun,0,0,B1
+163,lamp,noun,0,0,A1
+164,light bulb,noun,0,0,B1
+165,clock,noun,0,0,A1
+166,alarm clock,noun,0,0,A2
+167,pillow,noun,0,0,A2
+168,blanket,noun,0,0,A2
+169,towel,noun,0,0,A1
+170,curtain,noun,0,0,A2
+171,sheet,noun,0,0,B1
+172,mattress,noun,0,0,B1
+173,broom,noun,0,0,B1
+174,mop,noun,0,0,B1
+175,bucket,noun,0,0,B1
+176,trash can,noun,0,0,A2
+177,brush,noun,0,0,A2
+178,sponge,noun,0,0,B1
+179,lock,noun,0,0,B1
+180,key,noun,0,0,A1
+181,wallet,noun,0,0,A2
+182,purse,noun,0,0,A2
+183,bag,noun,0,0,A1
+184,backpack,noun,0,0,A2
+185,umbrella,noun,0,0,A1
+186,watch,noun,0,0,A1
+187,glasses,noun,0,0,A1
+188,sunglasses,noun,0,0,A1
+189,mask,noun,0,0,B1
+190,toothbrush,noun,0,0,A2
+191,toothpaste,noun,0,0,A2
+192,soap,noun,0,0,A2
+193,shampoo,noun,0,0,A2
+194,comb,noun,0,0,A2
+195,razor,noun,0,0,B1
+196,sunscreen,noun,0,0,B1
+197,lipstick,noun,0,0,B1
+198,perfume,noun,0,0,B1
+199,tissues,noun,0,0,A2
+200,notebook,noun,0,0,A1
+201,pen,noun,0,0,A1
+202,pencil,noun,0,0,A1
+203,eraser,noun,0,0,A1
+204,scissors,noun,0,0,B1
+205,passport,noun,0,0,A1
+206,shirt,noun,0,0,A1
+207,T-shirt,noun,0,0,A1
+208,coat,noun,0,0,A1
+209,jacket,noun,0,0,A1
+210,sweater,noun,0,0,A1
+211,hoodie,noun,0,0,B1
+212,dress,noun,0,0,A1
+213,skirt,noun,0,0,A1
+214,pants,noun,0,0,A1
+215,jeans,noun,0,0,A1
+216,shorts,noun,0,0,A1
+217,socks,noun,0,0,A1
+218,shoes,noun,0,0,A1
+219,boots,noun,0,0,A1
+220,sneakers,noun,0,0,A2
+221,slippers,noun,0,0,B1
+222,hat,noun,0,0,A1
+223,cap,noun,0,0,A2
+224,scarf,noun,0,0,A2
+225,gloves,noun,0,0,A2
+226,belt,noun,0,0,A2
+227,tie,noun,0,0,A2
+228,suit,noun,0,0,A2
+229,uniform,noun,0,0,A2
+230,pajamas,noun,0,0,B1
+231,mother,noun,0,0,A1
+232,father,noun,0,0,A1
+233,parent,noun,0,0,A1
+234,sister,noun,0,0,A1
+235,brother,noun,0,0,A1
+236,daughter,noun,0,0,A1
+237,son,noun,0,0,A1
+238,wife,noun,0,0,A1
+239,husband,noun,0,0,A1
+240,grandmother,noun,0,0,A1
+241,grandfather,noun,0,0,A1
+242,aunt,noun,0,0,A1
+243,uncle,noun,0,0,A1
+244,cousin,noun,0,0,A1
+245,niece,noun,0,0,B1
+246,nephew,noun,0,0,B1
+247,friend,noun,0,0,A1
+248,neighbor,noun,0,0,A2
+249,roommate,noun,0,0,B1
+250,classmate,noun,0,0,A2
+251,colleague,noun,0,0,B1
+252,partner,noun,0,0,A2
+253,boyfriend,noun,0,0,A1
+254,girlfriend,noun,0,0,A1
+255,relative,noun,0,0,B1
+256,teacher,noun,0,0,A1
+257,student,noun,0,0,A1
+258,doctor,noun,0,0,A1
+259,nurse,noun,0,0,A1
+260,dentist,noun,0,0,A2
+261,pharmacist,noun,0,0,B2
+262,driver,noun,0,0,A1
+263,pilot,noun,0,0,A2
+264,chef,noun,0,0,B1
+265,waiter,noun,0,0,A1
+266,waitress,noun,0,0,A1
+267,cashier,noun,0,0,B1
+268,manager,noun,0,0,A2
+269,boss,noun,0,0,A2
+270,employee,noun,0,0,B1
+271,customer,noun,0,0,A2
+272,client,noun,0,0,B1
+273,engineer,noun,0,0,A2
+274,programmer,noun,0,0,B1
+275,designer,noun,0,0,A2
+276,artist,noun,0,0,A1
+277,writer,noun,0,0,A1
+278,reporter,noun,0,0,B1
+279,lawyer,noun,0,0,B1
+280,accountant,noun,0,0,B1
+281,farmer,noun,0,0,A1
+282,worker,noun,0,0,A1
+283,cleaner,noun,0,0,A2
+284,police officer,noun,0,0,A1
+285,firefighter,noun,0,0,B1
+286,receptionist,noun,0,0,B1
+287,assistant,noun,0,0,B1
+288,secretary,noun,0,0,B1
+289,scientist,noun,0,0,A2
+290,professor,noun,0,0,B1
+291,coach,noun,0,0,B1
+292,volunteer,noun,0,0,B1
+293,tourist,noun,0,0,A2
+294,passenger,noun,0,0,A2
+295,guest,noun,0,0,A2
+296,hospital,noun,0,0,A1
+297,clinic,noun,0,0,B1
+298,pharmacy,noun,0,0,B1
+299,school,noun,0,0,A1
+300,university,noun,0,0,A1
+301,library,noun,0,0,A1
+302,bank,noun,0,0,A1
+303,ATM,noun,0,0,B1
+304,post office,noun,0,0,A1
+305,police station,noun,0,0,A2
+306,supermarket,noun,0,0,A1
+307,store,noun,0,0,A1
+308,mall,noun,0,0,A2
+309,market,noun,0,0,A1
+310,bakery,noun,0,0,B1
+311,restaurant,noun,0,0,A1
+312,cafe,noun,0,0,A1
+313,hotel,noun,0,0,A1
+314,hostel,noun,0,0,B1
+315,park,noun,0,0,A1
+316,museum,noun,0,0,A1
+317,theater,noun,0,0,A1
+318,cinema,noun,0,0,A1
+319,gym,noun,0,0,A2
+320,stadium,noun,0,0,A2
+321,airport,noun,0,0,A1
+322,station,noun,0,0,A1
+323,bus stop,noun,0,0,A1
+324,parking lot,noun,0,0,B1
+325,gas station,noun,0,0,B1
+326,restroom,noun,0,0,A2
+327,exit,noun,0,0,A2
+328,bridge,noun,0,0,A2
+329,intersection,noun,0,0,B1
+330,crosswalk,noun,0,0,B1
+331,car,noun,0,0,A1
+332,bus,noun,0,0,A1
+333,train,noun,0,0,A1
+334,subway,noun,0,0,A2
+335,taxi,noun,0,0,A1
+336,bicycle,noun,0,0,A1
+337,motorcycle,noun,0,0,A2
+338,scooter,noun,0,0,B1
+339,boat,noun,0,0,A1
+340,ship,noun,0,0,A2
+341,ferry,noun,0,0,B1
+342,airplane,noun,0,0,A1
+343,helicopter,noun,0,0,B1
+344,tram,noun,0,0,B1
+345,high-speed rail,noun,0,0,B1
+346,ticket,noun,0,0,A1
+347,boarding pass,noun,0,0,B1
+348,visa,noun,0,0,B1
+349,luggage,noun,0,0,B1
+350,suitcase,noun,0,0,A2
+351,reservation,noun,0,0,B1
+352,address,noun,0,0,A1
+353,map,noun,0,0,A1
+354,route,noun,0,0,B1
+355,schedule,noun,0,0,B1
+356,weather,noun,0,0,A1
+357,forecast,noun,0,0,B1
+358,traffic,noun,0,0,A2
+359,fuel,noun,0,0,B1
+360,engine,noun,0,0,B1
+361,tire,noun,0,0,B1
+362,brakes,noun,0,0,B1
+363,seat belt,noun,0,0,A2
+364,gate,noun,0,0,A2
+365,platform,noun,0,0,B1
+366,destination,noun,0,0,B1
+367,departure time,noun,0,0,B1
+368,arrival time,noun,0,0,B1
+369,flight number,noun,0,0,B1
+370,itinerary,noun,0,0,B2
+371,phone,noun,0,0,A1
+372,computer,noun,0,0,A1
+373,laptop,noun,0,0,A1
+374,tablet,noun,0,0,A2
+375,keyboard,noun,0,0,A2
+376,mouse,noun,0,0,A2
+377,screen,noun,0,0,A2
+378,monitor,noun,0,0,B1
+379,printer,noun,0,0,A2
+380,camera,noun,0,0,A1
+381,microphone,noun,0,0,B1
+382,speaker,noun,0,0,B1
+383,charger,noun,0,0,B1
+384,battery,noun,0,0,B1
+385,cable,noun,0,0,B1
+386,router,noun,0,0,B2
+387,remote control,noun,0,0,B1
+388,television,noun,0,0,A1
+389,headset,noun,0,0,B1
+390,power bank,noun,0,0,B1
+391,app,noun,0,0,A2
+392,website,noun,0,0,A1
+393,browser,noun,0,0,B1
+394,email,noun,0,0,A1
+395,message,noun,0,0,A1
+396,account,noun,0,0,A2
+397,password,noun,0,0,A2
+398,username,noun,0,0,B1
+399,file,noun,0,0,B1
+400,folder,noun,0,0,B1
+401,document,noun,0,0,B1
+402,photo,noun,0,0,A1
+403,video,noun,0,0,A1
+404,link,noun,0,0,B1
+405,network,noun,0,0,B1
+406,connection,noun,0,0,B1
+407,update,noun,0,0,B1
+408,backup,noun,0,0,B2
+409,attachment,noun,0,0,B2
+410,notification,noun,0,0,B1
+411,setting,noun,0,0,B1
+412,subscription,noun,0,0,B2
+413,software,noun,0,0,B1
+414,program,noun,0,0,B1
+415,spreadsheet,noun,0,0,B2
+416,head,noun,0,0,A1
+417,face,noun,0,0,A1
+418,eye,noun,0,0,A1
+419,ear,noun,0,0,A1
+420,nose,noun,0,0,A1
+421,mouth,noun,0,0,A1
+422,tooth,noun,0,0,A1
+423,tongue,noun,0,0,B1
+424,throat,noun,0,0,B1
+425,neck,noun,0,0,A1
+426,shoulder,noun,0,0,A2
+427,arm,noun,0,0,A1
+428,elbow,noun,0,0,B1
+429,wrist,noun,0,0,B1
+430,hand,noun,0,0,A1
+431,finger,noun,0,0,A1
+432,thumb,noun,0,0,B1
+433,back,noun,0,0,A1
+434,chest,noun,0,0,B1
+435,stomach,noun,0,0,A2
+436,waist,noun,0,0,B1
+437,hip,noun,0,0,B1
+438,leg,noun,0,0,A1
+439,knee,noun,0,0,A2
+440,ankle,noun,0,0,B1
+441,foot,noun,0,0,A1
+442,toe,noun,0,0,B1
+443,heel,noun,0,0,B1
+444,skin,noun,0,0,B1
+445,muscle,noun,0,0,B1
+446,pain,noun,0,0,A2
+447,fever,noun,0,0,B1
+448,cough,noun,0,0,B1
+449,cold,noun,0,0,A2
+450,flu,noun,0,0,B1
+451,headache,noun,0,0,A1
+452,allergy,noun,0,0,B1
+453,infection,noun,0,0,B1
+454,injury,noun,0,0,B1
+455,wound,noun,0,0,B1
+456,symptom,noun,0,0,B1
+457,medicine,noun,0,0,A2
+458,pill,noun,0,0,B1
+459,prescription,noun,0,0,B2
+460,treatment,noun,0,0,B1
+461,surgery,noun,0,0,B2
+462,vaccine,noun,0,0,B2
+463,appointment,noun,0,0,B1
+464,checkup,noun,0,0,B1
+465,blood pressure,noun,0,0,B2
+466,temperature,noun,0,0,B1
+467,test result,noun,0,0,B1
+468,side effect,noun,0,0,B2
+469,dose,noun,0,0,B2
+470,recovery,noun,0,0,B1
+471,price,noun,0,0,A1
+472,cost,noun,0,0,A1
+473,bill,noun,0,0,A2
+474,receipt,noun,0,0,B1
+475,discount,noun,0,0,B1
+476,refund,noun,0,0,B1
+477,payment,noun,0,0,A2
+478,deposit,noun,0,0,B2
+479,fee,noun,0,0,B1
+480,tax,noun,0,0,B1
+481,tip,noun,0,0,A2
+482,budget,noun,0,0,B1
+483,salary,noun,0,0,B1
+484,income,noun,0,0,B1
+485,expense,noun,0,0,B2
+486,loan,noun,0,0,B1
+487,mortgage,noun,0,0,B2
+488,debt,noun,0,0,B2
+489,interest rate,noun,0,0,B2
+490,exchange rate,noun,0,0,B1
+491,insurance,noun,0,0,B1
+492,rent,noun,0,0,A2
+493,profit,noun,0,0,B2
+494,loss,noun,0,0,B2
+495,balance,noun,0,0,B2
+496,job,noun,0,0,A1
+497,project,noun,0,0,A2
+498,task,noun,0,0,B1
+499,plan,noun,0,0,A1
+500,goal,noun,0,0,A2
+501,meeting,noun,0,0,A2
+502,interview,noun,0,0,A2
+503,report,noun,0,0,B1
+504,presentation,noun,0,0,B1
+505,deadline,noun,0,0,B2
+506,contract,noun,0,0,B2
+507,agreement,noun,0,0,B1
+508,offer,noun,0,0,B1
+509,request,noun,0,0,B1
+510,decision,noun,0,0,B1
+511,problem,noun,0,0,A1
+512,solution,noun,0,0,A2
+513,idea,noun,0,0,A1
+514,suggestion,noun,0,0,B1
+515,feedback,noun,0,0,B2
+516,result,noun,0,0,A2
+517,progress,noun,0,0,B1
+518,change,noun,0,0,A2
+519,opportunity,noun,0,0,B1
+520,experience,noun,0,0,B1
+521,training,noun,0,0,B1
+522,policy,noun,0,0,B2
+523,rule,noun,0,0,A2
+524,requirement,noun,0,0,B2
+525,detail,noun,0,0,A2
+526,word,noun,0,0,A1
+527,sentence,noun,0,0,A1
+528,phrase,noun,0,0,B1
+529,expression,noun,0,0,B1
+530,meaning,noun,0,0,B1
+531,translation,noun,0,0,B1
+532,pronunciation,noun,0,0,B1
+533,spelling,noun,0,0,B1
+534,example,noun,0,0,A1
+535,lesson,noun,0,0,A1
+536,chapter,noun,0,0,B1
+537,paragraph,noun,0,0,B1
+538,page,noun,0,0,A1
+539,book,noun,0,0,A1
+540,textbook,noun,0,0,B1
+541,dictionary,noun,0,0,A1
+542,exercise,noun,0,0,A1
+543,exam,noun,0,0,A1
+544,quiz,noun,0,0,B1
+545,answer,noun,0,0,A1
+546,question,noun,0,0,A1
+547,subject,noun,0,0,A1
+548,course,noun,0,0,A1
+549,grade,noun,0,0,B1
+550,assignment,noun,0,0,B1
+551,sun,noun,0,0,A1
+552,moon,noun,0,0,A1
+553,star,noun,0,0,A1
+554,sky,noun,0,0,A1
+555,cloud,noun,0,0,A2
+556,rainbow,noun,0,0,B1
+557,mountain,noun,0,0,A1
+558,hill,noun,0,0,A2
+559,river,noun,0,0,A1
+560,lake,noun,0,0,A1
+561,ocean,noun,0,0,A2
+562,sea,noun,0,0,A1
+563,beach,noun,0,0,A1
+564,island,noun,0,0,A2
+565,forest,noun,0,0,A2
+566,tree,noun,0,0,A1
+567,flower,noun,0,0,A1
+568,leaf,noun,0,0,B1
+569,branch,noun,0,0,B1
+570,garden,noun,0,0,A1
+571,field,noun,0,0,B1
+572,farm,noun,0,0,A1
+573,village,noun,0,0,A1
+574,sunrise,noun,0,0,B1
+575,sunset,noun,0,0,B1
+576,dog,noun,0,0,A1
+577,cat,noun,0,0,A1
+578,bird,noun,0,0,A1
+579,duck,noun,0,0,A1
+580,goose,noun,0,0,B1
+581,horse,noun,0,0,A1
+582,cow,noun,0,0,A1
+583,pig,noun,0,0,A1
+584,sheep,noun,0,0,A1
+585,goat,noun,0,0,B1
+586,rabbit,noun,0,0,A1
+587,rat,noun,0,0,B1
+588,squirrel,noun,0,0,B1
+589,monkey,noun,0,0,A1
+590,panda,noun,0,0,B1
+591,bear,noun,0,0,A1
+592,tiger,noun,0,0,A1
+593,lion,noun,0,0,A1
+594,elephant,noun,0,0,A1
+595,giraffe,noun,0,0,B1
+596,zebra,noun,0,0,B1
+597,deer,noun,0,0,B1
+598,wolf,noun,0,0,B1
+599,fox,noun,0,0,B1
+600,turtle,noun,0,0,B1
+601,frog,noun,0,0,B1
+602,butterfly,noun,0,0,B1
+603,bee,noun,0,0,B1
+604,ant,noun,0,0,B1
+605,spider,noun,0,0,B1
+606,music,noun,0,0,A1
+607,art,noun,0,0,A1
+608,photography,noun,0,0,B1
+609,reading,noun,0,0,A1
+610,writing,noun,0,0,A1
+611,painting,noun,0,0,A1
+612,dancing,noun,0,0,A1
+613,singing,noun,0,0,A1
+614,cooking,noun,0,0,A1
+615,baking,noun,0,0,B1
+616,gardening,noun,0,0,B1
+617,shopping,noun,0,0,A1
+618,travel,noun,0,0,A1
+619,swimming,noun,0,0,A1
+620,running,noun,0,0,A1
+621,walking,noun,0,0,A1
+622,hiking,noun,0,0,B1
+623,camping,noun,0,0,A2
+624,fishing,noun,0,0,A2
+625,cycling,noun,0,0,A2
+626,skiing,noun,0,0,A2
+627,yoga,noun,0,0,B1
+628,basketball,noun,0,0,A1
+629,soccer,noun,0,0,A1
+630,tennis,noun,0,0,A1
+631,badminton,noun,0,0,A2
+632,volleyball,noun,0,0,A2
+633,baseball,noun,0,0,A1
+634,golf,noun,0,0,A2
+635,chess,noun,0,0,A2
+636,happy,adjective,0,0,A1
+637,sad,adjective,0,0,A1
+638,angry,adjective,0,0,A1
+639,tired,adjective,0,0,A1
+640,sleepy,adjective,0,0,A2
+641,hungry,adjective,0,0,A1
+642,thirsty,adjective,0,0,A1
+643,sick,adjective,0,0,A1
+644,dizzy,adjective,0,0,B1
+645,weak,adjective,0,0,B1
+646,strong,adjective,0,0,A1
+647,healthy,adjective,0,0,A1
+648,better,adjective,0,0,A1
+649,worse,adjective,0,0,A1
+650,excited,adjective,0,0,A1
+651,nervous,adjective,0,0,A2
+652,worried,adjective,0,0,A2
+653,anxious,adjective,0,0,B1
+654,calm,adjective,0,0,B1
+655,relaxed,adjective,0,0,B1
+656,comfortable,adjective,0,0,A1
+657,uncomfortable,adjective,0,0,B1
+658,lonely,adjective,0,0,B1
+659,bored,adjective,0,0,A1
+660,confused,adjective,0,0,B1
+661,confident,adjective,0,0,B1
+662,proud,adjective,0,0,B1
+663,grateful,adjective,0,0,B1
+664,hopeful,adjective,0,0,B1
+665,disappointed,adjective,0,0,B1
+666,kind,adjective,0,0,A1
+667,friendly,adjective,0,0,A1
+668,polite,adjective,0,0,A2
+669,rude,adjective,0,0,B1
+670,honest,adjective,0,0,B1
+671,patient,adjective,0,0,B1
+672,careful,adjective,0,0,A1
+673,careless,adjective,0,0,B1
+674,helpful,adjective,0,0,B1
+675,smart,adjective,0,0,A1
+676,clever,adjective,0,0,A1
+677,wise,adjective,0,0,B1
+678,funny,adjective,0,0,A1
+679,serious,adjective,0,0,A2
+680,quiet,adjective,0,0,A1
+681,shy,adjective,0,0,A2
+682,brave,adjective,0,0,B1
+683,creative,adjective,0,0,B1
+684,curious,adjective,0,0,B1
+685,generous,adjective,0,0,B1
+686,selfish,adjective,0,0,B1
+687,lazy,adjective,0,0,A2
+688,busy,adjective,0,0,A1
+689,popular,adjective,0,0,A1
+690,famous,adjective,0,0,A1
+691,big,adjective,0,0,A1
+692,small,adjective,0,0,A1
+693,large,adjective,0,0,A1
+694,tiny,adjective,0,0,B1
+695,heavy,adjective,0,0,A1
+696,light,adjective,0,0,B1
+697,new,adjective,0,0,A1
+698,old,adjective,0,0,A1
+699,clean,adjective,0,0,A1
+700,dirty,adjective,0,0,A1
+701,wet,adjective,0,0,A2
+702,dry,adjective,0,0,A2
+703,soft,adjective,0,0,B1
+704,hard,adjective,0,0,A2
+705,cheap,adjective,0,0,A1
+706,expensive,adjective,0,0,A1
+707,free,adjective,0,0,A1
+708,beautiful,adjective,0,0,A1
+709,ugly,adjective,0,0,A2
+710,useful,adjective,0,0,A2
+711,useless,adjective,0,0,B1
+712,empty,adjective,0,0,A2
+713,full,adjective,0,0,A2
+714,open,adjective,0,0,A1
+715,closed,adjective,0,0,A1
+716,red,adjective,0,0,A1
+717,blue,adjective,0,0,A1
+718,green,adjective,0,0,A1
+719,yellow,adjective,0,0,A1
+720,black,adjective,0,0,A1
+721,white,adjective,0,0,A1
+722,gray,adjective,0,0,A1
+723,brown,adjective,0,0,A1
+724,pink,adjective,0,0,A1
+725,purple,adjective,0,0,A1
+726,good,adjective,0,0,A1
+727,bad,adjective,0,0,A1
+728,great,adjective,0,0,A1
+729,terrible,adjective,0,0,A2
+730,normal,adjective,0,0,A2
+731,unusual,adjective,0,0,B1
+732,strange,adjective,0,0,A2
+733,different,adjective,0,0,A1
+734,similar,adjective,0,0,A2
+735,simple,adjective,0,0,A2
+736,complicated,adjective,0,0,B1
+737,difficult,adjective,0,0,A1
+738,dangerous,adjective,0,0,A2
+739,safe,adjective,0,0,A2
+740,urgent,adjective,0,0,B1
+741,stable,adjective,0,0,B2
+742,uncertain,adjective,0,0,B2
+743,clear,adjective,0,0,B1
+744,temporary,adjective,0,0,B2
+745,unfair,adjective,0,0,B1
+746,Monday,noun,0,0,A1
+747,Tuesday,noun,0,0,A1
+748,Wednesday,noun,0,0,A1
+749,Thursday,noun,0,0,A1
+750,Friday,noun,0,0,A1
+751,Saturday,noun,0,0,A1
+752,Sunday,noun,0,0,A1
+753,January,noun,0,0,A1
+754,February,noun,0,0,A1
+755,March,noun,0,0,A1
+756,April,noun,0,0,A1
+757,May,noun,0,0,A1
+758,June,noun,0,0,A1
+759,July,noun,0,0,A1
+760,August,noun,0,0,A1
+761,September,noun,0,0,A1
+762,October,noun,0,0,A1
+763,November,noun,0,0,A1
+764,December,noun,0,0,A1
+765,one,numeral,0,0,A1
+766,two,numeral,0,0,A1
+767,three,numeral,0,0,A1
+768,four,numeral,0,0,A1
+769,five,numeral,0,0,A1
+770,six,numeral,0,0,A1
+771,seven,numeral,0,0,A1
+772,eight,numeral,0,0,A1
+773,nine,numeral,0,0,A1
+774,ten,numeral,0,0,A1
+775,eleven,numeral,0,0,A1
+776,twelve,numeral,0,0,A1
+777,thirteen,numeral,0,0,A1
+778,fourteen,numeral,0,0,A1
+779,fifteen,numeral,0,0,A1
+780,sixteen,numeral,0,0,A1
+781,seventeen,numeral,0,0,A1
+782,eighteen,numeral,0,0,A1
+783,nineteen,numeral,0,0,A1
+784,twenty,numeral,0,0,A1
+785,thirty,numeral,0,0,A1
+786,forty,numeral,0,0,A1
+787,fifty,numeral,0,0,A1
+788,sixty,numeral,0,0,A1
+789,seventy,numeral,0,0,A1
+790,eighty,numeral,0,0,A1
+791,ninety,numeral,0,0,A1
+792,one hundred,numeral,0,0,A1
+793,be,verb,0,0,A1
+794,have,verb,0,0,A1
+795,do,verb,0,0,A1
+796,go,verb,0,0,A1
+797,come,verb,0,0,A1
+798,get,verb,0,0,A1
+799,make,verb,0,0,A1
+800,take,verb,0,0,A1
+801,give,verb,0,0,A1
+802,put,verb,0,0,A1
+803,keep,verb,0,0,B1
+804,let,verb,0,0,B1
+805,help,verb,0,0,A1
+806,need,verb,0,0,A1
+807,want,verb,0,0,A1
+808,like,verb,0,0,A1
+809,love,verb,0,0,A1
+810,hate,verb,0,0,A1
+811,know,verb,0,0,A1
+812,think,verb,0,0,A1
+813,believe,verb,0,0,B1
+814,understand,verb,0,0,A1
+815,remember,verb,0,0,A1
+816,forget,verb,0,0,A2
+817,learn,verb,0,0,A1
+818,study,verb,0,0,A1
+819,teach,verb,0,0,A1
+820,read,verb,0,0,A1
+821,write,verb,0,0,A1
+822,listen,verb,0,0,A1
+823,hear,verb,0,0,A1
+824,see,verb,0,0,A1
+825,look,verb,0,0,A1
+826,speak,verb,0,0,A1
+827,talk,verb,0,0,A1
+828,say,verb,0,0,A1
+829,tell,verb,0,0,A1
+830,ask,verb,0,0,A1
+831,reply,verb,0,0,A1
+832,call,verb,0,0,A1
+833,meet,verb,0,0,A1
+834,leave,verb,0,0,A1
+835,arrive,verb,0,0,A1
+836,stay,verb,0,0,A2
+837,live,verb,0,0,A1
+838,move,verb,0,0,B1
+839,walk,verb,0,0,A1
+840,run,verb,0,0,A1
+841,drive,verb,0,0,A1
+842,ride,verb,0,0,A1
+843,fly,verb,0,0,A1
+844,sit,verb,0,0,A1
+845,stand,verb,0,0,A1
+846,lie,verb,0,0,B1
+847,sleep,verb,0,0,A1
+848,wake,verb,0,0,B1
+849,eat,verb,0,0,A1
+850,drink,verb,0,0,A1
+851,cook,verb,0,0,A1
+852,wash,verb,0,0,A1
+853,wear,verb,0,0,A1
+854,buy,verb,0,0,A1
+855,sell,verb,0,0,A1
+856,pay,verb,0,0,A1
+857,spend,verb,0,0,A1
+858,save,verb,0,0,B1
+859,borrow,verb,0,0,B1
+860,lend,verb,0,0,B1
+861,find,verb,0,0,A1
+862,lose,verb,0,0,A2
+863,bring,verb,0,0,A1
+864,carry,verb,0,0,A1
+865,send,verb,0,0,A1
+866,receive,verb,0,0,B1
+867,use,verb,0,0,A1
+868,try,verb,0,0,A1
+869,start,verb,0,0,A1
+870,begin,verb,0,0,A1
+871,finish,verb,0,0,A1
+872,stop,verb,0,0,A1
+873,wait,verb,0,0,A1
+874,work,verb,0,0,A1
+875,play,verb,0,0,A1
+876,rest,verb,0,0,B1
+877,relax,verb,0,0,B1
+878,enjoy,verb,0,0,A1
+879,choose,verb,0,0,A1
+880,decide,verb,0,0,A1
+881,agree,verb,0,0,A2
+882,disagree,verb,0,0,B1
+883,explain,verb,0,0,A2
+884,show,verb,0,0,A1
+885,check,verb,0,0,A2
+886,fix,verb,0,0,B1
+887,repair,verb,0,0,B1
+888,break,verb,0,0,A1
+889,build,verb,0,0,A2
+890,create,verb,0,0,B1
+891,cut,verb,0,0,A1
+892,add,verb,0,0,A1
+893,remove,verb,0,0,B1
+894,turn,verb,0,0,A1
+895,follow,verb,0,0,B1
+896,lead,verb,0,0,B1
+897,hold,verb,0,0,B1
+898,push,verb,0,0,B1
+899,pull,verb,0,0,B1
+900,pick,verb,0,0,B1
+901,drop,verb,0,0,B1
+902,throw,verb,0,0,B1
+903,catch,verb,0,0,B1
+904,reach,verb,0,0,B1
+905,pass,verb,0,0,B1
+906,return,verb,0,0,B1
+907,accept,verb,0,0,B1
+908,refuse,verb,0,0,B1
+909,allow,verb,0,0,B1
+910,invite,verb,0,0,A1
+911,join,verb,0,0,A1
+912,visit,verb,0,0,A1
+913,miss,verb,0,0,A1
+914,hope,verb,0,0,A1
+915,wish,verb,0,0,B1
+916,expect,verb,0,0,B1
+917,prefer,verb,0,0,B1
+918,seem,verb,0,0,B1
+919,feel,verb,0,0,A1
+920,become,verb,0,0,A1
+921,grow,verb,0,0,B1
+922,improve,verb,0,0,B1
+923,reduce,verb,0,0,B1
+924,increase,verb,0,0,B1
+925,continue,verb,0,0,B1
+926,prepare,verb,0,0,B1
+927,practice,verb,0,0,A1
+928,repeat,verb,0,0,A2
+929,review,verb,0,0,B1
+930,describe,verb,0,0,A1
+931,compare,verb,0,0,B1
+932,consider,verb,0,0,B1
+933,include,verb,0,0,B1
+934,provide,verb,0,0,B1
+935,support,verb,0,0,B1
+936,protect,verb,0,0,B1
+937,avoid,verb,0,0,B1
+938,notice,verb,0,0,B1
+939,realize,verb,0,0,B1
+940,imagine,verb,0,0,B1
+941,remind,verb,0,0,B1
+942,promise,verb,0,0,B1
+943,apologize,verb,0,0,B1
+944,thank,verb,0,0,A1
+945,celebrate,verb,0,0,B1
+946,cancel,verb,0,0,B1
+947,book,verb,0,0,A1
+948,order,verb,0,0,A1
+949,deliver,verb,0,0,B1
+950,pack,verb,0,0,A2
+951,print,verb,0,0,A2
+952,download,verb,0,0,A2
+953,upload,verb,0,0,B1
+954,click,verb,0,0,A2
+955,search,verb,0,0,A2
+956,share,verb,0,0,A2
+957,connect,verb,0,0,B1
+958,charge,verb,0,0,B1
+959,delete,verb,0,0,B1
+960,copy,verb,0,0,A2
+961,paste,verb,0,0,B1
+962,I,pronoun,0,0,A1
+963,you,pronoun,0,0,A1
+964,he,pronoun,0,0,A1
+965,she,pronoun,0,0,A1
+966,it,pronoun,0,0,A1
+967,we,pronoun,0,0,A1
+968,they,pronoun,0,0,A1
+969,me,pronoun,0,0,A1
+970,him,pronoun,0,0,A1
+971,her,pronoun,0,0,A1
+972,us,pronoun,0,0,A1
+973,them,pronoun,0,0,A1
+974,mine,pronoun,0,0,A1
+975,yours,pronoun,0,0,A1
+976,someone,pronoun,0,0,A2
+977,anyone,pronoun,0,0,A2
+978,everyone,pronoun,0,0,A1
+979,nobody,pronoun,0,0,A2
+980,something,pronoun,0,0,A1
+981,anything,pronoun,0,0,A2
+982,everything,pronoun,0,0,A1
+983,nothing,pronoun,0,0,A2
+984,myself,pronoun,0,0,B1
+985,yourself,pronoun,0,0,B1
+986,my,determiner,0,0,A1
+987,your,determiner,0,0,A1
+988,his,determiner,0,0,A1
+989,our,determiner,0,0,A1
+990,their,determiner,0,0,A1
+991,this,determiner,0,0,A1
+992,that,determiner,0,0,A1
+993,these,determiner,0,0,A1
+994,those,determiner,0,0,A1
+995,a,determiner,0,0,A1
+996,an,determiner,0,0,A1
+997,the,determiner,0,0,A1
+998,some,determiner,0,0,A1
+999,any,determiner,0,0,A1
+1000,every,determiner,0,0,A1
+1001,each,determiner,0,0,B1
+1002,all,determiner,0,0,A1
+1003,both,determiner,0,0,A2
+1004,many,determiner,0,0,A1
+1005,much,determiner,0,0,A1
+1006,few,determiner,0,0,B1
+1007,several,determiner,0,0,B1
+1008,another,determiner,0,0,A1
+1009,enough,determiner,0,0,A2
+1010,in,preposition,0,0,A1
+1011,on,preposition,0,0,A1
+1012,at,preposition,0,0,A1
+1013,to,preposition,0,0,A1
+1014,from,preposition,0,0,A1
+1015,with,preposition,0,0,A1
+1016,without,preposition,0,0,A2
+1017,for,preposition,0,0,A1
+1018,about,preposition,0,0,A1
+1019,of,preposition,0,0,A1
+1020,by,preposition,0,0,A1
+1021,under,preposition,0,0,A1
+1022,over,preposition,0,0,A1
+1023,above,preposition,0,0,A2
+1024,below,preposition,0,0,A2
+1025,between,preposition,0,0,A1
+1026,among,preposition,0,0,B1
+1027,near,preposition,0,0,A1
+1028,behind,preposition,0,0,A1
+1029,beside,preposition,0,0,A2
+1030,across,preposition,0,0,A2
+1031,through,preposition,0,0,B1
+1032,into,preposition,0,0,A2
+1033,during,preposition,0,0,B1
+1034,before,preposition,0,0,A1
+1035,after,preposition,0,0,A1
+1036,until,preposition,0,0,B1
+1037,since,preposition,0,0,B1
+1038,and,conjunction,0,0,A1
+1039,or,conjunction,0,0,A1
+1040,but,conjunction,0,0,A1
+1041,because,conjunction,0,0,A1
+1042,so,conjunction,0,0,A1
+1043,if,conjunction,0,0,A2
+1044,although,conjunction,0,0,B1
+1045,while,conjunction,0,0,B1
+1046,unless,conjunction,0,0,B1
+1047,whether,conjunction,0,0,B1
+1048,not,adverb,0,0,A1
+1049,very,adverb,0,0,A1
+1050,really,adverb,0,0,A1
+1051,quite,adverb,0,0,A2
+1052,too,adverb,0,0,A1
+1053,also,adverb,0,0,A1
+1054,only,adverb,0,0,A1
+1055,just,adverb,0,0,A2
+1056,even,adverb,0,0,B1
+1057,still,adverb,0,0,B1
+1058,already,adverb,0,0,B1
+1059,yet,adverb,0,0,B1
+1060,again,adverb,0,0,A1
+1061,always,adverb,0,0,A1
+1062,usually,adverb,0,0,A1
+1063,often,adverb,0,0,A1
+1064,sometimes,adverb,0,0,A1
+1065,rarely,adverb,0,0,B1
+1066,never,adverb,0,0,A1
+1067,here,adverb,0,0,A1
+1068,there,adverb,0,0,A1
+1069,everywhere,adverb,0,0,A2
+1070,now,adverb,0,0,A1
+1071,soon,adverb,0,0,A1
+1072,later,adverb,0,0,A1
+1073,today,adverb,0,0,A1
+1074,tomorrow,adverb,0,0,A1
+1075,yesterday,adverb,0,0,A1
+1076,tonight,adverb,0,0,A1
+1077,together,adverb,0,0,A1
+1078,apart,adverb,0,0,B1
+1079,quickly,adverb,0,0,A1
+1080,slowly,adverb,0,0,A1
+1081,carefully,adverb,0,0,B1
+1082,easily,adverb,0,0,B1
+1083,probably,adverb,0,0,B1
+1084,maybe,adverb,0,0,A1
+1085,perhaps,adverb,0,0,B1
+1086,actually,adverb,0,0,B1
+1087,especially,adverb,0,0,B1
+1088,almost,adverb,0,0,B1
+1089,nearly,adverb,0,0,B1
+1090,exactly,adverb,0,0,B1
+1091,finally,adverb,0,0,B1
+1092,immediately,adverb,0,0,B1
+1093,who,adverb / pronoun,0,0,A1
+1094,what,adverb / pronoun,0,0,A1
+1095,which,adverb / pronoun,0,0,A1
+1096,whose,adverb / pronoun,0,0,A2
+1097,where,adverb / pronoun,0,0,A1
+1098,when,adverb / pronoun,0,0,A1
+1099,why,adverb / pronoun,0,0,A1
+1100,how,adverb / pronoun,0,0,A1
+1101,can,modal verb,0,0,A1
+1102,could,modal verb,0,0,A1
+1103,may,modal verb,0,0,B1
+1104,might,modal verb,0,0,B1
+1105,must,modal verb,0,0,B1
+1106,should,modal verb,0,0,B1
+1107,will,modal verb,0,0,A1
+1108,would,modal verb,0,0,B1
+1109,time,noun,0,0,A1
+1110,second,noun,0,0,A1
+1111,minute,noun,0,0,A1
+1112,hour,noun,0,0,A1
+1113,day,noun,0,0,A1
+1114,week,noun,0,0,A1
+1115,month,noun,0,0,A1
+1116,year,noun,0,0,A1
+1117,morning,noun,0,0,A1
+1118,afternoon,noun,0,0,A1
+1119,evening,noun,0,0,A1
+1120,night,noun,0,0,A1
+1121,noon,noun,0,0,B1
+1122,midnight,noun,0,0,B1
+1123,weekend,noun,0,0,A1
+1124,holiday,noun,0,0,A1
+1125,vacation,noun,0,0,A1
+1126,birthday,noun,0,0,A1
+1127,anniversary,noun,0,0,B1
+1128,date,noun,0,0,A1
+1129,calendar,noun,0,0,A2
+1130,season,noun,0,0,A2
+1131,spring,noun,0,0,A1
+1132,summer,noun,0,0,A1
+1133,autumn,noun,0,0,A1
+1134,winter,noun,0,0,A1
+1135,past,noun,0,0,A2
+1136,future,noun,0,0,A2
+1137,money,noun,0,0,A1
+1138,cash,noun,0,0,A2
+1139,credit card,noun,0,0,A1
+1140,debit card,noun,0,0,B1
+1141,coin,noun,0,0,B1
+1142,cent,noun,0,0,A1
+1143,dollar,noun,0,0,A1
+1144,name,noun,0,0,A1
+1145,age,noun,0,0,A1
+1146,number,noun,0,0,A1
+1147,person,noun,0,0,A1
+1148,people,noun,0,0,A1
+1149,child,noun,0,0,A1
+1150,adult,noun,0,0,B1
+1151,baby,noun,0,0,A1
+1152,family,noun,0,0,A1
+1153,home,noun,0,0,A1
+1154,house,noun,0,0,A1
+1155,apartment,noun,0,0,A1
+1156,building,noun,0,0,A1
+1157,elevator,noun,0,0,A2
+1158,street,noun,0,0,A1
+1159,road,noun,0,0,A1
+1160,city,noun,0,0,A1
+1161,country,noun,0,0,A1
+1162,world,noun,0,0,A1
+1163,language,noun,0,0,A1
+1164,English,noun,0,0,A1
+1165,Chinese,noun,0,0,A1
+1166,Mandarin,noun,0,0,B1
+1167,news,noun,0,0,A1
+1168,information,noun,0,0,A1
+1169,advice,noun,0,0,B1
+1170,reason,noun,0,0,B1
+1171,way,noun,0,0,A1
+1172,thing,noun,0,0,A1
+1173,place,noun,0,0,A1
+1174,part,noun,0,0,B1
+1175,side,noun,0,0,B1
+1176,end,noun,0,0,B1
+1177,break the ice,verb phrase,1,0,B2
+1178,a piece of cake,noun phrase,1,0,B1
+1179,under the weather,adjective phrase,1,0,B2
+1180,once in a blue moon,adverb phrase,1,0,B2
+1181,spill the beans,verb phrase,1,0,B2
+1182,let the cat out of the bag,verb phrase,1,0,B2
+1183,hit the nail on the head,verb phrase,1,0,C1
+1184,cost an arm and a leg,verb phrase,1,0,B2
+1185,the ball is in your court,clause,1,0,C1
+1186,on the same page,adjective phrase,1,0,B2
+1187,see eye to eye,verb phrase,1,0,B2
+1188,get cold feet,verb phrase,1,0,C1
+1189,give someone a hand,verb phrase,1,0,B1
+1190,keep an eye on,verb phrase,1,0,B1
+1191,keep your fingers crossed,verb phrase,1,0,B2
+1192,hang in there,verb phrase,1,0,B1
+1193,pull yourself together,verb phrase,1,0,B2
+1194,get the hang of,verb phrase,1,0,B2
+1195,learn the ropes,verb phrase,1,0,C1
+1196,cut corners,verb phrase,1,0,C1
+1197,go the extra mile,verb phrase,1,0,B2
+1198,back to square one,adverb phrase,1,0,C1
+1199,back to the drawing board,adverb phrase,1,0,C1
+1200,call it a day,verb phrase,1,0,B2
+1201,burn the midnight oil,verb phrase,1,0,C1
+1202,burn out,phrasal verb,1,0,B2
+1203,on the go,adjective phrase,1,0,B2
+1204,in the long run,adverb phrase,1,0,B2
+1205,at the last minute,adverb phrase,1,0,B1
+1206,better late than never,proverb,1,0,B1
+1207,time flies,clause,1,0,B1
+1208,around the clock,adverb phrase,1,0,B2
+1209,in no time,adverb phrase,1,0,B1
+1210,so far so good,clause,1,0,B1
+1211,out of the blue,adverb phrase,1,0,B2
+1212,a blessing in disguise,noun phrase,1,0,C1
+1213,every cloud has a silver lining,proverb,1,0,B2
+1214,the best of both worlds,noun phrase,1,0,B2
+1215,a win-win situation,noun phrase,1,0,B2
+1216,kill two birds with one stone,verb phrase,1,0,B2
+1217,put all your eggs in one basket,verb phrase,1,0,C1
+1218,play it safe,verb phrase,1,0,B2
+1219,take a rain check,verb phrase,1,0,C1
+1220,sit on the fence,verb phrase,1,0,C1
+1221,on the fence,adjective phrase,1,0,C1
+1222,up in the air,adjective phrase,1,0,B2
+1223,in a nutshell,adverb phrase,1,0,B2
+1224,to make a long story short,discourse phrase,1,0,B2
+1225,beat around the bush,verb phrase,1,0,B2
+1226,get straight to the point,verb phrase,1,0,B1
+1227,read between the lines,verb phrase,1,0,C1
+1228,take it with a grain of salt,verb phrase,1,0,C1
+1229,easier said than done,adjective phrase,1,0,B1
+1230,actions speak louder than words,proverb,1,0,B2
+1231,practice makes perfect,proverb,1,0,B1
+1232,"no pain, no gain",proverb,1,0,B1
+1233,when in Rome,proverb fragment,1,0,B2
+1234,better safe than sorry,proverb,1,0,B1
+1235,the early bird catches the worm,proverb,1,0,B2
+1236,do not judge a book by its cover,proverb,1,0,B2
+1237,a tough nut to crack,noun phrase,1,0,C1
+1238,a long shot,noun phrase,1,0,C1
+1239,a no-brainer,noun phrase,1,0,C1
+1240,food for thought,noun phrase,1,0,C1
+1241,a wake-up call,noun phrase,1,0,B2
+1242,the tip of the iceberg,noun phrase,1,0,B2
+1243,the elephant in the room,noun phrase,1,0,C1
+1244,in hot water,adjective phrase,1,0,B2
+1245,in the same boat,adjective phrase,1,0,B2
+1246,out of the woods,adjective phrase,1,0,C1
+1247,hit a wall,verb phrase,1,0,B2
+1248,get back on track,verb phrase,1,0,B2
+1249,on the right track,adjective phrase,1,0,B2
+1250,go with the flow,verb phrase,1,0,B2
+1251,take it easy,verb phrase,1,0,B1
+1252,take your time,verb phrase,1,0,A2
+1253,make yourself at home,verb phrase,1,0,A2
+1254,feel at home,verb phrase,1,0,B1
+1255,break a leg,imperative phrase,1,0,B2
+1256,on cloud nine,adjective phrase,1,0,B2
+1257,over the moon,adjective phrase,1,0,B2
+1258,down in the dumps,adjective phrase,1,0,C1
+1259,a weight off my shoulders,noun phrase,1,0,C1
+1260,butterflies in my stomach,noun phrase,1,0,B2
+1261,lose your temper,verb phrase,1,0,B1
+1262,keep your cool,verb phrase,1,0,B2
+1263,drive me crazy,verb phrase,1,0,B1
+1264,get on my nerves,verb phrase,1,0,B2
+1265,pull my leg,verb phrase,1,0,B2
+1266,ring a bell,verb phrase,1,0,B2
+1267,slip my mind,verb phrase,1,0,B2
+1268,off the top of my head,adverb phrase,1,0,C1
+1269,on the tip of my tongue,adjective phrase,1,0,B2
+1270,by the book,adverb phrase,1,0,C1
+1271,rule of thumb,noun phrase,1,0,C1
+1272,word of mouth,noun phrase,1,0,B2
+1273,from scratch,adverb phrase,1,0,B2
+1274,hands down,adverb phrase,1,0,C1
+1275,out of hand,adjective phrase,1,0,B2
+1276,make ends meet,verb phrase,1,0,C1
+1277,cool,adjective,0,1,A2
+1278,awesome,adjective,0,1,B1
+1279,chill,verb,0,1,B1
+1280,chill out,phrasal verb,0,1,B1
+1281,hang out,phrasal verb,0,1,B1
+1282,hangry,adjective,0,1,B2
+1283,nope,interjection,0,1,A2
+1284,yep,interjection,0,1,A2
+1285,yeah,interjection,0,1,A1
+1286,nah,interjection,0,1,A2
+1287,gonna,informal contraction,0,1,A2
+1288,wanna,informal contraction,0,1,A2
+1289,gotta,informal contraction,0,1,B1
+1290,kinda,adverb,0,1,B1
+1291,sorta,adverb,0,1,B1
+1292,lemme,informal contraction,0,1,B1
+1293,gimme,informal contraction,0,1,B1
+1294,dunno,informal contraction,0,1,B1
+1295,gotcha,interjection,0,1,B1
+1296,my bad,interjection,0,1,B1
+1297,no worries,interjection,0,1,A2
+1298,no biggie,interjection,0,1,B2
+1299,no sweat,interjection,0,1,B2
+1300,you bet,interjection,0,1,B1
+1301,for real,adverb phrase,0,1,B1
+1302,no way,interjection,0,1,B1
+1303,way to go,interjection,0,1,B1
+1304,you rock,clause,0,1,B2
+1305,nailed it,verb phrase,0,1,B2
+1306,crushed it,verb phrase,0,1,B2
+1307,sweet,adjective / interjection,0,1,B2
+1308,sick,adjective,0,1,C1
+1309,dope,adjective,0,1,C1
+1310,lit,adjective,0,1,C1
+1311,fire,adjective,0,1,C1
+1312,slay,verb,0,1,C1
+1313,GOAT,noun,0,1,B2
+1314,MVP,noun,0,1,B2
+1315,legend,noun,0,1,B2
+1316,vibe,noun,0,1,B2
+1317,vibes,noun,0,1,B2
+1318,low-key,adverb,0,1,C1
+1319,high-key,adverb,0,1,C1
+1320,salty,adjective,0,1,C1
+1321,savage,adjective,0,1,C1
+1322,cringe,adjective,0,1,B2
+1323,cringey,adjective,0,1,B2
+1324,awkward,adjective,0,1,B1
+1325,extra,adjective,0,1,C1
+1326,basic,adjective,0,1,C1
+1327,sus,adjective,0,1,B2
+1328,sketchy,adjective,0,1,C1
+1329,shady,adjective,0,1,C1
+1330,legit,adjective,0,1,B2
+1331,fake,adjective,0,1,B1
+1332,cheesy,adjective,0,1,B2
+1333,corny,adjective,0,1,B2
+1334,lame,adjective,0,1,B2
+1335,bummer,noun,0,1,B2
+1336,bummed,adjective,0,1,B2
+1337,stoked,adjective,0,1,C1
+1338,hyped,adjective,0,1,B2
+1339,pumped,adjective,0,1,B2
+1340,freak out,phrasal verb,0,1,B2
+1341,freaking,adverb,0,1,B2
+1342,sucks,verb,0,1,B2
+1343,crap,noun,0,1,B2
+1344,damn,interjection,0,1,B2
+1345,pissed off,adjective phrase,0,1,B2
+1346,broke,adjective,0,1,B1
+1347,bucks,noun,0,1,B1
+1348,grand,noun,0,1,C1
+1349,rip-off,noun,0,1,B2
+1350,freebie,noun,0,1,B2
+1351,gig,noun,0,1,B2
+1352,side hustle,noun phrase,0,1,C1
+1353,grind,noun,0,1,C1
+1354,crash,verb,0,1,C1
+1355,crash course,noun phrase,0,1,B2
+1356,pull an all-nighter,verb phrase,0,1,C1
+1357,nerd,noun,0,1,B2
+1358,geek,noun,0,1,B2
+1359,newbie,noun,0,1,B1
+1360,noob,noun,0,1,B2
+1361,pro,noun,0,1,B1
+1362,bro,noun,0,1,B1
+1363,dude,noun,0,1,B1
+1364,buddy,noun,0,1,B1
+1365,bestie,noun,0,1,B2
+1366,fam,noun,0,1,C1
+1367,ghost,verb,0,1,C1
+1368,DM,noun / verb,0,1,B2
+1369,selfie,noun,0,1,A2
+1370,LOL,interjection,0,1,B1
+1371,OMG,interjection,0,1,B1
+1372,BTW,discourse marker,0,1,B1
+1373,TBH,discourse marker,0,1,B2
+1374,FOMO,noun,0,1,B2
+1375,flex,verb,0,1,C1
+1376,no cap,adverb phrase,0,1,C1

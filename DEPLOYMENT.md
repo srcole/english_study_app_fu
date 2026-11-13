@@ -80,7 +80,7 @@ all users' rows there does not mean the browser app can see them.
 
    | total | vocabulary | idioms | slang |
    | --- | --- | --- | --- |
-   | 1676 | 1476 | 100 | 100 |
+   | 2576 | 2376 | 100 | 100 |
 
 The seed has already been generated from `chinese_to_english_game.csv`. You do
 not need to import the CSV manually or rename its columns. Re-running the seed
@@ -95,6 +95,13 @@ reimporting the full seed. This migration adds the `cefr_level` column and the
 should show B2: 100, C1: 100, C2: 100. Level labels are editorial estimates;
 see [the dataset notes](VOCABULARY_README.md). Refresh the game after import and
 select **All priorities** to make all the advanced words eligible.
+
+To classify the original entries already in your database, also run
+[`supabase/classify_remaining_cefr.sql`](supabase/classify_remaining_cefr.sql).
+It fills empty levels only and preserves existing assignments. Fresh installs
+using the current full seed already include all classifications. The game's
+CEFR filter supports A1, A2, B1, B2, C1, and C2; redeploy the frontend if your
+current version only offers the three advanced levels.
 
 ## 5. Configure email login in Supabase
 
@@ -189,7 +196,7 @@ and play a round. The app also supports `127.0.0.1`, but if you use it, add
 `http://127.0.0.1:5173/` as a separate allowed redirect URL.
 
 When the variables are missing or still contain the sample placeholders, the app
-shows a 72-entry demo. A connected, signed-in app should load all 1,676 entries,
+shows a 72-entry demo. A connected, signed-in app should load all 2,576 entries,
 although your filters normally show a smaller matching pool. Restart the dev
 server after changing environment variables.
 
@@ -279,7 +286,7 @@ Use the actual production site for these checks:
    link. You should see **Sign out** in the header.
 2. **Auth record:** Supabase **Authentication → Users** should list that account.
 3. **Vocabulary:** open filters and choose **All priorities** and **Include rude /
-   insulting slang** with all topics/types. The matching count should be 1,676.
+   insulting slang** with all topics/types. The matching count should be 2,576.
 4. **Both directions:** play Chinese → English, then English → Chinese. Mixed
    mode randomly selects a direction for each question.
 5. **Feedback:** try a correct answer, a wrong answer, and a skip. Each should show
@@ -341,3 +348,17 @@ and a mocked Supabase email-login/data flow.
 Real email delivery, production Auth redirects, and persistence on your hosted
 Supabase project require your accounts and configuration. Complete the production
 checks above after you deploy.
+
+### Add the second CEFR expansion (900 words)
+
+For an existing database, open **Supabase → SQL Editor → New query**, paste the
+entire contents of `supabase/add_cefr_900.sql`, and click **Run**. It adds 300
+more words each at B2, C1, and C2, with all vocabulary columns. The final query
+should show 300 per level. The import is safe to rerun; ID or duplicate-headword
+conflicts stop the transaction. It leaves earlier vocabulary and game history
+untouched. Refresh the game, open **Fine-tune your fu**, and select one or more CEFR levels
+with all topics/priorities. No schema change or Vercel configuration change is
+needed for an already configured app. New installations use the full seed.
+
+The new batch is also in `cefr_b2_c1_c2_900_additions.csv`. Full collection: 2,576
+entries, including B2: 521, C1: 451, C2: 400. Levels are editorial estimates.

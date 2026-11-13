@@ -1456,22 +1456,31 @@ def append_cefr():
     existing = {r['english'].casefold() for r in ROWS}
     for row in ROWS:
         row['cefr level'] = ''
-    for level in ('B2', 'C1', 'C2'):
-        lines = (ROOT / 'data_tools' / f'cefr_{level.lower()}.txt').read_text(encoding='utf-8').splitlines()
-        assert len(lines) == 100, (level, len(lines))
-        for line in lines:
-            en, zh, ipa, pos, topic, priority, example, translation = line.split('|')
-            assert en.casefold() not in existing, f'Duplicate CEFR headword: {en}'
-            assert ' ' not in en, f'Expected single-word entry: {en}'
-            existing.add(en.casefold())
-            add(en, zh, ipa, '进阶词汇', topic, pos, int(priority), example, translation)
-            ROWS[-1]['cefr level'] = level
+    for prefix, expected in (('cefr_', 100), ('cefr_more_', 300)):
+        for level in ('B2', 'C1', 'C2'):
+            lines = (ROOT / 'data_tools' / f'{prefix}{level.lower()}.txt').read_text(encoding='utf-8').splitlines()
+            assert len(lines) == expected, (level, len(lines))
+            for line in lines:
+                en, zh, ipa, pos, topic, priority, example, translation = line.split('|')
+                assert en.casefold() not in existing, f'Duplicate CEFR headword: {en}'
+                assert ' ' not in en, f'Expected single-word entry: {en}'
+                existing.add(en.casefold())
+                add(en, zh, ipa, '进阶词汇', topic, pos, int(priority), example, translation)
+                ROWS[-1]['cefr level'] = level
 
 
 def main():
     assert GROUP_WORDS == EXAMPLES.keys(), "Missing or unused grouped examples"
     refine_priorities()
     append_cefr()
+    with (ROOT / 'data_tools' / 'original_cefr_levels.csv').open(encoding='utf-8', newline='') as f:
+        original_levels = {int(row['id']): row for row in csv.DictReader(f)}
+    originals = [row for row in ROWS if int(row['id']) <= 1376]
+    assert set(original_levels) == {row['id'] for row in originals}
+    for row in originals:
+        assignment = original_levels[row['id']]
+        assert all(str(row[key]) == assignment[key] for key in ('english', 'part of speech', 'is idiom', 'is slang')), row
+        row['cefr level'] = assignment['cefr level']
     # A word can legitimately have multiple senses/POS (e.g. book).
     keys = [(r['english'].casefold(), r['part of speech'], r['is idiom'], r['is slang']) for r in ROWS]
     assert len(keys) == len(set(keys)), 'Duplicate entry'
@@ -1483,7 +1492,7 @@ def main():
     assert sum(r['is slang'] for r in ROWS) == 100
     for r in ROWS:
         assert all(str(v).strip() for k, v in r.items() if k != 'cefr level'), r
-        assert r['cefr level'] in ('', 'B2', 'C1', 'C2'), r
+        assert r['cefr level'] in ('A1', 'A2', 'B1', 'B2', 'C1', 'C2'), r
         assert 1 <= r['priority'] <= 5
         assert not (r['is idiom'] and r['is slang'])
         assert r['english'].casefold() in r['example sentence in english'].casefold(), r
@@ -1499,7 +1508,11 @@ def main():
     with (ROOT / 'cefr_b2_c1_c2_additions.csv').open('w', encoding='utf-8-sig', newline='') as f:
         writer = csv.DictWriter(f, fieldnames=list(ROWS[0]))
         writer.writeheader()
-        writer.writerows(r for r in ROWS if r['cefr level'])
+        writer.writerows(r for r in ROWS if 1376 < r['id'] <= 1676)
+    with (ROOT / 'cefr_b2_c1_c2_900_additions.csv').open('w', encoding='utf-8-sig', newline='') as f:
+        writer = csv.DictWriter(f, fieldnames=list(ROWS[0]))
+        writer.writeheader()
+        writer.writerows(r for r in ROWS if r['id'] > 1676)
     print(f'Wrote {target.name}: {len(ROWS)} rows')
     print(f'Ordinary entries: {len(ordinary)}; distinct headwords: {len({r["english"].casefold() for r in ordinary})}')
     print(f'Single-token headwords: {len({r["english"].casefold() for r in ordinary if " " not in r["english"]})}')
