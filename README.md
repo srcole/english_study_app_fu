@@ -44,6 +44,11 @@ is submitted; a replay button is always available.
 Open **Voice settings** in the header to choose and preview an English voice,
 adjust speed, or toggle automatic reading. Automatic selection prefers voices
 labeled natural/enhanced/premium, then Google voices, over basic system voices.
+On phones, automatic selection prioritizes installed English voices to avoid
+depending on an online speech service. **Device default English** compatibility
+mode lets the phone choose its own English voice, even with an incomplete voice
+list. Paused engines are resumed on a playback tap; a startup timeout reports
+silent failures with recovery steps rather than leaving the user guessing.
 The default speed is **1×**; older saved settings are migrated to that default
 once. Subsequent voice/speed choices are saved in this browser. You can open
 settings during a round without losing your answer. Available voices depend on

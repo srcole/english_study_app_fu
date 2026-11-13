@@ -1,6 +1,6 @@
 import { useEffect, useRef, useState } from 'react';
 import { ArrowLeft, Headphones, RotateCcw, Volume2, VolumeX } from 'lucide-react';
-import { englishVoices, selectVoice, speakEnglish, stopSpeaking } from '../lib/speech';
+import { DEVICE_VOICE, englishVoices, selectVoice, speakEnglish, stopSpeaking } from '../lib/speech';
 import type { Settings } from '../lib/types';
 
 export function VoiceSettings({ settings, onChange, onClose }: {
@@ -25,7 +25,7 @@ export function VoiceSettings({ settings, onChange, onClose }: {
   }, [supported]);
   const automatic = selectVoice(voices);
   const selected = selectVoice(voices, settings.voiceURI);
-  const missing = settings.voiceURI && !voices.some(voice => voice.voiceURI === settings.voiceURI);
+  const missing = settings.voiceURI && settings.voiceURI !== DEVICE_VOICE && !voices.some(voice => voice.voiceURI === settings.voiceURI);
   function change(patch: Partial<Settings>) {
     stopSpeaking(); setError(''); onChange(patch);
   }
@@ -37,12 +37,13 @@ export function VoiceSettings({ settings, onChange, onClose }: {
       <label htmlFor="english-voice">English voice</label>
       <select id="english-voice" value={settings.voiceURI} disabled={!supported} onChange={event => change({ voiceURI: event.target.value })}>
         <option value="">Automatic{automatic ? ` — ${automatic.name} (${automatic.lang})` : ' — best available English voice'}</option>
+        <option value={DEVICE_VOICE}>Device default English · compatibility mode</option>
         {missing && <option value={settings.voiceURI}>Saved voice unavailable — using automatic</option>}
         {voices.map(voice => <option key={voice.voiceURI} value={voice.voiceURI}>{voice.name} · {voice.lang}{voice.localService ? '' : ' · online'}</option>)}
       </select>
-      <p className="small-note">Automatic prefers natural or enhanced voices when available. Preview a few to find your favorite. Online voices may need an internet connection.</p>
+      <p className="small-note">Automatic prefers an installed English voice on phones, and natural or enhanced voices on desktop. If playback is silent, try Device default English. Online voices need an internet connection.</p>
       {missing && <p className="notice" role="status">Your saved voice isn’t available in this browser. We’ll use {automatic?.name ?? 'the automatic voice'} until it returns.</p>}
-      {!supported ? <p className="notice" role="status">This browser doesn’t support speech playback. You can still read the pronunciation and examples.</p> : !voices.length && <p className="notice" role="status">No English voices are available yet. Refresh the list, or add an English voice in your device’s speech settings.</p>}
+      {!supported ? <p className="notice" role="status">This browser doesn’t support speech playback. You can still read the pronunciation and examples.</p> : !voices.length && <p className="notice" role="status">Your browser hasn’t listed any English voices yet. Try Preview voice using Device default English, or refresh the list.</p>}
       <button className="text-button" onClick={refresh} disabled={!supported}><RotateCcw size={14} /> Refresh voice list</button>
       <label htmlFor="voice-speed">Speaking speed</label>
       <select id="voice-speed" value={settings.rate} onChange={event => change({ rate: Number(event.target.value) })}>
