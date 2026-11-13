@@ -2,13 +2,15 @@ import type { Question, Settings, Word } from './types';
 
 export const DEFAULT_SETTINGS: Settings = {
   direction: 'zh-en', kind: 'all', maxPriority: 2, count: 10,
-  category: '', autoSpeak: true, rate: 1, voiceURI: '', speechVersion: 1, includeRude: false,
+  category: '', cefrLevel: 'all', autoSpeak: true, rate: 1, voiceURI: '', speechVersion: 1, includeRude: false,
 };
 
 export function filterWords(words: Word[], settings: Settings): Word[] {
   return words.filter(word =>
     word.priority <= settings.maxPriority &&
     (!settings.category || word.category_l1 === settings.category) &&
+    (!settings.cefrLevel || settings.cefrLevel === 'all' ||
+      (settings.cefrLevel === 'unrated' ? !word.cefr_level : word.cefr_level === settings.cefrLevel)) &&
     (settings.includeRude || !/粗鲁|粗话|贬义/.test(word.chinese)) &&
     (settings.kind === 'all' ||
       (settings.kind === 'words' && !word.is_idiom && !word.is_slang) ||
@@ -75,6 +77,7 @@ export function loadSettings(): Settings {
       maxPriority: [1, 2, 3, 4, 5].includes(raw.maxPriority) ? raw.maxPriority : 2,
       count: [5, 10, 20, 30, 50, 100].includes(raw.count) ? raw.count : 10,
       category: typeof raw.category === 'string' ? raw.category : '',
+      cefrLevel: ['all', 'B2', 'C1', 'C2', 'unrated'].includes(raw.cefrLevel) ? raw.cefrLevel : 'all',
       autoSpeak: typeof raw.autoSpeak === 'boolean' ? raw.autoSpeak : true,
       // Upgrade existing installations from the old slow default once.
       rate: raw.speechVersion === 1 && [0.7, 0.85, 1].includes(raw.rate) ? raw.rate : 1,

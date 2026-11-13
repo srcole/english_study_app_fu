@@ -30,6 +30,20 @@ describe('learning filters and question selection', () => {
     expect(questions).toHaveLength(3);
     expect(new Set(questions.map(q => q.word.id)).size).toBe(3);
   });
+  it('filters exact CEFR levels, preserves unrated entries, and combines with priority and topic', () => {
+    const pool: Word[] = [word, { ...word, id: 10, cefr_level: 'B2', priority: 2 },
+      { ...word, id: 11, cefr_level: 'C1', priority: 3 },
+      { ...word, id: 12, cefr_level: 'C2', priority: 5 },
+      { ...word, id: 13, cefr_level: null }];
+    const settings = { ...DEFAULT_SETTINGS, maxPriority: 5 };
+    expect(filterWords(pool, settings)).toHaveLength(5);
+    for (const [level, id] of [['B2', 10], ['C1', 11], ['C2', 12]] as const) {
+      expect(filterWords(pool, { ...settings, cefrLevel: level }).map(w => w.id)).toEqual([id]);
+    }
+    expect(filterWords(pool, { ...settings, cefrLevel: 'unrated' }).map(w => w.id)).toEqual([1, 13]);
+    expect(filterWords(pool, { ...settings, cefrLevel: 'C1', maxPriority: 2 })).toEqual([]);
+    expect(filterWords(pool, { ...settings, cefrLevel: 'C1', category: '健康' })).toEqual([]);
+  });
   it('supports both directions in a mixed round and empty pools', () => {
     const questions = makeQuestions(words, { ...DEFAULT_SETTINGS, direction: 'mixed' }, () => 0.2);
     expect(questions.every(q => q.direction === 'zh-en')).toBe(true);

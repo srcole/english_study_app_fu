@@ -20,6 +20,7 @@ export interface Settings {
   maxPriority: number;
   count: number;
   category: string;
+  cefrLevel: 'all' | 'B2' | 'C1' | 'C2' | 'unrated';
   autoSpeak: boolean;
   rate: number;
   voiceURI: string;

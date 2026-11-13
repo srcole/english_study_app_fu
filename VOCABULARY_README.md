@@ -52,7 +52,9 @@ in a transaction. Re-running updates these same entries. Conflicting existing ID
 or matching headwords under other IDs stop the import with an error. The final
 query should return 100 each for B2, C1, and C2. The existing game loads the new
 words after a refresh; choose **All priorities** and **All topics** to include
-the entire expansion. There is not yet a separate CEFR filter in the game.
+the entire expansion. Use **Fine-tune your fu → CEFR level** to practice B2, C1, or C2 only.
+Selecting a level initially includes all priorities; other filters still apply.
+The Unrated option selects the original collection, whose levels are unassigned.
 
 Priority is an editorial estimate of likely encounters in everyday conversation,
 travel, work, study, and online communication, not a measured corpus-frequency rank:
